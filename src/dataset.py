@@ -18,6 +18,9 @@ class EntityDataset:
 
         ids = []
         target_label = []
+        target_position = []
+
+        mask_id = config.TOKENIZER.encode("[MASK]", add_special_tokens=False)
 
         for i, s in enumerate(text):
             inputs = config.TOKENIZER.encode(
@@ -34,6 +37,10 @@ class EntityDataset:
 
         ids = [101] + ids + [102]
         target_label = [0] + target_label + [0]
+        try:
+            target_position = ids.index(mask_id) + 1 # index of [MASK] + 1 as we add [CLS]
+        except:
+            target_position = 0
 
         mask = [1] * len(ids)
         token_type_ids = [0] * len(ids)
@@ -50,4 +57,5 @@ class EntityDataset:
             "mask": torch.tensor(mask, dtype=torch.long),
             "token_type_ids": torch.tensor(token_type_ids, dtype=torch.long),
             "target_label": torch.tensor(target_label, dtype=torch.long),
+            "target_position": torch.tensor(target_position, dtype=torch.int)
         }

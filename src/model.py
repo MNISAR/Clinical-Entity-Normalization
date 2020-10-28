@@ -24,12 +24,16 @@ class EntityModel(nn.Module):
         self.bert_drop_1 = nn.Dropout(0.3)
         self.out_tag = nn.Linear(768, self.num_labels)
     
-    def forward(self, ids, mask, token_type_ids, target_label):
+    def forward(self, ids, mask, token_type_ids, target_label, target_position):
         o1, _ = self.bert(ids, attention_mask=mask, token_type_ids=token_type_ids)
 
-        bo_tag = self.bert_drop_1(o1)
+        # we only consider the embedding of the masked o/p
+        o1_masked_token = o1[target_position]
 
-        tag = self.out_tag(bo_tag)
+        # bo_tag = self.bert_drop_1(o1_masked_token)
+
+        # tag = self.out_tag(bo_tag)
+        tag = self.out_tag(o1_masked_token)
 
         loss = loss_fn(tag, target_label, mask, self.num_labels)
 

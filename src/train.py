@@ -18,6 +18,7 @@ from model import EntityModel
 
 from reading_data import reading_files
 from create_dataset import create_dataset
+
 def process_data(data_path):
     data, CUI = reading_files(config.TRAINING_FILE)
     dataset = create_dataset(data)

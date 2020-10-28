@@ -1,9 +1,9 @@
 import transformers
 
-MAX_LEN = 128
+MAX_LEN = 256
 TRAIN_BATCH_SIZE = 32
 VALID_BATCH_SIZE = 8
-EPOCHS = 10
+EPOCHS = 1
 BASE_MODEL_PATH = "bert-base-uncased"
 MODEL_PATH = "model.bin"
 # TRAINING_FILE = "../input/ner_dataset.csv"
