@@ -16,46 +16,41 @@ import engine
 from model import EntityModel
 
 
+from reading_data import reading_files
+from create_dataset import create_dataset
 def process_data(data_path):
-    df = pd.read_csv(data_path, encoding="latin-1")
-    df.loc[:, "Sentence #"] = df["Sentence #"].fillna(method="ffill")
+    data, CUI = reading_files(config.TRAINING_FILE)
+    dataset = create_dataset(data)
 
-    enc_pos = preprocessing.LabelEncoder()
-    enc_tag = preprocessing.LabelEncoder()
+    data = dataset.masked_sentence.to_numpy()
+    label = dataset.mention.to_numpy()
 
-    df.loc[:, "POS"] = enc_pos.fit_transform(df["POS"])
-    df.loc[:, "Tag"] = enc_tag.fit_transform(df["Tag"])
+    enc_label = preprocessing.LabelEncoder()
 
-    sentences = df.groupby("Sentence #")["Word"].apply(list).values
-    pos = df.groupby("Sentence #")["POS"].apply(list).values
-    tag = df.groupby("Sentence #")["Tag"].apply(list).values
-    return sentences, pos, tag, enc_pos, enc_tag
+    label = enc_label.fit_transform(label)
 
+    return data, label, enc_label
 
 if __name__ == "__main__":
-    sentences, pos, tag, enc_pos, enc_tag = process_data(config.TRAINING_FILE)
+    sentences, label, enc_label = process_data(config.TRAINING_FILE)
     
     meta_data = {
-        "enc_pos": enc_pos,
-        "enc_tag": enc_tag
+        "enc_label": enc_label
     }
 
     joblib.dump(meta_data, "meta.bin")
 
-    num_pos = len(list(enc_pos.classes_))
-    num_tag = len(list(enc_tag.classes_))
+    num_label = len(list(enc_label.classes_))
 
     (
         train_sentences,
         test_sentences,
-        train_pos,
-        test_pos,
-        train_tag,
-        test_tag
-    ) = model_selection.train_test_split(sentences, pos, tag, random_state=42, test_size=0.1)
+        train_label,
+        test_label,
+    ) = model_selection.train_test_split(sentences, label, random_state=42, test_size=0.1)
 
     train_dataset = dataset.EntityDataset(
-        texts=train_sentences, pos=train_pos, tags=train_tag
+        texts=train_sentences, labels=train_label
     )
 
     train_data_loader = torch.utils.data.DataLoader(
@@ -63,7 +58,7 @@ if __name__ == "__main__":
     )
 
     valid_dataset = dataset.EntityDataset(
-        texts=test_sentences, pos=test_pos, tags=test_tag
+        texts=test_sentences, labels=test_label
     )
 
     valid_data_loader = torch.utils.data.DataLoader(
@@ -71,7 +66,7 @@ if __name__ == "__main__":
     )
 
     device = torch.device("cuda")
-    model = EntityModel(num_tag=num_tag, num_pos=num_pos)
+    model = EntityModel(num_labels=num_label)
     model.to(device)
 
     param_optimizer = list(model.named_parameters())

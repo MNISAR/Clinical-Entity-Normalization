@@ -17,28 +17,21 @@ def loss_fn(output, target, mask, num_labels):
 
 
 class EntityModel(nn.Module):
-    def __init__(self, num_tag, num_pos):
+    def __init__(self, num_labels):
         super(EntityModel, self).__init__()
-        self.num_tag = num_tag
-        self.num_pos = num_pos
+        self.num_labels = num_labels
         self.bert = transformers.BertModel.from_pretrained(config.BASE_MODEL_PATH)
         self.bert_drop_1 = nn.Dropout(0.3)
-        self.bert_drop_2 = nn.Dropout(0.3)
-        self.out_tag = nn.Linear(768, self.num_tag)
-        self.out_pos = nn.Linear(768, self.num_pos)
+        self.out_tag = nn.Linear(768, self.num_labels)
     
-    def forward(self, ids, mask, token_type_ids, target_pos, target_tag):
+    def forward(self, ids, mask, token_type_ids, target_label):
         o1, _ = self.bert(ids, attention_mask=mask, token_type_ids=token_type_ids)
 
         bo_tag = self.bert_drop_1(o1)
-        bo_pos = self.bert_drop_2(o1)
 
         tag = self.out_tag(bo_tag)
-        pos = self.out_pos(bo_pos)
 
-        loss_tag = loss_fn(tag, target_tag, mask, self.num_tag)
-        loss_pos = loss_fn(pos, target_pos, mask, self.num_pos)
+        loss = loss_fn(tag, target_label, mask, self.num_labels)
 
-        loss = (loss_tag + loss_pos) / 2
 
-        return tag, pos, loss
+        return tag, loss
