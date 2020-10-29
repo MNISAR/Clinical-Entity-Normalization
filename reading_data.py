@@ -1,7 +1,7 @@
 import os
 
 
-def reading_files(base_directory = "train"):
+def reading_files(base_directory = "train", train_file_list="train_file_list", train_norm="train_norm"):
     """
     This method takes a base directory as input and 
     maps the norm fles and notes to a array and dictionary.
@@ -12,14 +12,14 @@ def reading_files(base_directory = "train"):
 
     # reading train_file_list.txt to get list of training notes files
     files = []
-    with open("{}/train_file_list.txt".format(base_directory)) as f:
+    with open("{}/{}.txt".format(base_directory, train_file_list)) as f:
         for line in f.readlines():
             files.append(line.strip())
     print("Total number of files: ", len(files))
 
     # reading list of CUIs
     CUI = {}
-    with open("{}/train_norm.txt".format(base_directory)) as f:
+    with open("{}/{}.txt".format(base_directory, train_norm)) as f:
         for line in f.readlines():
             CUI[line.strip()] = set()
 
