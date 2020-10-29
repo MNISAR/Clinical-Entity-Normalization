@@ -25,7 +25,8 @@ def create_dataset(data):
                     'original_sentence': note,
                     'masked_sentence': note[:st] + "[MASK]" + note[end+1:],
                     'mention': note[st:end+1],
-                    'position': st
+                    'position_start': st,
+                    'position_end': end
                     }
                 )
     return pd.DataFrame(dataset)
