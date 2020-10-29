@@ -2,7 +2,11 @@ import os, sys
 import requests, json
 import lxml.html as lh
 from lxml.html import fromstring
-UMLS_API_KEY = "-----------------------------"  # put your UMLS key
+
+import json
+with open("credentials.json") as f:
+    credentials = json.load(f)
+UMLS_API_KEY = credentials["UMLS_API_KEY"] # put your UMLS key
 
 def get_tgt(apikey=UMLS_API_KEY):
     """
