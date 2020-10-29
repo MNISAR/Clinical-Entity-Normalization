@@ -1,7 +1,7 @@
 import os
 
-
-def reading_files(base_directory = "train", train_file_list="train_file_list", train_norm="train_norm"):
+# specific for training data
+def reading_files(base_directory = "train"):
     """
     This method takes a base directory as input and 
     maps the norm fles and notes to a array and dictionary.
@@ -12,14 +12,14 @@ def reading_files(base_directory = "train", train_file_list="train_file_list", t
 
     # reading train_file_list.txt to get list of training notes files
     files = []
-    with open("{}/{}.txt".format(base_directory, train_file_list)) as f:
+    with open("{}/train_file_list.txt".format(base_directory)) as f:
         for line in f.readlines():
             files.append(line.strip())
     print("Total number of files: ", len(files))
 
     # reading list of CUIs
     CUI = {}
-    with open("{}/{}.txt".format(base_directory, train_norm)) as f:
+    with open("{}/train_norm.txt".format(base_directory)) as f:
         for line in f.readlines():
             CUI[line.strip()] = set()
 
@@ -55,6 +55,12 @@ def reading_files(base_directory = "train", train_file_list="train_file_list", t
 
     return data, CUI
 
+def reading_files_test(base_directory = "train"):
+    gold_data_norm_list = "{}/gold/test_norm.txt".format(base_directory)
+    test_note_list = "{}/test/test_file_list.txt".format(base_directory)
+
+    
+    
 
 if __name__ == "__main__":
     base_dir = "C:/Users/monil/Desktop/BMI 598 - NLP/Project/Clinical-Entity-Normalization/train"
