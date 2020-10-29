@@ -2,9 +2,15 @@ import os, sys
 import requests, json
 import lxml.html as lh
 from lxml.html import fromstring
-UMLS_API_KEY = "d5b6176c-5c39-474b-90c3-e26ceea67180"
+UMLS_API_KEY = "-----------------------------"  # put your UMLS key
 
 def get_tgt(apikey=UMLS_API_KEY):
+    """
+    given the UMLS key, this method will generate a TGT (Ticket Granting Ticket) which will be used in next step to get a ST (Something tiket).
+    The ST will be used to call UMLS API to get information. The TGT expires in 8 hours.
+
+    return: a str url that can be directly used for generating ST
+    """
     params = {'apikey': apikey}
     h = {"Content-type": "application/x-www-form-urlencoded", "Accept": "text/plain", "User-Agent":"python" }
     r = requests.post("https://utslogin.nlm.nih.gov/cas/v1/api-key/",data=params,headers=h)
@@ -13,6 +19,11 @@ def get_tgt(apikey=UMLS_API_KEY):
     return tgt
 
 def get_st(tgt=get_tgt()):
+    """
+    This method will use a given TGT, to generate a ST. Automatically generate new TGT if the provided one is expired.
+
+    return: str (just the ST)
+    """
     service="http://umlsks.nlm.nih.gov"
     params = {'service': service}
     h = {"Content-type": "application/x-www-form-urlencoded", "Accept": "text/plain", "User-Agent":"python" }
@@ -25,6 +36,12 @@ def get_st(tgt=get_tgt()):
     return st
 
 def find_mention_in_UMLS_perfect_name(mention):
+    """
+    This method will call the UMLS and search for mention using perfect search and return a list of dictionaries with mention and corresponding CUI
+
+    return: list of dict({mention, CUI})
+    """
+
     st = get_st()
     version = "current"
     uri = "https://uts-ws.nlm.nih.gov"
@@ -54,6 +71,11 @@ def find_mention_in_UMLS_perfect_name(mention):
     return results
 
 def find_mention_in_UMLS_partial_name(mention):
+    """
+    Similar to above method, but the result include partial mane matches as well.
+
+    return: list of dict({mention, CUI})
+    """
     st = get_st()
     version = "current"
     uri = "https://uts-ws.nlm.nih.gov"
