@@ -1,4 +1,5 @@
 import os
+import pandas as pd
 
 
 def reading_files(base_directory = "train"):
@@ -11,6 +12,8 @@ def reading_files(base_directory = "train"):
     """
 
     # reading train_file_list.txt to get list of training notes files
+    D = pd.DataFrame(columns = ['CUI', 'mention'])
+    temp = []
     files = []
     with open("{}/train_file_list.txt".format(base_directory)) as f:
         for line in f.readlines():
@@ -50,26 +53,29 @@ def reading_files(base_directory = "train"):
             if len(x)==4:
                 (i, cui, st, en) = x
                 mention = (data[-1]['note'][int(st):int(en)]).strip()
+                temp.append([cui, mention])
                 CUI[cui].add((_, mention))
             elif len(x)>4:
                 i,cui = x[0], x[1]
                 mentions = []
                 for i in range(2, len(x), 2):
                     mention = (data[-1]['note'][int(x[i]):int(x[i+1])]).strip()
+                    temp.append([cui, mention])
                     mentions.append(mention)
                 CUI[cui].add((_, "|".join(mentions)))
             else:
                 raise ValueError("{} is wrong".format(x))
             transformed_note = transformed_note[:int(st)] + cui + transformed_note[int(en):]
+            
         with open(transformed_texts_filename, 'w') as f3:
             f3.write(transformed_note)
         all_transformed_notes.append(transformed_note)
-
-
     with open(combined_texts_filename, 'w') as f4:
         f4.write('\n'.join(all_notes))
     with open(transformed_combined_texts_filename, 'w') as f5:
         f5.writelines('\n'.join(all_transformed_notes))
+    D = pd.DataFrame(temp, columns=["CUI", "mention"])
+    D.to_csv("CUI_data.csv", index=False)
 
 
 
@@ -79,7 +85,7 @@ def reading_files(base_directory = "train"):
 
 
 if __name__ == "__main__":
-    base_dir = "C:/Users/Jaysn/Anaconda3/envs/NLP/Clinical-Entity-Normalization/train"
+    base_dir = "C:/Users/Jaysn/Anaconda3/envs/NLP/Clinical-Entity-Normalization/Untitled Folder/train"
     data, CUI = reading_files(base_dir)
 
     # cui = "C0333307"
