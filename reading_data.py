@@ -46,7 +46,7 @@ def reading_files(base_directory = "train"):
                     mention = (data[-1]['note'][int(x[i]):int(x[i+1])]).strip()
                     mentions.append(mention)
                     iCUI[mention].add(cui)
-                CUI[cui].add((_, "|".join(mentions)))
+                CUI[cui].add("|".join(mentions))
             else:
                 raise ValueError("{} is wrong".format(x))
 
