@@ -9,7 +9,6 @@ def create_dataset(data):
     input:- data: list of dictionary (note, norm, filename)
     output:- pandas dataframe with original sentence, masked sentence, mention, CUI 
     """
-
     dataset = []
     for d in data:
         note = d['note']
