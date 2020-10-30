@@ -1,0 +1,6793 @@
+CUI,mention
+C0564823,Right LE pain
+C0030193,Pain
+C0018681,Headache
+C0204688,Temperature
+C0030049,OXYCODONE
+C0030193,Pain
+CUI-less,RR
+C0030193,Pain
+C0262580,NKA
+C0564823,R leg pain
+C0564823,Right LE pain
+C0011849,DM
+C0554740,Pelvis XR
+C0033213,this problem
+C1261311,a steroid injection
+C0030193,the pain
+C0028643,numbness
+C3714552,weakness
+C0015967,fever
+C0027497,nausea
+C0042963,vomiting
+C0011991,diarrhea
+C0008031,chest pain
+C0030193,the pain
+C0042024,urinary incontinence
+C0278008,any changes in bowel habits
+C0011860,Non-insulin-requiring diabetes mellitus
+C0020443,hypercholesterolemia
+C0025598,Metformin
+C0678181,Zocor
+C0002771,analgesics
+C0030193,pain
+C0277797,afebrile
+C0523807,The oxygen saturation
+C0018674,head trauma
+C0240962,scleral icterus
+C0497156,lymphadenopathy
+C0018808,murmurs
+C0232267,rubs
+C0232200,gallops
+C0520960,nontender
+C1265602,masses
+C4075263,organomegaly
+C0010520,cyanosis
+C0149651,clubbing
+C0013604,edema
+C0577305,lesions
+C0015230,rashes
+C0027853,Neurologic examination
+C0422926,Straight leg raise test
+C0030193,pain
+C1446409,positive
+C0204480,Psychiatric examination
+C0575447,lumbar tenderness
+C1562820,point tenderness
+C0177803,An MRI of the spine
+CUI-less,Thad lesion
+C0745283,an infectious process
+C0277797,afebrile
+C1176468,ESR
+C0201657,CPR
+C0030193,painful
+C1135276,supplemental oxygen
+C3494658,pneumoboots
+C0728963,lovenox
+C2585945,DVT prophylaxis
+C1443473,her chronic pain management
+C0027409,narcotics
+C0015967,fevers
+C0042963,vomiting
+C0038999,swelling
+C0012621,discharge
+C3543005,your incision
+C0000970,ACETAMINOPHEN
+C0699142,TYLENOL
+C0282139,COLACE
+C0243237,DOCUSATE SODIUM
+C0235195,sedation
+C0442802,excesive
+C0728797,FLEXERIL
+C0125988,CYCLOBENZAPRINE HCL
+C0177803,Spien MRI
+C0949766,PT
+C2959422,hip Xray
+C0205090,R
+C0024031,low back pain
+C0205082,severe
+C0024031,low back pain
+C0332271,worsening
+C0230415,right leg
+C4509826,shock like intensity
+C0002771,analgesics
+C2316867,oral
+C0489633,review of systems
+C0205197,detailed
+C2364135,uncomfortable
+CUI-less,somewhat
+C0031809,Examination
+C1995000,back
+C4281768,L4/5 facet
+C0443285,enhancement
+C0222679,facet
+C0020564,hypertrophy
+C0205250,elevated
+C2945599,mildly
+C0030797,pelvis
+C0442212,AP
+C0043303,films
+C0524470,R hip
+C0230415,RLE
+C0031809,Physical examination
+C0278138,mild pain
+C0524470,right hip
+C0013216,medications
+C0442519,home
+C0699203,motrin
+C0593507,advil
+C0332575,redness
+C0205217,increased
+C0001339,ACUTE PANCREATITIS
+C0001339,ACUTE PANCREATITIS
+C0017168,GASTROESOPHAGEAL REFLUX DISEASE
+C0017168,GERD
+C0000737,abdominal pain
+C0151594,blood-streaked diarrhea
+C0027497,nausea
+C0042963,vomiting
+C0015967,fevers
+C0085593,chills
+C1961006,recent weight loss
+C0220870,light-headedness
+C0012833,dizziness
+C0042023,increased urinary frequent
+C0445115,normal saline
+C0026549,morphine
+C0030193,pain
+C0583980,further management
+C0017168,GERD
+C0032285,Pneumonia
+C0700777,Prilosec
+C0017168,GERD
+C0030920,PUD
+C0204688,Temp
+C0034107,heart rate
+C0005824,BP
+C1443397,respiratory rate
+C0523807,O2 sat
+C0497156,lymphadenopathy
+C1167958,JVD
+C0018808,murmurs
+C0232267,rubs
+C0232200,gallops
+C0577599,non-distended
+C0234234,Tender
+C0038002,splenomegaly
+C0019214,hepatosplenomegaly
+C0149651,clubbing
+C0010520,cyanosis
+C0013604,edema
+C1287940,Deep tendon reflexes
+C0030193,pain
+C0423553,light touch
+C0438930,Chem-7
+C0337443,Na
+C0202194,K
+C0201952,Cl
+C0202059,bicarb
+C0005845,BUN
+C0201975,creatinine
+C0337438,glucose
+C0023901,Liver function tests
+C0201836,an ALT
+C0201899,AST
+C0201850,alk phos
+C0201913,T. bili
+C0201916,D. bili
+C0201883,amylase
+C0373670,lipase
+C0555903,T. protein
+C0201838,albumin
+C0877347,globulin
+C0201925,Ca
+C0009555,CBC
+C0023508,White blood cell count
+C0587341,hemoglobin
+C0018935,hematocrit
+C0032181,platelets
+C0011923,Imaging studies
+C0412620,Abdominal CT scan
+CUI-less,Study
+CUI-less,associated mesenteric stranding
+C0000833,abscess
+C0333161,pseudocyst
+C0747635,Bilateral pleural effusion
+C0203464,Abdominal ultrasound
+CUI-less,This study
+C0282074,gallbladder sludge
+C0008350,cholelithiasis
+C0032227,pleural effusion
+C0202793,Chest ( PA and lateral )
+C0332448,infiltrates
+C0702116,consolidation
+C0001339,acute pancreatitis
+C0419179,NPO
+C0522792,IV fluids
+C1304888,Pain control
+C0026549,morphine
+C0935966,Demerol
+C0232493,his epigastric pain
+C0002771,His pain medication
+C0159028,his symptoms
+C0232493,the patient &apos;s epigastric pain
+C0030286,a pancreatic complication
+C0027540,necrosis
+C0000833,abscess
+C0040405,a CT scan
+C0585008,biliary dilatation
+CUI-less,stranding along the pancreas
+C0027540,necrosis
+C0000833,abscess
+C0333161,pseudocyst
+C0015967,fevers
+C0039985,A chest x-ray
+C0332448,infiltrate
+C0013687,effusion
+C0007554,cefotaxime
+C1299622,empiric antibiotic treatment
+C0041618,An ultrasound
+C0008370,cholestasis
+C0008311,cholangitis
+C0041618,The ultrasound
+C0282074,biliary sludge
+CUI-less,other abnormalities
+C0232493,epigastric pain
+C0030193,The pain
+C0332448,infiltrate
+C0015967,the patient &apos;s fever
+C0000737,his abdominal pain
+C0007554,The cefotaxime
+C0009450,infection
+C0159028,his symptoms
+C0700777,Prilosec
+C0086787,Percocet
+C0301532,MVI
+C0423641,left flank pain
+C1444775,sharp
+C0085606,urinary
+C0085606,urgency
+C0004144,collapsed lung
+C0728938,partially
+C0262581,No known drug allergies
+C2364135,discomfort
+C2945599,mild
+C0225704,Bibasilar
+C0030247,palpation
+C0230180,left lower quadrant
+C0205091,left
+C1562820,Point tenderness
+C0524467,costovertebral angle
+C0030274,pancreas
+C0205402,prominent
+C0700321,small
+C0008350,gallstone
+C0264499,compression atelectasis
+C0332281,associated
+C0038999,swelling
+C0227582,body
+C0227582,of the pancreas
+C0438653,Portable
+C0817096,chest
+C2242979,cultures
+C0038999,swelling
+C0227582,body
+C0227582,of the pancreas
+C0034642,crackles
+C0232493,epigastric pain
+C0332217,persistent
+C0205082,severe
+C0521114,occasionally
+C0728755,Dilaudid
+C2317349,IV
+C0728755,Dilaudid
+C2317349,IV
+C0227546,gallbladder neck
+C0577559,mass
+C0015967,fever
+C0205082,high grade
+C0849584,follow-up
+C0039985,chest x-ray
+C0242970,diet
+C0242970,low fat
+C0205208,solids
+C0030305,pancreatitis
+CUI-less,study
+C0444956,high dose
+C0728755,Dilaudid
+C1960986,pain
+C1960986,radiation to the lower abdomen
+C1960997,pain
+C1960997,radiation to
+C1960997,upper quadrant
+C0205091,left
+C0278145,the pain
+C0278145,knife-like
+C0200949,Blood
+C0200949,cultures
+C0430404,urine cultures
+CUI-less,All
+C0032285,Pneumonia
+C0267099,Pill esophagitis
+C0455855,Right ventricular hypokinesis
+C1828348,Dobutamine stress test
+C0013516,cardiac ultrasound
+C0079304,EGD
+C0039985,chest x-ray
+C1827584,PICC placement
+C0011849,diabetes mellitus
+C0020538,hypertension
+C0024117,COPD
+C0020443,hypercholesterolemia
+C0011581,depression
+C0018802,CHF
+C0541828,left-sided chest pain
+C0013404,shortness of breath
+C0010200,cough
+C0042963,vomiting
+C0011991,diarrhea
+C3466369,sublingual nitroglycerin
+C0030193,pain
+C0030193,pain
+C0004057,Aspirin
+C0700776,Lopressor
+C0021641,Insulin
+C0020456,hyperglycemia
+C1623258,EKG
+C0011854,Insulin-dependent diabetes mellitus
+C0020538,hypertension
+C0011581,depression
+C0004604,back pain
+C0024117,COPD
+C2607914,allergic rhinitis
+C0017168,GERD
+C0028754,obesity
+C0020473,hyperlipidemia
+C0009214,Codeine
+C0591130,Atrovent
+C0004057,Aspirin
+C0286677,Flonase
+C0034417,Quinine
+C0719198,Celebrex
+C0701017,Compazine
+C0069805,Oxybutynin
+C0002600,Amitriptyline
+C0162723,Zyrtec
+C0162373,Prozac
+C0040805,Trazodone
+C3538423,Humulin
+C0001927,Albuterol
+C0699992,Lasix
+C0360583,Triamcinolone cream
+C1251997,Miconazole cream
+C0720466,Flovent
+C0065374,Lisinopril
+C0032825,KCl
+C0876139,Protonix
+C0593906,Lipitor
+C0025605,Methadone
+C0005824,blood pressure
+C0204688,temperature
+C0034107,pulse
+C1443397,respiratory rate
+C0028754,Obese
+C1384666,poor hearing
+C0497156,lymphadenopathy
+C0004339,auscultation
+C0034642,rales
+C0018808,murmurs
+C0232267,rubs
+C0232200,gallops
+C0520960,nontender
+C0577599,nondistended
+C0013604,edema
+C1706488,DP
+C0337438,glucose
+C0009555,CBC
+C0023508,white count
+C0018935,hematocrit
+C0032181,platelets
+C0039985,Chest x-ray
+C0702116,consolidation
+C1623258,EKG
+C0085610,sinus brady
+C0232326,STT wave abnormalities
+C0027051,MI
+C0027051,MI
+C1271630,cardiac markers
+C1828348,a dobutamine stress test
+C0024117,COPD
+C1998088,the stress portion
+C0015967,fever
+C0020649,hypotension
+C0430462,a cardiac echo ( transthoracic echocardiogram )
+C0013516,This echo
+C0428772,LV ejection fraction
+C0456181,RVSP
+C0520541,a hypotensive episode
+C0079304,her EGD
+C2317227,fluid bolus
+C0948268,her tenuous hemodynamic status
+C1384495,This stress test
+C0020649,hypotension
+C0022116,ischemia
+C0232174,an EF
+CUI-less,this test
+C0012963,dobutamine
+C0574066,increased dyspnea
+C0015967,a fever
+C0282386,levofloxacin
+C0042029,UTI
+C0239574,low-grade fevers
+C0039985,her chest x-ray
+C0007561,ceftriaxone
+C0052796,azithromycin
+C0018155,gram-positive cocci
+C0042313,vancomycin
+C0004611,These bacteria
+C1265292,MRSA
+C0042313,her vancomycin
+C0179740,PICC line
+C0027497,nausea
+C0079304,an EGD
+C0520541,a hypotensive episode
+C0079304,her EGD
+C0079304,The EGD
+C0267099,pill esophagitis
+C0994475,pills
+C0013404,Shortness of breath
+C1142536,MRSA pneumonia
+C0042313,vancomycin
+C0878881,nasal cannula
+C0032285,her pneumonia
+C0455855,her right ventricular hypokinesis
+C0020542,pulmonary hypertension
+C0202823,chest CT
+C0043393,yeast
+C0015230,The rash
+C0015230,The rash
+C0723950,Tums
+C0354688,Albuterol inhaler
+C0593906,Lipitor
+C0162373,Prozac
+C0360575,Flovent inhaler
+C0591130,Atrovent
+C0591395,Ditropan
+C0282139,Colace
+C0004057,Aspirin
+C0021658,Insulin NPH
+C1247198,Nystatin Mouthwash
+C0939400,Nexium
+C0042313,Vancomycin
+C0205392,some
+C0027497,nausea
+C0205156,prior
+C1623258,EKG
+CUI-less,no acute distress
+C0439654,faint
+C0043144,wheezes
+C1720310,PT
+C0013516,cardiac echo
+C0430462,transthoracic echocardiogram
+C0205219,diffusely
+C0232172,hypokinetic
+C0205314,new
+C1261074,right upper lobe
+C0332448,infiltrates
+C0205392,some
+C0010200,cough
+CUI-less,apparent
+C0042963,emesis
+C0151970,esophageal ulcers
+C0235239,fluttering
+C0235239,chest
+C0205392,some
+C0030193,pain
+C0549178,persistent
+C1287678,lung volumes
+C0205251,low
+C0205341,another
+C1828348,dobutamine stress test
+C3164773,septal thinning
+C2945599,mild
+C0205392,some
+C0205094,anterior
+C0042036,urine
+C1275772,legionella antigen
+C0042313,vancomycin
+C1533734,administration
+C0442519,home
+C2317227,fluid boluses
+C0205392,some
+C0939400,Nexium
+C0178602,doses
+C0686904,requirement
+C0030054,oxygen
+C0030054,oxygen
+C0686904,requirement
+C0205392,some
+C1277298,erythematous rash
+C0205392,some
+C0360376,Miconazole Cream
+C0028066,Nifedipine
+C1997551,LV
+C1997551,wall motion abnormality
+CUI-less,ER
+C0032290,ASPIRATION PNEUMONIA
+C0020538,hypertension
+C0239886,headache across the forehead
+C0042963,vomiting
+C0277797,afebrile
+C0034107,heart rate
+C0005824,blood pressure
+C1443397,respiratory rate
+C0523807,oxygen saturation
+CUI-less,three liters
+C2830004,somnolent
+C0006318,bruits
+C0004339,auscultation
+C0238844,poor air entry
+C0520960,non-tender
+C0149651,clubbing
+C0010520,cyanosis
+C0013604,edema
+C0027853,Neurological examination
+C0278249,without any speech
+C0034944,Dolls eye
+C0010031,Corneals
+C1287907,Gag
+C0200116,sensory testing
+C0030193,pain
+C0596002,Reflexes
+C1282911,upgoing
+C0337443,a sodium
+C0202194,potassium
+C0201952,chloride
+C0202059,bicarbonate
+C0005845,BUN
+C0201975,creatinine
+C0337438,glucose
+C0201899,AST
+C0201836,ALT
+C0201850,alkaline phosphatase
+C0344395,bilirubin
+C0201973,CK
+C0040130,Thyroid function tests
+C0920210,Troponin I
+C0555903,Total protein
+C0201838,albumin
+C0877347,globulin
+C0201925,calcium
+C0523826,phosphate
+C0373675,magnesium
+C0023508,White blood cell count
+C0587341,hemoglobin
+C0018935,hematocrit
+C0032181,platelet count
+C1176468,Erythrocyte sedimentation rate
+C0033707,PT
+C0030605,PTT
+C1623258,An EKG
+C0085610,sinus bradycardia
+C0085614,first degree atrioventricular block
+C1287083,biphasic T-waves
+C0039985,A chest x-ray
+C0202691,The head CT scan
+C0576481,midline shift
+CUI-less,some effacement of the sulci
+C0019134,heparin
+C0436121,Lung examination
+C0043144,wheezing
+C0030193,pain
+C1282911,upgoing
+C0005800,A blood gas
+C0202165,a pH
+C0428168,pO2
+C0428189,pCO2
+C1623258,EKG
+C0039239,sinus tachycardia
+C0204688,The patient &apos;s temperature
+C0029053,a high density
+C0585630,the right cerebellar infarction
+C0019080,hemorrhage
+C0024485,An MRI
+C1636167,MRA of the head
+C0038454,his stroke
+C0024485,The MRI
+C0006114,cerebellar swelling
+C0231187,decompensation
+C0204700,fluid restriction
+C1272452,blood pressure management
+C0019134,Heparin
+C2937358,intercerebral hemorrhage
+C0032290,The aspiration pneumonia
+C0007554,Cefotaxime
+C0025872,Metronidazole
+C0028785,OCCIPITAL
+C0038454,CEREBROVASCULAR ACCIDENT
+C0205231,EXTENSIVE
+C0393956,POSTERIOR CIRCULATION INFARCTION
+C0278061,change in mental status
+C1276802,acute
+C0205345,relatively
+C0237284,unresponsive
+C0010200,coughing
+C0521114,occasionally
+C0232249,one out of six
+C0232249,murmur
+C0232258,holosystolic murmur
+C0205267,intermittently
+C0424536,alert
+C0034121,pupillary
+C1457869,defect
+C0439765,right gaze
+CUI-less,preference
+C0026649,movement
+C0547040,minimal
+C0450414,left side
+C0205184,biphasic
+C0443172,changes
+C1276802,acute
+C0702116,consolidation
+C1261077,left lower lobe
+C0455714,occipital infarct
+C0549177,large
+C0205090,right
+C0152283,temporal horn
+C1446409,positive
+C0577559,mass
+C1280500,effect
+C0231187,decompensation
+C1276802,acute
+C0429673,respiratory status
+C1287665,breath sounds
+C0205194,coarse
+C0332273,throughout
+C1960093,non-rebreather mask
+C1305553,100%
+C0202691,CAT scan of the head
+C0205341,repeat
+C3536610,posterior cerebral artery infarction
+C0205090,right
+C0205095,posterior
+C0225804,circulation
+C0236073,infarct of the cerebellar hemispheres
+C0238767,bilaterally
+C1636167,MRA of the intracranial
+C0225804,circulation
+C0429856,flow
+C0392756,reduced
+C2945599,mildly
+C0004811,basilar arteries
+C0007276,internal carotid arteries
+C0238767,bilaterally
+C0175566,patency
+C0439806,gross
+C1956346,CORONARY ARTERY DISEASE
+C0010055,a coronary artery bypass graft
+C0543467,this operation
+C0189842,a pacer implantation
+C0037052,sick sinus syndrome
+C0002962,anginal pain
+C0232174,Ejection fraction
+C0011860,Non-insulin dependent diabetes mellitus
+C1956346,Coronary artery disease
+C0010055,coronary artery bypass graft
+C0340320,anterior myocardial infarction
+C0037052,sick sinus syndrome
+C0018795,Cardiac catheterization
+C0729538,saphenous vein graft
+C0001168,100% occluded
+C0006938,Capoten
+C0699988,Lanoxin
+C0700940,Cardizem
+C0591573,Glucophage
+C0595112,Amaryl
+C0031809,Physical examination
+C0150404,the vital signs
+C0004339,auscultation
+C0205271,irregular
+C0018808,murmurs
+C0034107,Pulses
+C0022116,ischemia
+C1623258,EKG
+C0577801,Rhythm
+C0009346,Balloon
+C0128513,His Melranon
+C0003015,his ACE inhibitor
+C0002598,Amiodarone
+C0019573,Hirudin
+C0149871,deep venous thrombosis
+C3539909,allergic
+C0019134,heparin
+C0699129,Coumadin
+C0150457,Coumadinization
+C0002598,Amiodarone
+C0006938,Captopril
+C0012265,Digoxin
+C0282139,Colace
+C0699992,Lasix
+C0032825,Potassium chloride
+C0591573,Glucophage
+C0699129,Coumadin
+C0027051,myocardial infarction
+C0225873,anterior septal
+C0549177,large
+C0013404,dyspnea
+C0205329,progressive
+C0162577,angioplasty
+C0439064,multiple
+C0522776,stents
+C0010055,coronary artery bypass graft
+C0035110,reoperative
+C0189842,pacer placement
+C0205082,severe
+C0340285,triple vessel coronary artery disease
+C0001168,100% occluded
+C1261316,RCA
+C0012634,diseased
+C0205082,severely
+C0226032,LAD
+C0004057,aspirin
+C0701228,Glucotrol
+C0430458,exercise treadmill test
+C0396777,coronary artery bypass graft times three
+C0035110,reoperative
+C0205107,proximal
+C0348047,graft
+C0442181,subaortic
+C0348047,graft
+CUI-less,wide
+C0014563,Epinephrine
+C0460104,drip
+C1319556,heparin induced thrombocytopenia
+C0302350,therapeutic
+C0699129,Coumadin
+C0010055,coronary artery bypass graft
+C0035110,reoperative
+C0701228,Glucotrol
+C0524434,OM1
+C0348047,graft
+CUI-less,XL
+CUI-less,XL
+CUI-less,Enteric coated
+C0001175,AIDS
+C0007559,Ceftazidime
+C0004521,Aztrenam
+C1299471,MAI
+C0015967,fever
+C0085593,chills
+C0200949,blood cultures
+C0006836,candida species
+C1299471,MAI
+C0155860,pseudomonas pneumonia
+C0015967,fever
+C0085593,chills
+C0155860,pseudomonal pneumonia
+C0015967,fever
+C0085593,chills
+C0006836,candida species
+CUI-less,three liters
+C0005834,blood drawing
+C0812149,IV medications
+C0234233,tenderness
+C0041834,erythema
+C0235218,warmth
+C0015388,exudate
+C0010980,Dapsone
+C0007559,Ceftazidime
+C0701042,Cipro
+C0001367,Acyclovir
+C0025175,Megastrol
+C0210630,G-CSF
+C0204688,his temperature
+C0005824,blood pressure
+C0034107,pulse
+C1443397,respirations
+C0523807,O2 saturation
+CUI-less,three liters
+CUI-less,HEENT exam
+C0497156,lymphadenopathy
+C0018021,thyromegaly
+C0436125,Cardiovascular exam
+C0018808,murmurs
+C0520960,nontender
+C0577599,nondistended
+C0149651,clubbing
+C0010520,cyanosis
+C0013604,edema
+C0027853,Neurological exam
+C0005845,BUN
+C0201975,creatinine
+C0337443,Sodium
+C0201836,ALT
+C0201899,AST
+C0202113,LDH
+C0023508,white count
+C0018935,hematocrit
+C0032181,platelet count
+C0162401,The differential
+C0042014,Urinalysis
+C0427916,Sputum gram stain
+C0027950,polys
+C0004611,bacteria
+C1271628,AFB stain
+C0039985,Chest X-ray
+C0009450,Infectious Disease
+C0085795,Amphotericine
+C0740299,positive blood cultures
+C0006836,candida
+C0085795,the Amphotericine
+C0003232,his antibiotics
+C0155860,pseudomonas pneumonia
+C0210630,his G-CSF
+C0023508,his white count
+C0013216,MEDICATIONS
+C0210630,G-CSF
+C0001367,Acyclovir
+C0014806,Erythromycin
+C0010980,Dapsone
+C0591635,Imodium
+C0028741,Nystatin
+C0029997,Serax
+C0032825,Kay-Ceil
+C0005834,his blood drawn
+C0202194,a potassium
+C0373675,magnesium
+C0085795,Amphotericine
+C1268858,magnesium replacement
+C2945760,recurrent
+C0033817,pseudomonas infections
+C0439064,multiple
+C0001175,AIDS
+C0221423,illnesses
+C2317349,IV
+C0007559,Ceftazidime
+C2317349,IV
+C0003232,antibiotics
+C0205420,Concurrent
+C0200949,blood cultures
+C1290922,baseline
+C0523807,O2 saturation
+C0230347,left arm
+C0398232,graft
+C0034642,rales
+C0225704,bilateral basilar
+C1272748,resolving
+C1261077,left lower lobe
+C0225740,lingular
+C0332448,infiltrate
+C4281590,right mid lung
+C0332448,infiltrate
+C1275732,passport
+C0230347,left arm
+C0457453,admission
+C0013216,medications
+C0439064,multiple
+C0005841,blood transfusions
+C0018935,hematocrit
+C0205251,low
+C0201992,lytes
+C0849584,follow up
+C0304475,potassium
+C0304475,replacement
+C1271714,polys
+C0200634,bands
+C0200635,lymphs
+C0200637,monos
+C0039985,chest X-ray
+C1275732,passport
+C2945843,site
+C0580836,old
+C3714625,NEUROPATHIC PAIN
+C0406844,Post thoracotomy syndrome
+C0406844,post thoracotomy syndrome
+C0039991,her thoracotomy incision
+C0162872,a thoracic aortic aneurysm
+C3714625,neuropathic pain
+C0449681,the incision site
+C0483514,Vicodin
+C0087119,Elavil
+C0678176,Neurontin
+C0459914,conservative therapy
+C0020538,Hypertension
+C0020676,Hypothyroidism
+C0030486,Paraplegia
+C0521233,thoracic aortic aneurysm repair
+C0558159,Sacral decubitus ulcer
+C1960973,Home oxygen
+C0030054,the oxygen
+C0043143,a wheelchair
+C0001927,albuterol
+C2919541,nebulizer
+C0162712,Norvasc
+C0009316,Colistin
+C0001927,albuterol
+C0591130,Atrovent
+C0558009,"Pressure , dermal ulcer care"
+C0085671,dressing change
+C0678176,Neurontin
+C0282139,Colace
+C0009316,Colistin
+C0002600,Amitriptyline
+C0003968,Vitamin C
+C0006681,Calcium carbonate
+C0178638,Folate
+C0728762,Synthroid
+C0078794,Zinc sulfate
+C0301532,Multivitamin
+C0030193,pain
+C0024476,Milk of Magnesia
+C0009806,constipation
+C0220892,PENICILLIN
+C0005824,Blood pressure
+C0034107,heart rate
+C1443397,respiratory rate
+C0523807,saturation
+C0011394,dentures
+C0497156,lymphadenopathy
+C0004339,auscultation
+C0577599,nondistended
+C0520960,nontender
+C0456653,Epidural site
+C0041834,erythema
+C0012621,drainage
+C0234233,tenderness
+C0013119,a dressing
+C0558159,the sacral decubitus ulcer
+C0406844,postthoracotomy syndrome
+C0039082,the syndrome
+C0521233,her thoracic aortic aneurysm repair
+C0459914,the conservative therapy
+C3878277,a spinal cord stimulator
+C0184661,the procedure
+C0184661,the procedure
+C3878277,The spinal cord stimulator
+C0578060,her pain pattern
+C0179751,an epidural catheter
+C0002913,The epidural
+C0085590,the catheter
+C0085590,the catheter
+C0578060,her pain pattern
+C0030193,that pain
+C0179751,The epidural catheter
+C0002913,The epidural
+C0456214,epidural pump placement
+C0456214,placement of epidural pump
+C0085671,adressing change
+C0278145,stabbing
+C0278145,pain
+C0541828,left-sided chest pain
+C2945760,recurrent
+C0876973,lung infections
+CUI-less,no acute distress
+C0238844,Decreased breath sounds
+C0225732,left base
+C0425543,coarse rales
+C0225732,left base
+C0205091,left
+C0008035,chest wall pain
+C0278145,stabbing
+C0278145,pain
+C0455270,sharp pain
+C0591130,Atrovent
+C2919541,nebulizers
+C0001927,Albuterol
+C2919541,neb
+C3878277,spinal cord stimulator
+CUI-less,trial
+C0002913,epidural
+CUI-less,trial
+C0785724,Fentanyl patch 25 mcg an hour
+C3878277,spinal cord stimulator
+CUI-less,trial
+C1562252,Left hemidiaphragmatic
+C0522224,paralysis
+C0003232,antibiotic
+C0037633,solution
+C0785724,Fentanyl patch 25 mcg an hour
+C0717367,Hydrocodone
+C0717367,with Tylenol
+C0085620,Flaccid paralysis
+C0230420,bilateral lower extremities
+C3878277,spinal cord stimulator
+CUI-less,trial
+C0026858,musculoskeletal
+C0026858,pain
+C0574032,infusion
+C0026549,morphine
+C0191651,excision and closure flap of
+C0191651,ischial decubitusin
+C0205091,left
+C0558159,sacral decubitus
+C0185003,closure
+C0182537,pump
+C0002913,epidural
+C0191651,excision and closure of
+C0191651,ischial sacral decubitus
+C0205091,left
+C0560563,fluoroscope to guide
+C0347944,PELVIC MASS
+C0347944,Pelvic mass
+C0020538,hypertension
+C0474186,ERT
+C0347944,a pelvic mass
+C0728940,resection
+C0577559,the mass
+C0024485,An MRI
+C0701459,Lupron
+C0030193,pain
+C3497606,Vicodin ES
+C0724054,Ultram
+C0030193,the patient &apos;s pain
+C0027497,nausea
+C0042963,vomiting
+C0011168,an inability to tolerate p.o. intake
+C0015967,fevers
+C0085593,chills
+C0227791,vaginal discharge
+C0019080,bleeding
+C0202194,Potassium
+C0023508,White count
+C0018935,Hematocrit
+C0559692,intravenous fluid
+C0032821,potassium
+C0935966,Demerol
+C1304888,pain control
+C0008947,clindamycin
+C0699187,Valium
+C0013136,droperidol
+C0020676,Hypothyroidism
+C0003864,arthritis
+C0020538,hypertension
+C0020443,hypercholesterolemia
+C0002871,anemia
+C0004096,asthma
+C0542407,A TAH-BSO
+C0085704,an exploratory laparotomy
+C0728940,resection
+C0347944,a pelvic mass
+C0483514,Vicodin
+C0724054,Ultram
+C0042523,Verapamil
+C0728762,Synthroid
+C0020261,HCTZ
+C0210355,Arthrotec
+C0965130,Advair
+C0025231,Tofranil
+C0487782,Ambien
+C0040805,Trazadone
+C0060282,Ferrous sulfate
+C0282139,Colace
+C3539909,Her allergies
+C0220892,penicillin
+C0236024,throat edema
+C0042313,vancomycin
+C0282386,levofloxacin
+C0699678,Flagyl
+C2242979,Cultures
+C0200949,Blood cultures
+C0016169,fistula
+C0000833,abscess
+C0200949,Blood cultures
+C0009063,C. perfringens
+C0149871,DVT
+C0034065,PE
+C0728940,resection
+C0347944,the pelvic mass
+C0193063,rectosigmoid resection
+C0192601,SBR
+C0015252,removal
+C0042258,a vaginal tumor
+C0198614,omentectomy
+C0192579,an enterotomy
+C1301707,a PCEA
+C0030193,pain
+C0003467,anxious
+C0020934,imipramine
+C0040805,trazadone
+C0487782,Ambien
+C0014025,enalapril
+C0020223,hydralazine
+C0022860,labetalol
+C0025859,metoprolol
+C0065374,lisinopril
+C0020261,hydrochlorothiazide
+C0020223,Hydralazine
+C0005824,Blood pressure
+C0205250,high
+C0871470,an SBP
+C0051696,amlodipine
+C0005824,that blood pressure
+C0005824,blood pressure
+C0199447,nebulizer treatment
+C0965130,Advair
+C0965130,Advair
+C0003467,anxiety
+C0004936,psychiatric issues
+C0039231,tachycardia
+C0000737,abdominal pain
+C0039985,A chest x-ray
+C0040405,A CT
+C0032320,free air
+C0192589,a small bowel enterotomy
+C0456904,Intraoperatively
+C0020649,hypotension
+C0035229,respiratory insufficiency
+C0021925,intubated
+C0419179,NPO
+C0085678,an NG tube
+C2184084,clear sips
+C0030548,TPN
+C0242295,nutritional supplementation
+C0085678,the NG tube
+C2184084,clears
+C0179740,a PICC line
+C0030548,TPN
+C0489460,calorie counts
+C1278795,removal of the ureteral stents
+C0009450,Infectious Disease
+C0200949,Blood cultures
+C0009063,C. perfringens
+C0282386,levofloxacin
+C0699678,Flagyl
+C0042313,vancomycin
+C0282386,levofloxacin
+C0699678,Flagyl
+C0013090,doxycycline
+C0016277,fluconazole
+C0200949,Blood cultures
+C3874363,JP drain
+C2242979,cultured
+C0430404,aurine culture
+CUI-less,TLC
+CUI-less,TIB
+C0200949,blood culture
+C0023508,the patient &apos;s white blood count
+C0015967,fever
+C0003232,antibiotics
+C0023508,the white blood cell count
+C0353681,sub .q. heparin
+C2585945,DVT prophylaxis
+C0041834,erythema
+C0019134,heparin
+C0728963,Lovenox
+C0020676,hypothyroidism
+C0557977,insulin sliding scale
+C0457575,fingersticks
+C0030548,TPN
+C0205082,severe
+C0238551,left lower quadrant pain
+C0040405,CT
+C0205394,Other
+C0200949,blood culture
+C0238767,bilateral
+C0522776,stent placement
+C0012826,lysis of adhesions
+C0205091,left
+C0194341,ureterolysis
+C0728755,Dilaudid
+C0078944,PCA
+CUI-less,still
+C0205250,elevated
+C0543467,surgery
+C0878881,nasal cannula
+C0205265,initial
+C0543467,surgery
+C0205217,increased
+C0013404,shortness of breath
+C0175673,emergent
+C0085704,exploratory laparotomy
+CUI-less,another
+C0175673,emergent
+C0085704,exploratory laparotomy
+C0549099,peroration
+CUI-less,another
+C1299597,empiric
+C0042313,vancomycin
+C0085704,exploratory laparotomy
+C0200634,bands
+C0205436,second
+C0205394,other
+C0159028,symptoms
+C0728963,Lovenox
+C0087111,therapy
+C3874410,left lower quadrant mass
+C1276428,cystic
+C1276437,solid
+C0449432,components
+C0238551,left lower quadrant pain
+C0239783,pain in the groin
+C0521377,rectosigmoid
+C0577559,mass
+C0027651,tumor
+C0230180,left lower quadrant
+C0150207,PE protocol
+C0040405,CT
+C0011581,depression
+C3853134,poorly controlled
+C1290922,baseline
+C0020538,hypertension
+C0032320,free air under the diaphragm
+C0205217,increased
+C0005388,bilious fluid
+C0031153,peritoneum
+C0000737,abdominal pain
+C0205217,increased
+C0445247,similar
+C0332189,episode
+C2945843,site of
+C0205156,previous
+C0374711,repair
+C0012155,diet
+C0730463,advancement
+C0205251,low
+C3698358,stoma output
+C0205090,right
+C0445377,IJ line
+C2945843,site
+C0205090,right
+C0445377,IJ line
+C0238767,bilateral
+C4039428,upper extremity Dopplers
+C0745497,IJ clot
+C0205090,right
+C0442519,home
+C0728762,Synthroid
+C0178602,dose
+C0445119,no growth
+C0026269,STENOSIS . Uns
+C0026269,. ASSOCIATED DI
+C0040961,"iency , atrial fibrilla"
+C0004238,"n , congestive hear"
+C0018802,"ailure , chronic obstruc"
+C0024117,"e pulmonary disease , pulmonary hyper"
+C0020542,sion . PRINCIPAL PROCE
+C0026268,ment and tricuspid valve
+C0396899,nstruction . HISTORY OF PRESEN
+C0035436,"past , and has"
+C0694539,ation . She has had progres
+C1261322,ted worsening
+C0020542,She was referred for
+C0190065,CAL HISTORY i
+C0746102,o smoking . She had
+C0087111,taxis . S
+C0030600,2 . Her MEDICATIONS O
+C0699129,"qD , Las"
+C0012265,", 40 ,"
+C0699992,ceril
+C0577863,"h prominent V-waves , an"
+C1532767,ic and diastolic
+C0577835,"ct , and there wa"
+C0026268,zing a 27 mm . St. Jude pr
+C0182440,valve reconstructi
+C0396899,ing anuloplasty . She weaned f
+C0677555,cardiopulmonary
+C0007202,odynamics . She initia
+C0543467,e was t
+C0004238,extubated on the t
+C0683369,Care Uni
+C0338659,"continued to improve , with mobi"
+C0428978,"rillation , but this gradua"
+C0004238,improved over time
+C1879316,d her antico
+C0699129,ation ca
+C0150457,as ultimately disch
+C0034107,ng edema and
+C0699992,.i.d.
+C0032821,ic acid r
+C0302583,din
+C0556110,"ND C. ALL , M.D. TR :"
+C0699129,mot DD :
+C0018801,aluation demo
+C0205329,re and an e
+C0026269,vere pulmonary
+C0332271,is with s
+C0020542,. Because of her deter
+C0205082,ension
+C0205156,ation
+C0018795,", which confirmed sever"
+C0026269,ondary tricuspi
+C0205082,ith se
+C0040961,ation due to pulmonary hypert
+C0175668,e regurgi
+C0205156,olizatio
+C0472529,for treatment of recurrent
+C0014591,al gastre
+C2945760,ad a part
+C0013216,uded Coumad
+C0457453,"n , digoxin"
+C0004906,EXAMINAT
+C0021461,ON demo
+C1301772,ated mild
+C0031809,elevation o
+C0205250,"s pulse ,"
+C2945599,veno
+C0232257,. Perip
+C0232257,re all
+C0232262,pulses were all
+C0230420,AL C
+C0277919,"gs , with som"
+C0443172,edema
+C0013604,atien
+C0205392,The
+C0085631,an Inten
+C0205265,"d , large"
+C0750482,y due to
+C0002871,din wa
+CUI-less,s . Coum
+C0013604,DISC
+C1272748,CATIONS O
+C0013216,", b.i.d. ,"
+C3871203,"otassium , 2"
+C0000737,ABDOMINAL PAIN
+C0281936,PARTIAL SMALL BOWEL OBSTRUCTION
+C1282272,a low anterior resection
+C0034897,a recurrence
+C2939419,metastasis
+C0030193,the pain
+C0027497,nausea
+C0042963,vomiting
+C0011991,diarrhea
+C0426737,decreased output from the ostomy
+C0030193,the pain
+C0086787,Percocet
+C0700017,Naprosyn
+C0935966,Demerol
+C0204688,Temperature
+C0034107,heart rate
+C0005824,blood pressure
+C0523807,oxygen saturation
+C0004339,auscultation
+C0018808,murmurs
+C0426675,tympanic
+C0578093,midepigastric tenderness
+C0030247,palpation
+C0234246,rebound
+C1955856,The ostomy
+C0182097,the ostomy bag
+C2711635,guaiac
+C0013604,edema
+C1261322,Assessment
+C0022885,laboratory studies
+C0023508,white blood cell count
+C0018935,hematocrit
+C0032181,platelets
+C0373670,lipase
+C0203102,KUB
+C0577028,multiple dilated loops of small bowel
+C0281936,partial small bowel obstruction
+C0085678,An nasogastric tube
+C0019593,an H2 blocker
+C4039064,bowel rest
+C1829459,decompression
+C0085678,the nasogastric tube
+C0085678,The nasogastric tube
+C0030193,The pain
+C2184084,clear liquid diet
+C0592278,Zantac
+C0037138,Simethicone
+C2945760,recurrent
+C2939419,metastasis
+C2945599,mildly
+C0038999,distended
+C0205392,some
+C0547040,minimal
+C0004604,back pain
+C0445204,preoperative
+C0013216,medications
+C0232493,midepigastric abdominal pain
+C0205094,anterior
+C0023985,diverting ileostomy
+C0227388,left colon
+C0442805,spikes
+C0015967,fever
+C0267055,erosive esophagitis
+C0007203,CPR
+C0397419,defib
+C0010200,cough
+C0017887,NITROGLYCERIN
+C0008031,chest pain
+C0871470,SBP
+C0917801,insomnia
+C0018546,HALOPERIDOL
+C0282386,LEVOFLOXACIN
+C0018546,HALOPERIDOL
+C0282386,LEVOFLOXACIN
+C0282386,LEVOFLOXACIN
+C0018546,HALOPERIDOL
+C0282386,LEVOFLOXACIN
+C0018546,HALOPERIDOL
+C0028978,OMEPRAZOLE
+C0004147,ATENOLOL
+C0018926,hematemesis
+C0267055,erosive esophagitis
+C0005001,bph ( benign prostatic hypertrophy )
+C0020258,nph
+C0020255,hydrocephalus
+C0497327,dementia ( dementia )
+C0079304,Esophagogastroduodenoscopy
+C0018926,hematemesis
+C0041296,TB
+C0006826,CA
+C0013404,SOB
+C0015967,fever
+C0011168,dysphagia
+C0008031,chest pain
+C0034107,HR
+C0005824,BP
+C0523807,O2sat
+C0018935,Hct
+C0039985,CXR
+C0202823,Chest CT
+C0014854,esophageal diverticulum
+C0006826,malignancy
+C0151701,alveolar hemorrhage
+C0232077,aspirated blood
+C0011923,scans
+C0018926,hematemesis
+C0358591,PPI
+C2184084,clear liquids
+C0079304,EGD
+C0301569,a soft mechanical diet
+C0028978,omeprazole
+C0008031,CP
+C0262384,atypical chest pain
+C0201973,CK
+C0008031,CP
+C0005824,BP
+C0003364,BP meds
+C0150404,VS
+C0019080,bleeding
+C0700776,lopressor
+C0004147,atenolol
+C0282386,Levo
+C0699678,flagyl
+C0032290,aspiration pneumonia
+C3714636,pneuomonitis
+C0178879,obstructive uropathy
+C2919339,UOP
+C1970989,foley
+C0005845,Bun
+C0201975,Cr
+C2184084,clear liquids
+C0019080,bleed ing
+C0582114,DNR
+C0007203,CPR
+C0150126,airway protection
+C0205161,abnormal
+C1261322,evaluation
+C0239293,an esophageal bleed
+C0019080,bleeding
+C0333307,these erosions
+C0420266,further studies
+C0205161,abnormal
+C0005558,biopsies
+C0006826,malignancy
+C0028978,Omeprazole
+C0282386,LEVOFLOXACIN
+C0205404,SERIOUS
+C0687133,INTERACTION
+C0205404,SERIOUS
+C0687133,INTERACTION
+C0591585,HALDOL
+C0021492,IM
+C0205404,SERIOUS
+C0687133,INTERACTION
+C0591585,HALDOL
+C2316867,PO
+C0205404,SERIOUS
+C0687133,INTERACTION
+C0262580,No Known Allergies
+C0205090,right
+C1720771,scrotal hydrocele
+C0230145,substernal
+C2364135,discomfort
+C1261075,RLL
+C0332448,infiltrate
+C0580836,old
+C0238767,B
+C0225756,upper lung field
+C0018188,granulomas
+C0227191,distal 1/3 of esophagus
+C0205400,thickened
+C0225692,alveolar
+C1265876,opacities
+C0439064,multiple
+C0205207,cystic
+C2937230,hypodensities
+C0023884,liver
+C0439064,mulitple
+C0205132,linear
+C0333307,non-bleeding
+C0333307,erosions
+C0205271,irregular
+C0205113,circumfrencial
+C0301569,diet
+C0301569,soft-mechanical
+C0849584,follow-up
+C1959831,intra-esophageal ultrasound
+C0205392,some
+C0341117,erosions in the esophagus
+C0205555,special
+C0013216,medications
+C0019080,bleeding
+C0442808,increasing
+C2364135,discomfort
+C0205156,previous
+C0013216,medications
+C0549178,continued
+C0019080,bleeding
+C0699678,FLAGYL
+C0025872,METRONIDAZOLE
+C0487782,AMBIEN
+C0724725,ZOLPIDEM TARTRATE
+C0041582,ulcer
+C0014871,GE junction
+CUI-less,ROBITUSSIN
+C0018305,GUAIFENESIN
+CUI-less,further
+C0203075,barium enema
+C0041618,The ultrasound
+C0003962,ascites
+C0347944,pelvic mass
+C1828115,the 3C ovarian carcinoma
+C0198614,an omentectomy
+C0020883,ileostomy
+C0010583,Cytoxan
+C0008838,Cisplatin
+C1706406,debulking
+C0404079,a total abdominal hysterectomy/
+C0195495,bilateral salpingo-oophorectomy
+C0198614,omentectomy
+C0037995,splenectomy
+C0193063,rectosigmoid resection
+C0192775,a take down of the ileostomy
+C0400056,ileal cecal resection
+C0458084,MDR
+C0008838,Cisplatin
+C0733688,VP 16
+C0162575,an embolectomy
+C0699129,Coumadin
+C0699194,Ativan
+C0065164,Lomotil
+C0577625,shellfish allergy
+C0571817,an Iodine allergy
+C0031809,physical exam
+C0005824,The blood pressure
+C0034107,heart rate
+C1261467,weight
+CUI-less,"The head , eyes , ears , nose , throat exam"
+C0002170,alopecia
+C0520960,nontender
+C0031809,exam
+C0023508,a white blood cell
+C0200633,ANC
+C0018935,hematocrit
+C0032181,platelets
+C0005845,BUN
+C0201975,creatinine
+C0373675,magnesium
+C0201925,calcium
+C2316467,packed red blood cells
+C0018935,her hematocrit
+C0024467,a magnesium
+C3665472,chemotherapy
+C0008838,Cisplatin
+C0733688,VP 16
+C3665472,chemotherapy
+C0699129,Coumadin
+C0033707,The patient &apos;s pro time
+C0456081,adjustments
+C0420266,further evaluation
+C0020538,her hypertension
+C0583980,further management
+C3665472,chemotherapy
+C0699129,Coumadin
+C0699194,Ativan
+C0065164,Lomotil
+C0262581,no known drug allergies
+CUI-less,no acute distress
+C0238767,bilateral
+C0562319,cardiac exam
+C2945599,mild
+C3164167,left upper quadrant tenderness
+C0750502,significant
+C0497156,lymphadenopathy
+C0733688,VP 16
+C0008838,Cisplatin
+C3665472,chemotherapy
+C0205549,Serial
+C0033707,PTs
+C0205265,initial
+C0033707,PT
+CUI-less,further
+C0033707,pro time checks
+C0205392,some
+C0020538,hypertension
+C0205156,prior
+C3665472,chemotherapy
+C0334361,PAPILLARY SEROUS CARCINOMA
+C1828115,STAGE 3C
+C1828115,CARCINOMA OF THE OVARY
+C0334361,papillary serous carcinoma
+C1828115,Stage 3C
+C1828115,carcinoma of the ovary
+C0555220,stenotic area
+C0555220,sigmoid
+C0227391,sigmoid
+C0444598,mid
+C0205170,well
+C0205249,healed
+C0549183,midline
+C0577123,abdominal scar
+C0205394,other
+C0230184,lower quadrant
+C0733688,VP 16
+C0574032,infusion
+C0234233,tenderness
+C0020538,hypertension
+C1268768,poor dentition
+C0009068,Suture
+C0023418,leukemia
+C0020538,hypertension
+C1268768,poor dentition
+C0150404,The vital signs
+C0204688,temperature
+C0034107,heart rate
+C0005824,blood pressure
+C1443397,respirations
+CUI-less,"The head , eyes , ears , nose , throat examination"
+C1827285,an entry wound
+C0332696,powder burn
+C0040405,the computerized tomography scan
+C0497156,adenopathy
+C0004339,auscultation
+C0577816,The heart sounds
+C0018808,murmur
+C0232267,rub
+C0232200,gallop
+C0520960,nontender
+C0577599,nondistended
+C0019214,hepatosplenomegaly
+C1265602,masses
+C0577154,the bowel sounds
+C0149651,clubbing
+C0010520,cyanosis
+C0013604,edema
+C0031809,examination
+C1828051,poor ability for abstract thinking
+C0702182,the extra ocular movements
+C1287940,The deep tendon reflexes
+C0587355,A panel of serum electrolytes
+C0023508,The white blood count
+C0018935,hematocrit
+C0032181,the platelets
+C0043159,Blood coagulation times
+C0162401,Leukocyte differential count
+C0580937,A panel of serum enzymes
+C0202691,A computerized tomography scan of the head
+C0430456,Standard 12 lead electrocardiogram
+C0034107,a rate
+C1997940,Nonspecific ST segment and T wave abnormalities
+C0043252,the patient &apos;s gunshot wound
+C0204732,suicide precautions
+CUI-less,testing
+C0035260,2 point restraints
+C0005824,his blood pressure
+C0006938,Captopril
+C0028066,Nifedipine
+C0005824,his blood pressure
+C0581528,Close monitoring
+C0005824,his blood pressure
+C0150270,his dosage regimen
+C0204480,full Psychiatric evaluation
+C1320527,intense psychiatric care
+C0699512,Dilantin
+C0067044,Mylanta
+C0013395,Dyspepsia
+C0024476,Milk of Magnesia
+C0009806,constipation
+C0008783,Cimetidine
+C0018546,Haloperidol
+C0085631,agitation
+C0282139,Colace
+C0006938,Captopril
+C0028066,Nifedipine
+C0028066,Nifedipine
+C0277884,systolic blood pressure greater than 160 millemeters of Mercury
+C0262581,no known drug allergies
+CUI-less,no acute distress
+C0018670,HEAD
+C0043252,GUNSHOT WOUND
+C0480203,SELF INFLICTED
+C0480203,WOUND
+C0018670,head
+C0043252,gunshot wound
+C0480203,Self inflicted
+C0480203,wound
+C0228232,right temporal head
+C0273239,head wound
+C0018670,head
+C0043252,gunshot wound
+C0480203,self inflicted
+C0480203,wound
+C0455204,homicidal ideation
+C0424000,suicidal
+C0424000,ideation
+C0228207,right parietal region
+C0577559,lump
+C1442861,bruising about the eyes
+C0423514,bruising
+C0423514,mastoid sinuses
+C1260880,fluid from
+C1260880,nose
+C0155540,fluid from
+C0155540,ears
+C1278213,toxic screen
+C0420643,Serum toxic screen
+C0037304,skull fracture
+C0205101,external
+C0700321,small
+C0228207,right parietal
+C0009938,contusion
+C0232320,anteroseptal myocardial infarction
+C0677546,old
+C1289919,intravenous fluid
+C0021440,infusion
+C0021440,intravenous
+C0542537,poor
+C1287078,R wave progression
+C0200633,neutrophils
+C0200635,lymphocytes
+C0200637,monocytes
+C0200638,eosinophils
+C0200641,basophils
+C0018681,Headache
+C0004057,ACETYLSALICYLIC ACID
+C0699440,LABETALOL HCL
+C0871470,SBP
+C0034107,HR
+C0871470,SBP
+C0074554,SIMVASTATIN
+C0027996,NIACIN
+C0027996,VIT. B-3
+C3236097,NEPHROCAPS PO
+C0074554,SIMVASTATIN
+C0027996,NIACIN
+C0457987,Renal diet
+C0019004,Hemodialysis
+C0262580,NKA
+C0700053,IHSS
+C0004238,AF
+C0022661,ESRD
+C0019004,HD
+C0017661,IgA nephropathy
+C0024117,COPD
+C0030163,pacemaker
+C0004238,afib
+C1704272,BPH
+C0040771,TURP
+C0020538,HTN
+C0020676,hypothyroidism
+C0018099,gout
+C0032739,positive PPD
+C0026266,MR
+C0019004,Hemodialysis
+C0017661,IgA nephropathy
+C0424605,developmental delay
+C0019004,HD
+C1396002,&quot; raccoon eyes &quot;
+C0202691,Head CT
+C0019080,bleed
+CUI-less,Trauma series
+C0041657,loc
+C0013819,EEG
+C0554757,carotid u / s
+C0202691,head ct
+C0428861,fixed defect
+C0022661,ESRD
+C0020835,IgA
+C0358591,PPI
+C1998174,nodal ablation
+C0020538,HTN
+C0024117,COPD
+C0020676,hypothyroid
+C0020564,hypertrophic
+C0204688,T
+C0005824,BP
+C0034107,p
+C0523807,Pox
+C1396002,raccoon eyes
+C0520960,NT
+C0015230,rashes
+C0021368,inflammation
+C0202194,K
+C0201975,Creat
+C0920210,Trop-I
+C1254541,INR
+C1096012,telemetry
+C0030163,his pacemaker
+C0430462,a TTE
+C0087086,a thrombus
+C0430462,His TTE
+C0232174,EF
+C0520863,abnormal diastolic function
+C0002726,amyloidosis
+C0201720,an SPEP
+C0201888,ACE test
+C0554757,carotid ultrasound studies
+C1261287,stenosis
+C0019004,HD
+C0201992,electrolytes
+C0020651,orthostatic hypotension
+C0011946,dialysis
+C0022658,his renal disease
+C0523952,His troponins
+C0948089,ACS
+C0039070,syncope
+C0678181,his zocor
+C0591301,cozaar
+C0022860,labetalol
+C0699129,his coumadin
+C3875112,bleeding risk
+C0004057,His aspirin
+C0202230,TSH
+C2004480,a macrocytosis
+C0202252,His B12 level
+C0042847,B12 deficiency
+C0236663,EtOH WD
+C0236663,alcohol withdrawal
+C0024117,COPD
+C0030054,oxygen
+C0156273,bladder diverticula
+C0203307,a follow up ultrasound
+C0011923,imaging
+C0042014,The patient &apos;s urinalysis
+C0201112,A c.difficile test
+C0085639,falls
+C0018681,headache
+C0547030,visual changes
+C0151786,muscle weakness
+C0008031,chest pain
+C0013404,shortness of breath
+C0019004,Hemodialysis
+C0699129,coumadin
+C0156273,bladder diverticula
+C0018941,blood tests
+C0011560,amyloid
+C0027996,VIT . B-3
+C0205404,SERIOUS
+C0687133,INTERACTION
+C0205404,SERIOUS
+C0687133,INTERACTION
+C0935625,fat pad
+C0198500,abdominal
+C0198500,biopsy
+C0027853,neuro w / u
+C0332185,Recent
+C0038454,stroke
+C0677546,old
+C0430471,MIBI
+C0012963,dobutamine
+C0205343,reversible
+C0225910,inferolateral
+C0700321,small
+C0016540,forehead
+C0549177,large
+C0018944,hematoma
+C1720243,1+ edema
+C0238767,b / l
+C0441471,events
+C1096012,telemetry
+C0085612,ventricular arrhythmia
+C0332185,recent
+C0205081,moderate
+C0149721,LVH
+C0439744,c
+C0026266,MR
+C0205081,moderate
+C0040961,TR
+C0205081,moderate
+C0205082,severe
+C0238705,LAE
+C0878544,cardiomyopathy
+C0332448,ionfiltrative
+C0935625,fat pad
+C0198500,abdominal
+C0198500,biopsy
+C0201721,UPEP
+C0201910,Beta 2 microglobulin
+C0205343,reversible
+C0022116,ischemia
+C0332185,recent
+C0430471,MIBI
+C0549178,persistently
+C0523952,troponins
+C0205250,elevated
+C0031117,peripheral neuropathy
+C0230420,BLE
+C1278213,toxicology screen
+C0229671,serum
+C0032227,pleural effusion
+C0205090,R
+C0205090,R
+C0748283,complex renal cyst
+C0444507,incidental
+C1274040,findings
+C0015733,fecal
+C0023516,leukocytes
+C0003232,antibiotic
+C0332185,recent
+C1524063,use
+C0203408,ultrasound
+C0203408,kidney
+C0412547,ultrasound
+C0412547,bladder
+C3887499,kidney cyst
+C0205090,right
+C0935625,fat pad
+C0198500,abdominal
+C0198500,biopsy
+C0699142,TYLENOL
+C0000970,ACETAMINOPHEN
+C0722621,PHOSLO
+C0717537,CALCIUM ACETATE
+C3223929,FLOVENT HFA
+C0117996,FLUTICASONE PROPIONATE
+C0591301,COZAAR
+C0126174,LOSARTAN
+C0306965,NEPHROCAPS
+CUI-less,NEPHRO-VIT RX
+C0678181,ZOCOR
+C0074554,SIMVASTATIN
+C0205090,right
+C0000737,abdominal pain
+C0007203,CPR
+C0397419,defib
+C0021925,intubation
+C0042397,pressors
+C0354688,ALBUTEROL INHALER
+C0013404,Shortness of Breath
+C0043144,Wheezing
+C0009806,Constipation
+C0017628,GLYBURIDE
+C0022957,LACTULOSE
+C0011991,diarrhea
+C3232296,SENNA TABLETS
+C0037138,SIMETHICONE
+C0577089,gas
+C0235309,upset stomach
+C0039286,TAMOXIFEN
+C1271155,LEVOFLOXACIN PO
+C0079589,TAMOXIFEN CITRATE
+C0282386,LEVOFLOXACIN
+C0979545,PILOCARPINE 4% SOLUTION
+C4257080,FLONASE ( FLUTICASONE NASAL SPRAY )
+C0302583,iron products
+C0282386,a levofloxacin
+C0008809,ciprofloxacin
+C0311131,tube feeds
+C0079589,TAMOXIFEN CITRATE
+C0282386,LEVOFLOXACIN
+C0719097,CALCIUM CARB + D
+C0007562,CEFUROXIME
+C0000737,abdominal pain
+C0000737,abdominal pain
+C3539909,Allergies
+C0220892,PCN
+C0015230,rash
+C0591139,Bactrim
+C0042109,hives
+C0014806,Erythro
+C0027497,nausea
+C0007537,Ceclor
+C0027497,nausea
+C0055856,Clarythro
+C0015230,rash
+C0032371,poliomyelitis
+C0006142,breast CA
+C0039286,tamoxifen
+C2911574,vent dependent
+C0559400,an iron lung
+C0000737,abdominal pain
+C0232493,epigastric pain
+C0030193,Pain
+C0015967,any fever
+C0018932,BRBPR
+C0025222,melena
+C0013428,dysuria
+C0204688,T
+C0034107,HR
+C0005824,BP
+C1443397,R
+C0523807,Sat
+CUI-less,4L
+C0031809,Exam
+C0232694,hyperactive bowel sounds
+C0000731,abd distention
+C0234233,tenderness
+C0234246,rebound
+C0427198,guarding
+C0412620,Abd CT
+C4019039,ileus
+C0150155,bowel regimen
+C3489575,Senna
+C0126774,magcitrate
+C0022957,Lactulose
+C0000731,Her abd distention
+C0234233,tenderness
+C0282386,Levo
+C0042029,UTI
+C0034359,pyuria
+C0559400,iron lung
+C0003968,VITAMIN C
+C0003968,ASCORBIC ACID
+C0721702,MIACALCIN
+C0073994,CALCITONIN - SALMON
+C0126774,1MAG CITRATE
+C0126774,CITRATE OF MAGNESIA
+C0282139,COLACE
+C0243237,DOCUSATE SODIUM
+C3661835,MVI THERAPEUTIC W / MINERALS
+C3661835,THERAP VITS / MINERALS
+C0594452,ALPHAGAN
+C0077768,BRIMONIDINE TARTRATE
+C0282386,LEVOFLOXACIN
+C0719199,CELEXA
+C0008845,CITALOPRAM
+C0939372,LUMIGAN
+C0937917,BIMATOPROST
+C0030247,palpation
+C0230180,LLQ
+C0205404,SERIOUS
+C0687133,INTERACTION
+C0205404,SERIOUS
+C0687133,INTERACTION
+C0692710,600MG
+C0692710,CA + VIT D/200 IU
+C3853260,ELEM
+C0012359,distended
+C1305188,right colon
+C0000737,abdominal pain
+C0009806,constipation
+C0332281,related
+C0011854,insulin dependent diabetes mellitus
+C4303631,a right above-knee amputation
+C0085671,dressing changes
+C0011079,debridement
+C0003232,antibiotics
+C0008809,Ciprofloxacin
+C0002688,an amputation
+C0420266,further evaluation
+C0011854,insulin dependent diabetes mellitus
+C4303631,right above-knee amputation
+C0699142,Tylenol
+C0008809,Ciprofloxacin
+C0021641,Insulin
+C0021658,NPH
+C0489633,review of systems
+C0015967,fevers
+C2141243,pain in the left foot
+C0013404,shortness of breath
+C0008031,chest pain
+C0031809,The physical examination
+CUI-less,"The head , eyes , ears , nose , throat examination"
+C0004339,auscultation
+C0030987,percussion
+C0520960,nontender
+C0577599,nondistended
+C0042782,visceromegaly
+C0199900,The rectal examination
+C2711635,guaiac
+C0027853,His neurological examination
+C0034107,Pulses
+C4303631,the above-knee amputation on the right side
+C0023508,a white blood count
+C0018935,hematocrit
+C0201992,electrolytes
+C0005845,BUN
+C0201975,creatinine
+C0201883,amylase
+C1623258,an electrocardiogram
+C0039985,His chest X-ray
+C0155671,acute cardiopulmonary process
+C0559680,intravenous antibiotics
+C0005776,evaluation of circulation
+C0011079,debridement
+C0188602,a toe amputation
+C1960895,left foot film
+C0039985,The chest X-ray
+C0001314,acute disease
+C1960041,diabetic small vessel disease
+C0394745,regional ankle block
+C0333297,chronic ulcer
+C0184661,the procedure
+C0009566,complications
+C0184661,the procedure
+C0009566,any complications
+C3543005,The incision
+C0205091,left
+C0020162,humerus fracture
+C0205091,left
+C0159852,tib-fib fracture
+C0262581,no known drug allergies
+CUI-less,no acute distress
+C0232136,carotid
+C1720528,brachial
+C0232142,radial
+C0232148,femoral
+C0230461,Left foot
+C0443172,changes
+C0700321,small
+C0182204,Penrose drain
+C2317349,intravenous
+C0147814,Unasyn
+C2317349,intravenous
+C0147814,Unasyn
+CUI-less,further
+C0009566,complications
+C0559269,pre-admission
+C0013216,medications
+C0586322,ulceration
+C0586322,great toe
+C0700321,small
+C0205091,left
+C0443172,change
+C0475224,ischemic
+C0439557,acute
+C4510046,left great toe
+C0029443,osteomyelitis
+C0029443,osteomyelitis
+C0812427,buttontoe amputation
+C4510046,left great toe
+C0199685,arterial non-invasive study
+C0023216,lower extremity
+C0037763,spasm
+C0582802,digits
+C0586322,great toe ulcer
+C0205091,left
+C0342649,calcified arterial system
+C1299395,highly
+C4510046,left great toe
+C0029443,osteomyelitis
+C0812427,buttontoe amputation
+C0230461,left foot
+C0561870,pressures
+C0230445,calf
+C0230426,left thigh
+CUI-less,noncompressible
+C0018534,the first digit
+C1956346,CORONARY ARTERY DISEASE
+C1956346,coronary artery disease
+C0349782,Ischemic cardiomyopathy
+C0397145,orthotopic heart transplantation
+C0020473,hyperlipidemia
+C0020538,hypertension
+C4074915,coronary graft disease
+C0184543,medical noncompliance
+C0013516,Cardiac echocardiogram
+C0397145,orthotopic heart transplantation
+C0013404,dyspnea
+C0010823,CMV infection
+C0020538,hypertension
+C0428460,poorly controlled lipids
+C0085096,peripheral vascular disease
+C0403447,chronic renal insufficiency
+C0201975,a creatinine
+C0085532,coronary angiography
+C0007430,a catheterization
+C4074915,coronary allograft disease
+C0005558,A biopsy
+CUI-less,endothelialitis
+C0200638,eosinophils
+C0563322,pulsed IV steroids
+C0699279,Imuran
+C0209368,mycophenolate Mofetil
+C0039985,Chest x-ray
+C0398350,cariogenic pulmonary edema
+C0013516,An echocardiogram
+C0232174,an ejection fraction
+C0189785,an endomyocardial biopsy
+C2732702,ejection
+C1956346,coronary artery disease
+C0340890,coronary allograft vasculopathy
+C0020473,hyperlipidemia
+C0085096,peripheral vascular disease
+C0010823,CMV infection
+C0020538,hypertension
+C0011581,depression
+C0040961,tricuspid regurgitation
+C0031809,Examination
+C0277925,cool extremities
+C0005824,His blood pressure
+C0034107,heart rate
+C1287691,jugular venous pressure
+C0232136,Carotids
+C0034642,Crackles
+C1720139,a left ventricular heave
+C0232237,an S3 galop
+C0520960,nontender
+C1287726,the pulses
+C0337443,a sodium
+C0202194,potassium
+C0005845,BUN
+C0201975,creatinine
+C0337438,glucose
+C0018935,hematocrit
+C1623258,The electrocardiogram
+C0039985,chest x-ray
+C0018800,enlarged heart
+C0013516,The echocardiogram
+C0031039,pericardial effusion
+C0232174,an ejection fraction
+C0020268,Hydrocortisone
+C0699992,Lasix
+C0018790,cardiac arrest
+C0522792,intravenous fluids
+C0397419,defibrillation
+C0007203,CPR
+C0199556,The rhythm
+C0039239,sinus tachycardia
+C0042514,ventricular tachycardia
+C0042510,ventricular fibrillation
+C0191234,A pericardiocentesis
+C0336575,A transvenous pacing wire
+C0035273,The resuscitation efforts
+C0004398,An autopsy
+C0205341,repeat
+C0002978,angiogram
+C2945599,mild
+C0018802,congestive heart failure
+C0205402,prominent
+C0459963,pulmonary vessels
+C0332271,worsening
+C0749225,systolic dysfunction
+C0439064,multiple
+C0013778,cardioversions
+C0522499,palpable
+C0005824,blood pressure
+C2317349,intravenous
+C0014563,epinephrine
+C2317349,intravenous
+C0004259,Atropine
+C2317349,intravenous
+C0006675,calcium
+C0018801,heart failure
+C0205082,severe
+C0017327,atherosclerosis
+C0205081,moderate
+C0205219,diffuse
+C0345468,rejection
+C0441800,grade
+C0450345,1B
+C0013516,echocardiogram
+C0282662,bedside
+C0340890,coronary allograft vasculopathy
+CUI-less,aggressive
+C1262485,decrease in all volts
+C0522501,marked
+C0014563,epinephrine
+C2317349,intravenous
+C0005367,bicarbonate
+C1706498,amp
+C0542537,poor
+C1287078,R wave progression
+C0428893,no
+C0428893,measurable blood pressure
+C0035222,ADULT RESPIRATORY DISTRESS SYNDROME
+C0035222,adult respiratory distress syndrome
+C1565662,acute renal insufficiency
+C1956346,coronary artery disease
+C0396783,a four vessel coronary artery bypass graft
+C0020542,pulmonary hypertension
+C0019196,hepatitis C
+C0023890,cirrhosis
+C0020541,portal hypertension
+C0041909,an upper gastrointestinal bleed
+CUI-less,work up
+C0277877,pulmonary infiltrates
+C0022660,acute renal failure
+C0020542,pulmonary hypertension
+C0015672,fatigue
+C0018935,a hematocrit
+CUI-less,two units
+C0079304,an esophagogastroduodenoscopy
+C0017152,gastritis
+C0580174,portal hypertensive gastropathy
+C0042345,varices
+C0009378,A colonoscopy
+C0019080,bleeding
+C0060282,iron sulfate
+C0041657,loss of consciousness
+C0151826,substernal chest pain
+C0008033,pleuritic pain
+C0013404,shortness of breath
+C0010200,cough
+C0027051,myocardial infarction
+C0032285,pneumonia
+C0007562,cefuroxime
+C0699992,Lasix
+C0018802,congestive heart failure
+C0520541,hypotensive
+C0242184,hypoxic
+C0021925,intubated
+C0039985,chest x-ray
+C1565662,acute renal insufficiency
+C0028961,minimal urine output
+C0013030,dopamine
+C0948268,hemodynamic instability
+C0013516,An echocardiogram
+C0200949,Blood cultures
+C0027051,myocardial infarction
+C0201973,creatine kinases
+C0420266,further work up
+C0013030,dopamine
+C0733815,Levo
+C0039985,His chest x-ray
+C0035222,adult respiratory distress syndrome
+C0032285,pneumonia
+C0042014,A urinalysis
+C0005767,blood
+C1261248,urine sediment
+C0205177,active
+C1317332,dysmorphic cells
+C0369181,red cell casts
+C0201530,ANCA
+C1269630,anti-GBM
+C0201655,anti-streptolycin
+C0587178,ANA
+C0201721,UPEP
+C0201720,SPEP
+C0203408,renal ultrasound
+C0006290,a bronchoscopy
+C0019080,fresh blood
+C0179790,a pulmonary arterial line
+C0549143,pulmonary-renal syndrome
+C0472684,CVVH
+C0150521,comfort care
+C0472684,CVVH
+C0087153,the ventilator
+C0439744,concentric
+C0149721,left ventricular hypertrophy
+C0205082,severe
+C0344893,right ventricular dilatation
+C0205082,severe
+C0040961,tricuspid regurgitation
+C0205217,increased
+C0428642,pulmonary artery pressure
+C0445119,no growth
+C1562879,right hemidiaphragm
+C0205250,elevated
+C2945599,mild
+C0033687,protein uria
+C0750502,significant
+C0009566,complications
+C0006836,candidal
+C0014868,esophagitis
+C0205094,anterior
+C0334044,dysplasia
+C0332448,infiltrate
+C1261077,left lower lobe
+C0199467,chest physical therapy
+CUI-less,aggressive
+C0205229,expanding
+C0277877,pulmonary infiltrates
+C0455855,right ventricular
+C0455855,septal hypokinesis
+C0333074,flattening
+C0205111,apical
+C0225883,right ventricular
+C0302148,clot
+C0003507,aortic stenosis
+C2945599,mild
+C0020542,pulmonary hypertension
+C0205082,severe
+CUI-less,fairly
+CUI-less,quite
+C0520541,hypotensive
+C0205413,patchy
+C0205219,diffuse
+C0225730,left lung
+C0332448,infiltrates
+C0205413,patchy
+C0332448,infiltrates
+C1261076,left upper lung
+C0202093,cryoglobulin
+C0019196,hepatitis C
+C0302148,clot
+C0580836,old
+C0201838,albumin
+C0264700,Acute inferior myocardial infarction
+C0020538,Hypertension
+C0018099,Gout
+C0189896,Right heart catheterization
+C0085532,coronary angiography
+C0004057,Aspirin
+C0633084,Plavix
+C0004147,Atenolol
+C0264700,acute inferior myocardial infarction
+C0018795,cardiac catheterization
+C0162577,angioplasty
+C0020538,hypertension
+C0235710,chest discomfort
+C0013404,shortness of breath
+C1623258,An electrocardiogram
+C0264700,acute inferior myocardial infarction
+C0008031,the chest pain
+C0018795,cardiac catheterization
+C0656369,Aggrastat
+C0030193,pain
+C0020538,Hypertension
+C0018099,gout
+C0005824,Blood pressure
+C0034107,The heart rate
+C1287691,JVP
+C0425593,an S4
+C0574002,pedaledema
+C0027853,The neurological examination
+C1623258,The electrocardiogram
+C1445957,Total cholesterol
+C0202117,LDL
+C0392885,HDL
+C0202236,Triglycerides
+C0085532,Coronary angiography
+C0189896,right heart catheterization
+C0009566,complications
+C0001168,totally occluded
+C1290385,The RCA occlusion
+C0344093,intervention
+C0189896,right heart catheterization
+C0456165,The RA
+C0428642,PA
+C0445074,a mean
+C0034094,PCW
+C0199645,the RV tracing
+C0233407,disoriented
+C0013516,An echocardiogram
+C1287715,the LV function
+C0232174,an ejection fraction
+C0232171,inferoposteriorakinesis
+C0232172,hypokinesis
+C0002962,angina
+C0522776,Stent placement
+C1261316,RCA
+C0444505,Peak
+C0201973,CPK
+C2945599,mild
+C0004153,atherosclerotic
+CUI-less,quite
+C0683369,confused
+C0429867,upstroke
+C0007272,Carotid
+C0232148,Femoral
+C0232148,pulses
+C1287726,distal pulses
+C1532338,percutaneous intervention of the RCA
+C1261316,RCA
+C0021308,infarct
+C0225883,RV
+C0021308,infarct
+C0225883,RV
+C2599617,A wave
+C2963144,clear
+C0012359,dilatation
+C0687676,post
+C0038257,stent
+C1287077,Qwaves
+C0700321,small
+C0449214,3
+C0449215,F
+C0520886,ST elevation
+C0449213,2
+C0449214,3
+C0449215,F
+C0520887,ST Depression
+C0449212,1
+C0449216,L
+C0441908,V2
+C0449214,3
+C0333183,40% stenosis
+C0449638,proximal segment
+C0687568,Duet
+C2240374,Eosinophilia
+C0004238,Atrial fibrillation
+C0018802,Congestive heart failure
+C4047693,Left subclavian vein thrombosis
+C0042029,Urinary tract infection
+C0278851,metastatic papillary carcinoma of the thyroid
+C1262477,weight loss
+C0013404,shortness of breath
+C3714552,weakness
+C0015672,fatigue
+C0041912,her upper respiratory tract infection
+C3714552,her weakness
+CUI-less,A work up
+C0023508,a white blood cell count
+C0420266,further evaluation
+C0039985,a chest x-ray
+C0023901,The liver function tests
+C0201850,an alkaline phosphatase
+C0202113,LDH
+C0201899,SGOT
+C0201838,albumin
+C0430246,A peripheral blood smear
+C1273411,Chromosomal studies
+C0203668,A bone scan
+C0585013,an old fracture
+C0412519,A thyroid ultrasound
+C0412620,an abdominal CT
+C0038002,an enlarged spleen
+C0278851,metastases papillary carcinoma of the thyroid
+C1313898,An upper gastrointestinal
+C1689960,The small bowel follow through
+C0373397,A thyroid scan
+C0205161,decreased function
+C0202823,A chest CT
+C0232462,a decreased appetite
+C1262477,weight loss
+C0239340,lower extremity edema
+C2038765,left upper extremity swelling
+C0574066,increased shortness of breath
+C0238463,papillary thyroid carcinoma
+C0015333,radiation exposure
+C3163939,thyroid carcinoma
+C0149796,exposure to tuberculosis
+C0004238,atrial fibrillation
+CUI-less,heart rate control
+C0012265,Digoxin
+C0699988,Lanoxin
+C0699992,Lasix
+C0150404,Her vital signs
+C0005824,a blood pressure
+C0034107,pulse
+C1443397,respirations
+C0204688,temperature
+C1167958,jugular venous distention
+C0006318,bruits
+C0023508,the white blood count
+C0162401,a differential
+C0018935,Her hematocrit
+C0587341,hemoglobin
+C0032181,platelet count
+C0033707,PT
+C0030605,PTT
+C1176468,erythrocyte sedimentation rate
+C0201925,calcium
+C0202178,phosphorus
+C0337443,sodium
+C0202194,potassium
+C0005845,BUN
+C0555903,total protein
+C0201838,albumin
+C0877347,globulin
+C0201850,alkaline phosphatase
+C0201899,SGOT
+C0337449,Digoxin level
+C0238463,papillary carcinoma of the thyroid
+C0153690,bone involvement
+C0153676,lung involvement
+CUI-less,Work up
+C1301355,myeloproliferative / myelodysplastic disorder
+C0206141,the hyper-eosinophilic syndrome
+C1271729,a bone marrow aspirate biopsy
+C0189485,A lung biopsy
+C3661582,Vitamin K therapy
+C0033707,PTs
+C4047693,a thrombosis of the left subclavian vein
+C4047797,some thrombosis of the left internal jugular vein
+C0202691,A head CT
+C2939419,any metastatic process
+C2240374,the patient &apos;s eosinophilia
+C0591139,Bactrim
+C0011991,diarrhea
+C0238463,papillary thyroid carcinoma
+C0153676,pulmonary metastases
+C0543467,surgical intervention
+C0374711,repair
+C0034107,Her rate
+C0012265,Digoxin
+C0201925,Calcium levels
+C0150457,Anticoagulation
+C0699129,Coumadin
+C0033707,a PT
+C2587213,local control
+C0278851,Metastatic papillary thyroid carcinoma
+C0699129,Coumadin
+C0032950,prednisolone
+C0020261,hydrochlorothiazide
+C0032825,potassium chloride
+C0591132,Augmentin
+C0012265,Digoxin
+C0699142,Tylenol
+C0740157,Carafate
+C0728762,Synthroid
+C0202194,potassium
+C0033707,PT
+C0012169,a low sodium diet
+C0033707,a PT
+C0699129,Coumadin
+C0205090,RIGHT
+C0238463,THYROID PAPILLARY CARCINOMA
+C0205090,Right
+C0238463,thyroid papillary carcinoma
+C0205329,progressive
+C3714552,weakness
+C0205404,serious
+C0041912,upper respiratory tract infection
+C1262477,weight loss
+C0205183,benign
+C3887499,renal cyst
+C0262581,no known drug allergy
+CUI-less,no acute distress
+C0439544,definite
+C0232237,S3
+C1271714,polys
+C0200634,bands
+C0200635,lymphocytes
+C0200637,monocytes
+C0200638,eosinophils
+C0455284,myelocytes
+C2945599,mild
+C0042029,urinary tract infection
+C0205090,right
+C0040145,thyroidectomy
+C0040736,autotransplantation
+C0229591,right upper parathyroid gland
+C2937276,slight
+C0019825,hoarseness in her voice
+C0332174,weekly
+C0018941,blood tests
+C0200638,eosinophils
+C0153676,Pulmonary
+C0153676,metastases
+C0153690,bone metastases
+C0020889,iliac
+C0205090,right
+C0239340,leg edema
+C0205191,Chronic
+C0237753,numbers
+C0205217,increased
+C0024764,manubrium
+C0205217,increased
+C0201807,uptake
+C0349453,thyroid mass
+C0542339,inferior
+C0221204,lytic lesion
+C0020889,iliac bone
+C0205090,right
+C0221204,lytic lesion
+C0005558,Biopsy
+C0012727,displacement
+C0040132,thyroid
+C0577559,mass
+CUI-less,cold
+C2242558,calcifications
+C0450415,right side
+C2350019,pulmonary nodule
+C0700321,small
+C0027540,necrotic
+C0577559,mass
+C0439808,profound
+C3714552,weakness
+C0005560,needle biopsy
+C0040137,thyroid nodule
+C0205090,right
+C0205090,right
+C0205233,firm
+C0349453,thyroid mass
+C0520960,nontender
+C0238997,basilar dullness
+C0225706,right basilar
+C1720667,4+ edema
+C0230434,knees bilaterally
+C2240374,increased eosinophilic proliferation
+C0522501,markedly
+C0522035,edema
+C0522035,upper extremity
+C0205091,left
+C4316337,sliding scale
+C0019134,heparin
+C0032952,prednisone
+CUI-less,trial
+C0040591,tracheotomy
+C0205287,membranous
+C0456855,right posterior
+C0445398,diuresis
+C2945599,gentle
+C0701466,Solu-Medrol
+C0087111,therapy
+C0231221,asymptomatic
+C0004238,atrial fibrillation
+C0449867,anticoagulated
+C1704419,effectively
+C0007097,carcinoma
+C0205281,invasive
+C0439775,elevated
+C0230330,left arm
+C1522449,radiation therapy
+C0230074,right neck
+C0205090,right
+C0223651,iliac crest
+C3873370,PAPILLARY ADENOCARCINOMA OF THE LUNG
+C3873370,Papillary adenocarcinoma of the lung
+C1301741,A flexible bronchoscopy
+C0013990,emphysema
+C0007120,broncho-alveolar carcinoma
+C1301741,flexible bronchoscopy
+C0025065,mediastinoscopy
+C0039991,thoracotomy
+C2082610,pneumonectomy
+C0562483,a persistent cough
+C0015967,fever
+C0032285,pneumonia
+C1956415,paroxysmal nocturnal dyspnea
+C0085619,orthopnea
+C0019079,hemoptysis
+C0015967,fevers
+C0085593,chills
+C0038990,sweats
+C0032285,pneumonia
+C1262477,a loss of weight
+C0751410,lower extremity weakness
+C0577915,A &quot; spot &quot; in the left lower lobe
+C0039985,chest X-ray
+C0032285,his pneumonia
+C1301741,flexible bronchoscopy
+C3539909,allergic
+C2684258,Percodan
+C0033774,itchiness
+C0040864,Triamcinolone
+C0699034,Xanax
+C0003467,anxiety
+C0700786,MS Contin
+C0085096,peripheral vascular disease
+C0030600,partial gastrectomy
+C0030920,peptic ulcer disease
+C0489633,The review of systems
+C0003467,anxiety
+C0031809,physical examination
+CUI-less,"The head , eyes , ears , nose , throat examination"
+C0018021,thyromegaly
+C0035508,rhonchorous
+C0004339,auscultation
+C0030987,percussion
+C0436125,Cardiovascular exam
+C0018808,murmur
+C0232267,rub
+C0232200,gallop
+C0746412,palpable masses
+C0034107,Pulses
+C0149651,clubbing
+C0010520,cyanosis
+C0013604,edema
+C0027853,The neurological examination
+C0202194,potassium
+C0201952,chloride
+C0202059,bicarbonate
+C0005845,BUN
+C0201975,creatinine
+C0337438,glucose
+C0201925,calcium
+C0023901,liver function tests
+C0201838,albumin
+C0877347,globulin
+C0023508,a white blood count
+C0018935,hematocrit
+C0587341,hemoglobin
+C0032181,platelet count
+C0150411,The arterial blood gases
+C0024119,The pulmonary function tests
+C0429706,an FEV1
+C1287681,FVC
+C0429745,FEV1/FVC ratio
+C0199525,DLCO
+C0001927,Albuterol
+C1967872,Atrovent metered dose inhalers
+C0543467,surgery
+C0184661,his procedure
+C0009566,complications
+C0264545,thickened pleura
+C0523807,oxygen saturations
+C0428648,an Fi02
+C0318153,alpha hemolytic Streptococcus
+C2242979,culture
+C0220892,penicillin
+C3854019,Gentamicin
+C0699678,Flagyl
+C0002680,Ampicillin
+C3854019,Gentamicin
+C0239574,low grade temperatures
+C0015967,a high temperature
+C0277797,afebrile
+C0039985,The chest X-ray
+C0220892,penicillin
+C3854019,Gentamicin
+C0008809,Ciprofloxacin
+C0699678,Flagyl
+C0874799,Tylenol # 3
+C0699034,Xanax
+C0008809,Ciprofloxacin
+C0699678,Flagyl
+C0332271,worsening
+C0013404,dyspnea
+C0205217,increased
+C0015672,fatigue
+C0849584,follow up
+C0202823,chest computerized tomography scan
+CUI-less,no acute distress
+C0749155,supraclavicular
+C0749155,adenopathy
+C0578735,axillary adenopathy
+C0457453,Admission
+C0337443,sodium
+C0009555,complete blood count
+C0457453,on admission
+C0392762,quantitative
+C0560738,V / Q scan
+C0439064,multiple
+C0001511,adhesions
+C2937276,slight
+C0442805,increase
+C0225788,left pleural fluid
+C0023928,lobectomy
+C0442091,extrapleural
+C1522720,pleural
+C0001418,adenocarcinoma
+C0205615,well differentiated
+C0040300,tissue
+C0005558,biopsy
+C0542339,under
+C0222762,rib cage
+C0455270,sharp pain
+C0521114,occasional
+C0030920,peptic ulcer disease
+C0443203,Distant
+C0160628,thumb
+C0160628,lost
+C0433630,middle finger lost
+C0205090,right
+C0229725,submaxillary
+C0229725,lymph node
+C2004491,scar
+C0522491,parasagittal
+C0000833,abscess
+C0205284,near the margin
+C0332469,fissure
+C0205164,major
+C1261077,left lower lobe
+C0028259,nodule
+C0205233,firm
+C1261077,left lower lobe
+CUI-less,micro
+C1261077,left lower lobe
+C1334603,MIXED MESODERMAL CANCER
+C1334603,mixed mesodermal cancer
+C0020699,hysterectomy
+C0278321,bilateral oophorectomy
+C1442978,abdominal wall hernia
+C0020538,hypertension
+C1706406,tumor debulking
+C0193883,pelvic lymph node dissection
+C0019329,abdominal wall hernia repair
+C0542407,total abdominal hysterectomy-bilateral salpingo-oophorectomy
+C1334603,a mixed mesodermal cancer
+C0040405,CT scan
+C2979982,bleeding per vagina
+C0031809,An examination
+C0521158,recurrent tumor
+C0040405,A computerized tomography scan
+C0005558,biopsy
+C0221198,this lesion
+C0728940,excision
+C0733624,Halcion
+C0699187,Valium
+C0025696,methyclothiazide
+C0204688,Her temperature
+C0005824,blood pressure
+C0034107,heart rate
+CUI-less,her HEENT examination
+C0004339,auscultation
+C0028754,obese
+C0520960,non-tender
+C0746412,palpable masses
+C0337443,sodium
+C0202194,potassium
+C0201952,chloride
+C0202059,bicarbonate
+C0005845,BUN
+C0201975,creatinine
+C0201850,Her alkaline phosphatase
+C0023508,white blood count
+C0018935,hematocrit
+C0032181,platelet count
+C0278259,local excision
+C0002903,anesthesia
+C0085704,an exploratory laparotomy
+C1706406,tumor debulking
+C1442978,An abdominal wall hernia
+C0184661,the procedure
+C1282546,Her vaginal pack
+C1970989,the Foley catheter
+C1272738,Her Jackson-Pratt drain
+C1299586,difficulty
+C0086787,Percocet
+C0030193,pain
+C1536155,pelvic radiation therapy
+C1522449,her radiation
+C0027651,tumor
+C0200739,frozen section analysis
+C0200728,The permanent pathology sections
+C0012826,lysis of adhesions
+C0012826,lysis of adhesions
+C0227794,vaginal apex
+C0277556,recurrence
+C0227794,apicovaginal
+C0221198,lesion
+C0205099,central
+C0277556,recurrence
+C0549379,cancer recurrence
+C0205276,local
+C0036410,sclerae
+C0205180,anicteric
+C0750482,slightly
+C0542193,relaxed
+C0230060,inferoorbital wall
+C0277910,systolic ejection murmur
+C0205112,at the base
+C0034107,pulses
+C0238767,bilaterally
+C1265804,nonpitting edema
+CUI-less,up to the knees
+C1334603,mixed mesodermal cancer
+C0227794,vaginal apex
+C0193883,pelvic lymph node dissection
+C0238767,bilateral
+C0262581,No known drug allergies
+C0009566,complications
+C1299586,difficulty
+C0013216,medication
+C0558588,an exam under anesthesia
+C0340321,Old inferior wall myocardial infarction
+C0412674,Head magnetic resonance imaging study
+C0202691,Head computerized tomography scan
+C0013516,echocardiogram
+C0206077,transcranial Dopplers
+C0430461,Holter electrocardiogram
+C0013819,electroencephalogram
+C0042825,visual field testing
+C1956346,coronary artery disease
+C0027051,myocardial infarction
+C0011860,noninsulin dependent diabetes mellitus
+C0344232,blurred vision
+C0547030,change of vision
+C0344232,The blurred vision
+C0007787,transient ischemic attack
+C0038454,stroke
+C0027497,any nausea
+C0042963,vomiting
+C0004134,ataxia
+C0474393,motor deficits
+C0233715,speech deficits
+C0150075,sensory deficits
+C0239886,frontal headaches
+C0151315,a tight neck
+C0027051,a myocardial infarction
+C0280076,cardiac medications
+C0565959,new episodes
+C0011849,diabetes mellitus
+C0017642,Glipizide
+C0235754,bladder papilloma
+C0376358,prostate cancer
+C0038454,stroke
+C0149931,migraines
+C0700776,Lopressor
+C0700940,Cardizem
+C0592278,Zantac
+C0590720,Isordil
+C0017642,Glipizide
+C0277797,afebrile
+CUI-less,"The head , eyes , ears , nose , throat examination"
+C0018021,goiter
+C0006318,bruit
+C0520960,nontender
+C0019214,hepatosplenomegaly
+C0577559,mass
+C0425716,Capillary refill
+C0013604,edema
+C0520960,nontender
+C0027853,neurological examination
+C0702182,The extra ocular movements
+C1719782,The light reflex
+C0430740,The motor examination
+C1504476,pronator drift
+C0204059,the strength
+C0278158,finger-nose-finger test
+C1288236,The heel-shin-test
+C0200116,Sensory examination
+C0034935,The Babinski &apos;s
+C0278125,The cross extension reflex
+C0009555,Complete blood count
+C0023508,white blood cells
+C0018935,hematocrit
+C0587341,hemoglobin
+C0032181,platelets
+C0033707,Prothrombin time
+C0030605,partial thromboplastin time
+C0337443,Sodium
+C0202194,potassium
+C0201952,chloride
+C0202059,bicarbonate
+C0005845,BUN
+C0201975,creatinine
+C0337438,glucose
+C0201883,amylase
+C0201925,calcium
+C0202178,phosphorus
+C0373675,magnesium
+C0555903,total protein
+C0201838,albumin
+C0877347,globulin
+C0202239,uric acid
+C0201850,alkaline phosphatase
+C0201899,GOT
+C0202113,LDH
+C0475880,hemolyzed sample
+C0039985,Chest x-ray
+C0032285,pneumonia
+C0018802,congestive heart failure
+C1623258,Electrocardiogram
+C0040405,A computerized tomography scan
+C0412674,Head magnetic resonance imaging study
+C0243032,magnetic resonance imaging angiogram
+C0232342,decreased flow
+C0206077,Transcranial Dopplers
+C0430461,Holter electrocardiogram
+C0013819,Electroencephalogram
+C0042825,Visual field testing
+C0423411,retinal lesion
+C0013516,Echocardiogram
+C0034088,pulmonary insufficiency
+C0040961,tricuspid insufficiency
+C0026266,mitral insufficiency
+C0003504,aortic insufficiency
+C0302148,clots
+C0013516,the echocardiogram
+C0354566,intravenous heparin
+CUI-less,the studies
+C0262469,embolic strokes
+C0206077,transcranial Dopplers
+C0430461,Holter electrocardiogram
+C0013516,echocardiogram
+C0523584,MB fraction
+CUI-less,too low
+C0024485,the magnetic resonance imaging study
+C0456754,This moving sense
+C0038454,the stroke
+C0159028,these symptoms
+C0420266,any further studies
+C0520541,a hypotensive episode
+C0871470,the systolic blood pressure
+C0013216,his medications
+C0344232,blurred vision
+C0004057,aspirin
+C0031809,the physical examination
+C0013216,Medications
+C0004057,aspirin
+C0017642,Glipizide
+C0559750,his continuing hematuria
+C0205090,RIGHT
+C0455714,"OCCIPITAL , CEREBRAL INFARCTION"
+C0205090,Right
+C0455714,"occipital , cerebral infarction"
+C1293027,carotid
+C0205303,noninvasives
+C0450414,left side
+C1276802,acute
+C0344232,blurry vision
+C0344232,blurred vision
+C0445247,same
+C0262581,denies any drug allergies
+C0018808,heart murmur
+C0750502,significant
+C0344232,blurred vision
+C0439735,left upper quadrant
+C0547040,minimal
+C0271390,terminal nystagmus
+C2945599,mild
+C0439834,slow
+C0750482,slightly
+C0450414,left side
+C0018777,conduction hearing
+C0457436,weakness on the left side
+C2945599,mild
+C0233844,clumsy
+C0750482,slightly
+C0238767,bilaterally
+C1295585,decreased vibratory sense
+C0205108,distal
+C0230420,lower extremities
+C0014772,red blood cells
+C0023508,white blood cells
+C1271714,polys
+C0200635,lymphs
+C0200637,monos
+C0200638,eos
+C0449213,leads II
+C0449214,leads
+C0449214,III
+C0449215,AVF
+C1287077,Q-waves
+C1265608,low-density area
+C0230005,occipital
+C0205090,right
+C0441994,lower
+C0455714,occipital lobe infarction
+C0205365,subacute
+C0450415,right lateral
+C0149559,posterior communicating artery
+C0232342,decreased flow
+CUI-less,related enhancement
+C1293027,Carotid
+C0205303,noninvasives
+C0007273,carotid disease
+C0547040,minimal
+C0003811,arrhythmias
+C0750502,significant
+C0229089,right eye
+C0332503,wedge-shaped
+C0700321,small
+C3887875,visual field defect
+C0205122,segmental
+C1997351,left ventricular dysfunction
+C3266752,Overall left ventricle systolic function moderately impaired
+C0232174,ejection fraction
+C0750572,estimated
+C0205090,right
+C0455714,occipital cerebral infarction
+C1293027,carotid
+C0205303,noninvasives
+C1623258,electrocardiogram
+C0205549,serial
+C0205549,serial
+C2919598,vestibular dysfunction
+C2945599,mild
+C0205272,regular
+C0280076,cardiac medications
+C0013216,medications
+C0205272,regular
+C0027853,neurological
+C0027853,examination
+C0031809,physical examination
+C0205272,regular
+C0280076,cardiac medications
+C3839357,Head
+C3839357,magnetic resonance imaging angiogram with
+C3839357,gadolinium
+C4305213,Head
+C4305213,magnetic resonance imaging angiogram
+C4305213,without gadolinium
+C0205091,left
+C0428616,creatinine kinase with MB fractions
+C0494165,METASTATIC CANCER TO THE LIVER
+C0494165,Metastatic cancer to the liver
+C0011849,diabetes mellitus
+C0031117,peripheral neuropathy
+C0149978,rectal carcinoma
+C0151636,premature ventricular contractions
+C0400436,left hepatectomy
+C2004459,an APR
+C0149978,rectal carcinoma
+C1522449,radiation therapy
+C0016360,5FU
+C0015672,fatigue
+C0013404,dyspnea
+CUI-less,workup
+C0011849,diabetes mellitus
+C0151636,premature ventricular contractions
+C0149978,rectal carcinoma
+C0011882,diabetic neuropathy
+C0700718,Diabeta
+C0029997,Serax
+C0700727,Sudafed
+C0039771,Theo-dur
+C0699055,Betoptic
+C0072221,Propene
+C0699633,Pred-Forte
+C0086787,Percocet
+C0699770,Proventil
+C2004459,abdominoperineal resection
+C0005824,The blood pressure
+C0034107,pulse
+C0205271,irregular
+C1443397,respirations
+CUI-less,"The head , eyes , ears , nose , throat and neck examinations"
+C0562319,Cardiac examination
+C0436121,The lung examination
+C1287665,breath sounds
+C0028754,obese
+C1265602,masses
+C0028756,the patient &apos;s extreme obesity
+C0027853,The neurological examination
+C0031117,a peripheral neuropathy
+C0039985,A chest X-ray
+C1623258,The electrocardiogram
+C0232119,trigeminy
+C0018935,hematocrit
+C0085704,exploratory laparotomy
+C0400436,left hepatectomy
+C0008320,cholecystectomy
+C0184661,the procedure
+C0005767,blood
+C0005841,transfused blood
+C0085678,His nasogastric tube
+C2184084,clear liquids
+C1272738,his Jackson-Pratt drains
+C0175730,his tubes
+C0180499,drains
+C0043250,His wound
+C0009410,his colostomy
+C0700718,Diabeta
+C0029997,Serax
+C0700727,Sudafed
+C0039771,Theo-dur
+C0699055,Betoptic
+C0072221,Propene
+C0699633,Pred-Forte
+C0086787,Percocet
+C0699770,Proventil
+C1562879,right hemidiaphragmatic
+C0035232,hemidiaphragmatic paralysis
+C0202926,superior mesenteric angiogram
+C1628320,celiac
+C1628320,angiogram
+C0240225,liver mass
+C0549177,large
+C0027651,neoplasm
+C0205617,poorly differentiated
+C0346975,metastatic rectal
+C1444662,discontinued
+C0262581,no known drug allergies
+CUI-less,no acute distress
+C0332183,frequent
+C1399226,ectopic beats
+C3164070,right upper quadrant tenderness
+C0578093,epigastric
+C0578093,tenderness
+C2945599,mild
+C0009410,colostomy
+C0205266,intact
+C0020580,decreased sensation
+C0230420,lower extremities
+C0151786,decreased strength
+C1268261,upper and lower extremities
+C1562879,right hemidiaphragmatic
+C0702240,elevation
+C0202926,superior mesenteric artery angiography
+C1628320,celiac
+C1628320,angiography
+C0445204,preoperative
+CUI-less,workup
+C0019080,blood loss
+C0205275,underlying
+C1690487,medical condition
+C0151636,premature ventricular contractions
+C0521114,occasional
+C2930544,ADA 1800 kilocalorie diet
+C0205272,regular
+C0013216,medications
+C0445247,same
+C1956346,CORONARY ARTERY DISEASE
+C1956346,Coronary artery disease
+C0018802,Congestive heart failure
+C0151636,Ventricular ectopy
+C0020542,Pulmonary hypertension
+C0018800,Cardiomegaly
+C0039239,Sinus tachycardia
+C0011849,Diabetes mellitus
+C0030483,Paraphimosis
+C0085615,Right bundle branch block
+C0031046,Pericarditis
+C0019134,Heparin
+C0040034,thrombocytopenia
+C0033216,Pronestyl
+C0027497,nausea
+C0396777,coronary artery bypass grafting x 3
+C0190359,Insertion of intra-aortic balloon pump
+C0202857,Left ventriculography
+C0202865,bilateral coronary angiography
+C0199591,Signal average EKG
+C0012265,Digoxin
+C0699274,Ecotrin
+C0699129,Coumadin
+C0065374,Lisinopril
+C0017628,Micronase
+C1142578,double pneumonia
+C0020538,hypertension
+C0011849,diabetes mellitus
+C0018681,headache
+C0233407,disorientation
+C0040405,A CT
+C0024485,MRI scan
+C0004057,aspirin
+C0020538,hypertension
+C0728763,Vasotec
+C0430461,A Holter monitor
+C0151636,ventricular ectopy
+C2316301,A thallium stress test
+C0039231,tachycardia
+C0439779,a fall in blood pressure
+C0013516,An echocardiogram
+C0420266,further evaluation
+C0005824,Blood pressure
+C0202178,phosphorus
+C1261467,weight
+C0577835,Peripheral pulses
+C0337443,Sodium
+C0202194,potassium
+C0201952,chloride
+C0201930,CO2
+C0005845,BUN
+C0201975,creatinine
+C0337438,glucose
+C1445957,Cholesterol
+C0202236,triglycerides
+C0392885,HDL
+C0202117,LDL
+C0555903,total protein
+C0344395,bilirubin
+C0201850,alkaline phosphatase
+C0201899,SGOT
+C0018935,Hematocrit
+C0023508,a white blood count
+C0863148,MCV
+C0034094,a pulmonary wedge pressure
+C0199629,a pulmonary artery pressure
+C0202859,Selective coronary angiography
+C0018802,congestive heart failure
+C0420266,further evaluation
+C0012798,diuretics
+C0028125,nitrates
+C0004057,his aspirin
+C0354566,IV Heparin
+C0430461,Holter monitor
+C0232493,epigastric pain
+C0002965,unstable angina
+C0543467,surgery
+C0702122,an intra-aortic balloon pump
+C0396783,quadruple coronary artery bypass grafting
+C0030483,A paraphimosis
+C0543467,surgery
+C0702122,His intra-aortic balloon pump
+C0011849,his diabetes mellitus
+C0032181,his platelet count
+C0354566,intravenous Heparin
+C0019134,Heparin
+C0032181,his platelet count
+C0040034,a thrombocytopenic reaction
+C0019134,Heparin
+C2919575,nonsustained ventricular tachycardia
+C0085615,a right bundle branch block
+C0003015,ACE inhibitors
+C0012265,Digoxin
+C0699129,Coumadin
+C0004057,aspirin
+C0018795,cardiac catheterization
+C0238767,bilateral
+C0007785,cerebral infarcts
+C0439064,multiple
+C0013404,dyspnea
+C0205082,severe
+C0232172,hypokinesis
+C0205246,global
+C0425593,S4
+C0423523,Loud
+C0232250,II / VI
+C0232250,murmur
+C0460152,regurgitant
+C0017887,nitroglycerin
+C2317349,IV
+C1290385,occluded right coronary artery
+C0444598,midportion
+C0226032,LAD
+C0577305,multiple
+C0577305,lesions
+C0750502,significant
+C0232172,hypokinesis
+C0205219,diffuse
+C0226031,left main
+C1320740,critical
+C0221198,lesion
+C0151636,ventricular ectopy
+C0205392,some
+C0002962,anginal
+C0205163,equivalent
+C0151636,ventricular ectopy
+C0205292,multifocal
+C0205392,some
+CUI-less,further
+C0232326,ST segment changes
+C0332194,anterolateral
+C0205042,coronary anatomy
+C1320740,critical
+C0589567,placement
+C1305400,patch
+C0226032,LAD
+C1293394,internal mammary artery graft
+C0205091,left
+C0226036,diagonal
+C0729538,henous vein snake graft
+C0039239,sinus tachycardia
+C0580798,ongoing
+C0428989,atrial
+C0428989,premature beats
+C0151636,ventricular premature beats
+C0521114,occasional
+C0205251,low
+C0428772,left ventricular ejection fraction
+C0750502,significant
+C1997351,left ventricle dysfunction
+C0003811,arrhythmias
+C0033707,prothrombin times
+C1292786,monitoring
+C2239176,HEPATOCELLULAR CARCINOMA
+C0019196,HEPATITIS C
+C2239176,Hepatocellular carcinoma
+C0019196,hepatitis C
+C0023911,Liver transplant
+C1293095,Re-exploration
+C0019080,bleeding
+C0019196,hepatitis C
+C1879316,transfusions
+C0428524,a rise in his alpha feta protein
+C0193388,a biopsy of his liver
+C2239176,hepatocellular carcinoma
+C0023911,liver transplant
+C0085704,exploratory laparotomy
+C0037995,splenectomy
+C0040423,tonsillectomy
+C0032285,pneumonia
+C0019196,hepatitis C
+C2239176,hepatocellular carcinoma
+C0013216,medications
+C0699992,Lasix
+C0302583,iron
+C0240962,scleral icterus
+C0149651,clubbing
+C0014745,palmar erythema
+C0344395,bilirubin
+C0201899,SGOT
+C0185064,chemo-embolization
+C2239176,his hepatocellular carcinoma
+C0019144,hepatectomy
+C0400447,orthotopic liver transplant
+C0543467,His operation
+C2316467,packed red blood cells
+C0016709,FFP
+C0443116,platelets
+C0005779,a coagulopathy
+C1293095,re-exploration
+C0018944,hematoma
+C1458140,coagulopathic
+C1293883,FFP transfusions
+C0035078,renal failure
+C0022672,ATN
+C0021925,intubated
+C0016709,FFP
+C0456388,blood
+C0005779,coagulopathy
+C0040034,thrombocytopenia
+C0021079,His immunosuppression
+C0085379,OKT3
+C0701466,Solu Medrol
+C0019004,hemodialysis
+C0041612,ultra filtration
+C0036572,seizures
+C0036572,his seizures
+C0700087,Tegretol
+C0699512,Dilantin
+C1621860,mentally obtunded
+C0036572,the seizure
+C0009068,sutured
+C0426468,bleeding from his nasopharynx
+C0041909,upper gastrointestinal bleeding
+C0014245,Endoscopy
+C0019080,bleeding
+C0699128,Pitressin
+C0017181,the gastrointestinal bleeding
+C0018790,cardiac arrest
+C0205156,previous
+C3263723,trauma
+C0262581,no known drug allergies
+C0750502,appreciable
+C0003962,ascites
+C0238767,bilateral
+C0235439,ankle edema
+C0205177,active
+C0019080,bleeding
+C0332173,daily
+C1879316,transfusions
+C0332217,persistent
+C0086818,platelet transfusions
+C0205082,severe
+C0019080,bleeding
+C0019144,hepatectomy
+C0302891,Native
+C0023911,liver transplant
+CUI-less,workup
+C0005779,coagulopathy
+C0205082,severe
+C0456388,blood
+C0549177,large
+C1265611,amounts
+C0034063,pulmonary edema
+C0332294,resultant
+C0549177,large
+C1265611,amounts
+C2317349,intravenous
+C0699187,Valium
+C0040408,tongue
+C0019080,bleed
+C0549177,large
+C0005779,coagulopathy
+C0332217,continued
+C0013298,duodenitis
+C0205219,diffuse
+C0020649,hypotensive
+C0205329,progressively
+C0428977,bradycardia
+C0332294,eventual
+C0022116,ischemia
+C0227665,kidneys
+C4303159,AMPULLARY ADENOCARCINOMA
+C4303159,AMPULLARY ADENOCARCINOMA
+C0232493,epigastric pain
+C0012833,dizzy
+C0015672,fatigue
+C0027497,nausea
+C4047947,coca cola colored urine
+C0009806,constipated
+C0278016,hard stool
+C0018932,bright red blood per rectum
+C0020538,hypertension
+C0029997,Serax
+C0917801,insomnia
+C0302583,iron
+C0301532,MVI
+C0005824,BP
+C0204688,temp
+C0034107,pulse
+C1443397,respiratory rate
+C0022346,jaundiced
+C0240962,scleral icterus
+C0043144,wheezes
+C0034642,rales
+C0035508,rhonchi
+C0018808,murmur
+C0234233,tenderness
+C0234246,rebound
+C0019214,hepatosplenomegaly
+C0334150,incisional scars
+C0013604,edema
+C0337443,Na
+C0202194,K
+C0201952,Cl
+C0202059,bicarb
+C0005845,BUN
+C0201975,creatinine
+C0337438,glucose
+C0009555,CBC
+C0023508,White count
+C0018935,hematocrit
+C0032181,platelets
+C0033707,PT
+C0030605,PTT
+C1254541,INR
+C0202113,LDH
+C0201883,amylase
+C0373670,lipase
+C0543467,surgery
+CUI-less,The patient &apos;s workup up
+C4303159,periampullary adenocarcinoma
+C2960784,EGD directed biopsy
+C0085162,a Whipple procedure
+C0009566,complications
+C0085678,The NG tube
+C2184084,clear liquids
+C0678117,Sandostatin
+C0086787,Percocet
+C0030193,pain
+C0678129,Axid
+C0282139,Colace
+C1262477,weight loss
+C0262581,No known drug allergies
+CUI-less,No acute distress
+C0004339,auscultation
+C0238767,bilaterally
+C0205091,left
+C0262613,renal mass
+C0030247,palpation
+CUI-less,moderate
+C0201850,alkaline phosphatase
+C0344395,bilirubins
+C0014440,transaminases
+C0205250,elevated
+C0346255,renal
+C0346255,oncocytoma
+C0015672,eased s
+C0701811,term memory for the past si
+C0444519,tingling sen
+C0151786,t that s
+C0202691,ich pat
+C0203668,e abdomen
+C0412620,"chest X-Ray , and"
+C0039985,mmogram wer
+C0024671,egative .
+C0740057,k before
+C0027651,AL / SURG
+C0020538,l carcinoma
+C1274258,"the nose six years ago , catarac"
+C0521707,ectomy .
+C0020699,ES : No known
+C0020261,d. and Decadron 25
+C0740057,AL EXAMI
+CUI-less,h pupils e
+C0004339,demonstrate
+C0031809,ate and rhy
+C0018808,with a hys
+C0031809,noted to be
+C0011155,of three
+C0430740,be of normal moto
+C0200116,. Patient 's gait
+C4280872,t was taken to
+C0184661,and was taken
+C0009566,ry Room awake and
+C0034991,ient was evalu
+C0034991,"th , rehabilit"
+C0034991,eceive the fol
+C0740057,.o.q.6h.
+C0282139,ously
+C0019134,lating
+C0020261,". b.i.d. , Zantac 1"
+C0699512,", and Pe"
+C0592278,is to
+C0086787,wed up b
+C0005558,de IIi/III
+C0228208,GLIOBLASTOMA
+C1621958,ULTIFORME . HISTORY OF
+C0230377,. For the past f
+C0235050,n in the hands bil
+C0205090,kness
+C0555097,ght leg
+C0555097,thr
+C0228208,n of the brain . Bon
+C0577305,pariet
+C0231701,ened ove
+C0016504,wor
+C0228208,ctic biopsy o
+C0439608,stereot
+C0579037,the tumor . PAST M
+C0262581,CURRENT MEDICATIONS : H
+CUI-less,right f
+C0231303,ot . HEE
+C2004491,CAL
+C0020699,d . NEUROLOG
+C0231770,noted to be a
+C0231784,4/5 and sensory
+C2937276,n and
+C0151786,lantar f
+C0205090,both
+C0230460,. HOSPITA
+C0231701,COU
+C0228208,sy . Patient
+C0579037,olerated the procedure well with
+C0521654,l Thera
+C0444532,Occupation
+C1621958,ncology saw the patient
+C1827816,ile in the ho
+C3463824,MYELODYSPLASTIC SYNDROME
+C0003873,RHEUMATOID ARTHRITIS
+C0011849,DIABETES MELLITUS
+C0221158,MULTIPLE FOCAL ATRIAL TACHYCARDIA
+C0018802,CONGESTIVE HEART FAILURE
+C0007193,DILATED CARDIOMYOPATHY
+C0232174,EJECTION FRACTION
+C1956346,CORONARY ARTERY DISEASE
+C1960973,HOME O2
+CUI-less,multiple medical problems
+C3463824,myelodysplastic syndrome
+C0474550,decreased hematocrit
+C0581384,chronic anemia
+C0005954,a bone marrow biopsy
+C3463824,myelodysplastic syndrome
+C1879316,His transfusions
+C0546817,fluid overload
+C0018802,congestive heart failure
+C0349782,ischemia cardiomyopathy
+C1879316,a transfusion
+C0009566,complications
+C0012833,dizziness
+C0015672,fatigue
+C0474550,a low hematocrit
+C1879316,transfusion
+C0015967,fever
+C0085593,chills
+C0008031,chest pain
+C0019079,hemoptysis
+C0003864,arthritis
+C0007642,cellulitis
+C0030578,paronychia
+C3463824,Myelodysplastic syndrome
+C1956346,Coronary artery disease
+C0349782,ischemiccardiomyopathy
+C0232174,ejection fraction
+C0221158,MAT
+C0024117,chronic obstructive pulmonary disease
+C1960973,home oxygen
+C0011860,Non insulin dependent diabetes mellitus
+C0003873,Rheumatoid arthritis
+C0030920,peptic ulcer disease
+C0521707,Cataracts
+C0033860,Psoriasis
+C0019079,hemoptysis
+C0699129,Coumadin
+C0040771,TURP
+C0034417,Quinine
+C0034414,Quinidine
+C0591139,Bactrim
+C0699177,Plaquenil
+C0204688,Temperature
+C0034107,heart rate
+C0205271,irregular
+C0005824,blood pressure
+C0523807,O2 saturation
+CUI-less,2 liters
+C0521707,Bilateral cataracts
+C0497156,lymphadenopathy
+C0034642,Rales
+C0436125,Cardiovascular examination
+C1167958,jugular venous distention
+C0007280,carotid bruits
+C0034107,heart rate
+C0039231,tachycardic
+C0018808,murmur
+C0028754,Obese
+C0520960,non-tender
+C2711635,Heme
+C0427244,Joint deformities
+C0003873,rheumatoid arthritis
+C0027853,Neurological examination
+C0438930,SMA-7
+C0201975,a creatinine
+C0337438,a glucose
+C0018935,Hematocrit
+C0023508,white count
+C0032181,platelets
+C0200633,a ANC
+C0162401,differential
+C0523107,segs
+C0200634,bands
+C0200635,lymphs
+C0200637,monos
+C0337449,Digoxin level
+C0039773,Theo-Dur level
+C0033707,PT
+C0030605,PTT
+C0042014,Urinalysis
+C0039985,Chest x-ray
+C0018800,enlarged heart
+C1623258,EKG
+C0221158,MAT
+C0004238,atrial fibrillation
+C0085612,a ventricular response
+C0429007,axis
+C0520887,ST scooping
+C0012265,Dig
+C0204727,isolation
+C0699992,Lasix
+C0018802,congestive heart failure
+C1277077,radiated Leuco
+C0018935,his hematocrit
+C0018935,his hematocrit
+C0018935,His hematocrit
+C0018935,hematocrit
+C0231221,asymptomatic
+C1879316,the transfusions
+C0018935,his hematocrit
+C0202113,his LDH
+C2711635,guaiac
+C0032952,Prednisone
+C0042523,Verapamil
+C0012265,Digoxin
+C0590720,Isordil
+C0039771,Theo-Dur
+C0699992,Lasix
+C0014025,Enalapril
+C0678119,Pepcid
+C0442808,increasing
+C3714552,weakness
+C0443172,change
+C0010201,chronic cough
+CUI-less,somewhat
+C0332514,asymmetric
+C0040132,thyroid
+C0522499,palpable
+C0425593,S4
+C2316467,packed red blood cells
+C0205156,prior
+C1879316,transfusion
+C0439064,multiple
+C1879316,transfusionsm
+C2316467,packed red blood cells
+C0002871,ANEMIA
+C0231220,SYMPTOMATIC
+C0006267,BRONCHIECTASIS
+C0205191,CHRONIC
+C0205309,known
+C1879316,transfusion
+C0851827,dependent
+C0018799,cardiac
+C0018799,disease
+C0024115,pulmonary disease
+C1879316,transfusing
+C0442808,increasing
+C0686904,requirements
+C0018802,congestive heart failure
+C0159028,symptoms
+C0559681,po antibiotic
+C0008809,Ciprofloxacin
+C0586987,great toe infection
+C0205090,right
+C0006267,bronchi ectasis
+C0205191,chronic
+C0238767,bilateral
+C0374711,repair
+C0223125,C3
+C0700594,radiculopathy
+C0028259,nodule
+C0700321,small
+C0041834,erythema
+C0547040,minimal
+C0033860,psoriasis
+C0205219,Diffuse
+C0460005,trunk
+C0230332,arms
+C0853697,neutropenia
+C0205344,absolute
+C0332620,redistribution
+C2945599,mild
+C0459963,pulmonary vascular
+C0018802,congestive heart failure
+C0439806,gross
+C0264694,chronic ischemia
+C0443172,changes
+C0443172,change
+C0750502,significant
+C1290922,baseline
+C1623258,EKG
+C0027947,neutropenic
+C1300317,precautions
+C0018802,CHF
+C0420834,stand point
+C0878707,a drop in his hematocrit
+C0017181,GASTROINTESTINAL BLEED
+C0243026,SEPSIS
+C0017181,GASTROINTESTINAL BLEED
+C0019151,HEPATIC ENCEPHALOPATHY
+C0022661,END STAGE RENAL DISEASE
+C0011946,DIALYSIS
+C0025222,dark stools per rectum
+C0878707,hematocrit drop
+C0013404,short of breath
+C0011946,dialysis
+C0017181,His gastrointestinal bleeding issues
+C0079304,an upper endoscopy
+C0038358,gastric ulcerations
+C0267115,an non-steroidal anti-inflammatory drugs gastropathy
+C0700777,Prilosec
+C0004057,The aspirin
+C0017181,gastrointestinal bleeding
+C0018935,hematocrit
+C0025517,any metabolic abnormalities
+C0022957,lactulose
+C0019151,hepatic encephalopathy
+C1265175,Vancomycin resistant enterococcus
+C0023508,his white count
+C1443397,a respiratory rate
+C0523807,oxygen saturations
+C0523807,his oxygen saturations
+C0548067,Nasal trumpet suction
+C0005800,Blood gases
+C0202165,a pH
+C0428189,a pCO2
+C0337438,a sugar
+C0337438,the sugar
+C0282386,levofloxacin
+C0699678,Flagyl
+C0042313,Vancomycin
+C0003232,These antibiotics
+CUI-less,further invasive measures
+C0004398,an autopsy
+CUI-less,somewhat
+C0546817,fluid overloaded
+CUI-less,apparent
+C0546817,fluid overload
+C0004057,aspirin
+C0442808,increasingly
+C0023380,lethargic
+C0205231,extensive
+CUI-less,work-up
+C0740299,positive blood culture
+CUI-less,somewhat
+C0023380,lethargic
+C1276802,acutely
+C0013404,short of breath
+C0205314,new
+C0201889,anion gap
+C0205341,Repeat
+C0005800,blood gas
+C0457575,Fingerstick
+C0337438,glucose
+C0438930,panel 7
+C0205548,stat
+C1305553,100%
+C1960093,nonrebreather
+C0027051,MYOCARDIAL INFARCTION
+C0027051,myocardial infarction
+C0003504,aortic insufficiency
+C0030567,Parkinson 's Disease
+C0699790,colon carcinoma
+C0018802,congestive heart failure
+C0015260,An exercise tolerance test
+C0011923,imaging
+C0563275,Right sided chest pain
+C0030567,Parkinson 's Disease
+C0039240,supraventricular tachycardia
+C0699790,colon carcinoma
+C0563275,right sided chest pain
+C0030193,the pain
+CUI-less,direct pressure to the point
+C0027051,myocardial infarction
+C0030567,Parkinson 's Disease
+C0020538,hypertension
+C1331537,aorticsclerosis
+C0699790,colon carcinoma
+C0009214,Codeine
+C0699992,Lasix
+C0074559,Sinemet
+C0591275,Cogentin
+C0306054,Eldepryl
+C0032825,Potassium chloride
+C0038454,a stroke
+C0020538,hypertension
+C0011849,diabetes mellitus
+C0150404,The vital signs
+C0204688,a temperature
+C0034107,heart rate
+C0005824,blood pressure
+C1443397,respiratory rate
+C0523807,satting
+CUI-less,atraumatic
+C0006318,bruits
+C0024204,nodes
+C0018021,thyromegaly
+C0022821,kyphotic
+C0235634,costovertebral angle tenderness
+C0234233,tenderness
+C4075263,organomegaly
+C0149651,clubbing
+C1456822,claudication
+C0013604,edema
+C0438930,The patient 's SMA 7
+C0005845,a BUN
+C0201975,creatinine
+C0337438,a glucose
+C0005774,chemistries
+C0201973,a creatine kinase
+C0430443,measured methylene blue fraction
+C0009555,The complete blood count
+C0023508,a white count
+C0018935,hematocrit
+C0032181,platelet count
+C0018802,congestive heart failure
+C0032285,pneumonia
+C0027051,formyocardial infarction
+C0014440,enzymes
+C0015260,a exercise stress test
+C0034107,a heart rate
+C0003811,arrhythmias
+CUI-less,the test
+C0438716,chest pressure
+C0030193,pain
+C0013404,dyspnea
+C0034606,nuclear medical imaging
+C0022116,ischemia
+C0699992,Lasix
+C0074559,Sinemet
+C0591275,Cogentin
+C0306054,Eldepryl
+C0032825,Potassium chloride
+C0025859,Metoprolol
+C0038293,sternum
+C0332301,radiation to
+C3466369,sublingual nitroglycerins
+C0205392,some
+C0013404,shortness of breath
+C0205392,some
+C0220870,lightheadedness
+C0030193,pain
+C0444532,right sided
+C0022821,kyphosis
+C0205082,severe
+C0004057,aspirin
+C0878881,nasal cannula
+C0332241,Equivocal
+C0151564,cogwheeling
+C0205090,right
+C0205180,anicteric
+C0036410,sclera
+C0277910,systolic ejection murmur
+C0205170,well
+C0205249,healed
+C2004491,scar
+C0039985,chest x-ray
+C0443172,changes
+C1623258,electrocardiogram
+C0013216,medications
+C0521116,current
+C0004057,aspirin
+C0008031,chest pain
+C0205234,focal
+C0445247,same
+C0034642,crackles
+C0225704,both bases
+C0205379,visible
+C0040822,tremor
+C0230370,right hand
+C0230460,right
+C0230460,foot
+C0040822,Tremors
+C0230370,right hand
+C0230460,right
+C0230460,foot
+C0438653,Portable
+C0438653,x-ray
+CUI-less,Enteric coated
+CUI-less,Enteric coated
+C0232249,1 out of 6
+C0232249,murmur
+C0008031,Chest pain
+C0700452,ENALAPRIL MALEATE
+C0438716,chest pressure
+C0027051,mi
+C0008031,Chest pain
+C0008031,Chest pain
+C0027051,MI
+C0013516,Echocardiogram
+C1691002,MRA Kidney
+C0020538,HTN
+C0020443,hyperchol
+C0460139,Pressure
+C0013404,SOB
+C0027497,nausea
+C0030252,palpitations
+C1527384,tremulousness
+C0700590,diaphoresis
+C0020538,HTN
+C0005824,BP
+C0005824,BP
+C0030193,Pain
+C0066814,MSO4
+C0005824,BP
+C0027051,MI
+C1261322,eval
+C4049375,demand ischemia
+CUI-less,w / u
+C0745138,HTN urgency
+C0031809,PE
+C0005824,BP
+CUI-less,2L
+C0031809,Exam
+C0022885,Labs
+C0201973,CK
+C0523952,Trop
+C0018935,Hct
+C0863148,MCV
+C1623258,EKG
+C0023211,LBBB
+C0039985,CXR
+C0006938,Captopril
+C3466236,nitropaste
+C0460139,pressure
+C0066814,MSO4
+C0008031,CP
+C0013516,Echo
+C0243032,MRA
+C0333288,dissection
+C0523554,urine catecholamines
+C0202247,VMA
+C2711635,Guaiac all stools
+C0337439,iron studies
+C0008031,Chest Pain
+C0006938,captopril
+C0700776,lopressor
+C3466236,NTG paste
+C0438716,Her CPress
+C0027051,mi
+C0201973,CPK
+C0030548,TPN
+C0020538,Hypertension
+C0006938,captopril
+C0700776,lopressor
+C3466236,NTG paste
+C1691002,MRA kidney
+C1261287,stenosis
+C0039985,CXR
+CUI-less,comp arison film
+C0013516,echo
+C0232174,EF
+C0026266,MR
+C0455060,-24h urine study
+C0700548,METOPROLOL TARTRATE
+C0700776,LOPRESSOR
+C0262580,No Known Allergies
+C0438716,chest pressure
+CUI-less,SS
+C0205314,new
+CUI-less,SS
+C0438716,chest pressure
+C2316391,drip
+C0017887,NTG
+C0204688,T
+C0034107,P
+C1443397,RR
+C0232250,II / VI
+C0232250,murmur
+C0232257,systolic murmur
+C0442711,protocol
+CUI-less,ROMI
+C0442711,protocol
+C0008031,CP
+C0524464,parenchymal
+C0577305,lesions
+C0746459,mediastinal widening
+C0205379,obvious
+C0333074,flattening
+C0442004,septal
+C0040961,TR
+C2945599,mild
+C0442822,trace
+C0013687,effusion
+C0015967,FEVER
+C0853697,NEUTROPENIA
+C0007642,CELLULITIS
+C0015967,FEVER
+C1956346,coronary artery disease
+C0010055,CABG
+C0231218,unwell
+C0542269,his non-Q wave MI
+C0360714,Statin
+C0003864,arthritis
+C0003862,joint pain
+C0231528,myalgia
+C0015672,fatigue
+C0409652,"a rheumatoid factor negative , rheumatoid arthritis"
+C0700017,Naprosyn
+C0032952,prednisone
+C0036078,sulfasalazine
+C0028081,night sweats
+C0032952,the prednisone
+C0231528,myalgias
+C0036078,sulfasalazine
+C0027497,nausea
+C0042963,vomiting
+C3714435,decreased p.o. intake
+C0266813,A guaiac positive stool
+C0032952,The patient &apos;s prednisone
+C0015967,a fever
+C0023530,leukopenic
+C0023508,a white blood cell count
+C0200633,neutrophils
+C0018935,a hematocrit
+C0032181,platelets
+C0863148,a MCV
+C0427460,RDW
+C1289919,IV fluids
+C0020933,imipenem
+C0041834,erythema
+C0235592,cervical lymphadenopathy
+C0151602,his swelling of his face
+C0412620,The CT of the abdomen
+C0497156,lymphadenopathy
+C2315676,The CT of head and neck
+C0015645,fasciitis
+CUI-less,deep tissue thread
+C0740690,abscesses
+C0013404,shortness of breath
+C0008031,chest pain
+C0085619,orthopnea
+C0013428,dysuria
+C0018965,hematuria
+C0547030,visual changes
+C0015230,rashes
+C0344232,blurry vision
+C1956346,Coronary artery disease
+C0027051,MI
+C0010055,CABG
+C0003864,arthritis
+C0043246,tears
+C0020538,hypertension
+C0020473,hyperlipidemia
+C0036078,Sulfasalazine
+C0032952,prednisone
+C0700017,Naprosyn
+C0678140,Zestril
+C0700776,Lopressor
+C0721124,iron supplementation
+C1956346,coronary artery disease
+C0027051,MI
+C0006826,cancer
+C0204688,The patient &apos;s temperature
+C0034107,heart rate
+C0005824,blood pressure
+C1443397,respiratory rate
+C0523807,satting
+C0015388,exudate
+C0019080,hemorrhage
+C0242301,a boil
+C0034161,pus
+C0234233,tenderness
+C1761613,conjunctivae injected
+C0015388,exudate
+C0034161,pus
+C1268768,Dentition very poor
+C0030247,palpation
+C0043144,wheezes
+C0039231,tachycardia
+C0018808,murmurs
+C1167958,JVD
+C0028754,Obese
+C0577599,non-distended
+C0013604,edema
+C0034935,Babinski reflex
+C0023508,a white cell count
+C0200633,neutrophils
+C0200634,bands
+C0200635,lymphs
+C0200637,monos
+C0018935,hematocrit
+C0032181,platelets
+C0201836,ALT
+C0201899,AST
+C0201850,alk phos
+C0201913,a total bili
+C0555903,Total protein
+C0201838,albumin
+C0877347,globulin
+C0201992,His electrolyte panel
+C0337443,sodium
+C0337443,sodium
+C0201952,chloride
+C0202059,bicarb
+C0005845,BUN
+C0201975,creatinine
+C0392201,blood glucose
+C0337439,Iron studies
+C0373607,a ferritin
+C0337439,an iron
+C1283048,a TIBC
+C1623258,EKG
+C0039231,tachycardia
+C1287077,Q-waves
+C0232326,ST-T wave changes
+C0039985,The patient &apos;s chest x-ray
+C0007559,ceftazidime
+C0027324,nafcillin
+C0699678,Flagyl
+C0149778,a soft tissue infection
+C0005954,a bone marrow biopsy
+C0302173,myeloid arrest
+C0853697,neutropenia
+C0036078,the sulfasalazine
+C0023508,the patient &apos;s white blood cell count
+C0079459,G-CSF
+C0079459,the G-CSF
+C0200633,the absolute neutrophil count
+C0003232,The patient &apos;s antibiotics
+C0008947,clindamycin
+CUI-less,sialagogue
+C0038999,the swelling
+C0234233,tenderness
+C0041834,erythema
+C0003232,antibiotics
+CUI-less,workup
+C0003864,arthritis
+C0409652,"rheumatoid factor negative , rheumatoid polyarthritis"
+C0005954,a bone marrow biopsy
+C0184661,any procedures
+C0282638,antibiotic coverage
+C0008947,clindamycin
+C0740299,positive blood cultures
+C0277797,afebrile
+C3222132,Topical Bactroban
+C0032952,prednisone
+C0032825,K-Dur
+C0722364,OxyContin
+C0008947,clindamycin
+C0065374,lisinopril
+C0004147,atenolol
+C0040805,trazodone
+C0700777,Prilosec
+C0975746,clotrimazole 1% cream topical
+C0009566,complications
+C0010055,CABG
+C0699752,review
+C0010055,CABG
+C0205435,first
+C0442808,increasing
+C1262477,weight loss
+C0015672,fatigue
+C0205217,increased
+C0000737,abdominal pain
+C0205219,diffuse
+C0036078,sulfasalazine
+C0178602,dose
+C1444749,flare
+C0003864,arthritis
+C0032952,prednisone
+C0178602,dose
+C0000737,abdominal pain
+C0442808,increasing
+C0151602,face
+C0151602,swelling
+C0578454,neck swelling
+C2315676,"CT of head , neck"
+C0412620,CT
+C0412620,abdomen
+C0205090,right
+C3887499,renal cyst
+C0011164,degeneration
+C0238767,bilateral
+C0085515,rotator cuff
+C0041834,erythema
+C1282914,surrounding
+C0238767,bilateral
+C0549177,large
+C0578454,neck
+C0578454,swelling
+C0424822,submandibular swelling
+C0442824,very
+C0234233,tender
+C0225704,bibasilar
+C0034642,rales
+C0439742,Scattered
+C0205219,diffuse
+C2945599,mild
+C0234233,tenderness
+C0027947,Neutropenic
+C1300317,precautions
+C0205341,repeat
+C2315676,head and neck CT
+C0030583,parotitis
+C0205090,right
+C0205091,left
+C1264056,submandibular lymphadenopathy
+C0027540,necrosis
+C0205392,some
+C0205379,frank
+C0740690,abscesses
+C0032952,prednisone
+C1827449,taper
+C0152277,incision and drainage
+C0030583,parotitis
+C0205090,right
+C0027540,necrosis
+C0205091,left
+C0934462,submandibular
+C0588054,cervical lymph node
+C0011923,imaging
+C0205341,repeat
+C0038358,GASTRIC ULCER
+C0038358,Gastric ulcer
+C0031048,constricting pericarditis
+C0035222,adult respiratory distress syndrome
+C0043252,gunshot wounds
+C0030486,paraplegia
+C0175753,a Greenfield filter
+C0399642,a gastric pull up
+C0192963,a transverse colostomy
+C0591139,Bactrim
+C0042313,Vancomycin
+C0354688,Albuterol inhaler
+C0002679,Amphotericin B
+C0007559,Ceftazidime
+C0008809,Ciprofloxacin
+C0072916,Cisapride
+C0037518,Dakin &apos;s solution
+C0700899,Benadryl
+C0006935,capsule
+C0699992,Lasix
+C0086787,Percocet
+C0040805,Trazodone
+C0301532,multivitamins
+C0043252,a gunshot wound
+C0029944,a drug overdose
+C0035222,adult respiratory distress syndrome
+C0031048,constrictive pericarditis
+C0031041,a pericardial window
+C0203065,a barium swallow
+C0014245,endoscopy
+C0577006,an interruption of his esophagus
+C0043252,his gunshot wound
+C0041582,an ulcer
+C0583980,further management
+C0013404,shortness of breath
+C0013969,a life saving procedure
+C0014873,esophagoscopy
+C0006290,bronchoscopy
+C0031042,pericardectomy
+C0728940,excision
+C0038358,gastric ulcer
+C0374711,repair
+C0038358,gastric ulcer
+C0438798,pectoralis major myocutaneous flap
+C1292726,associated illnesses
+C0028420,Nortriptyline
+C0011581,depression
+C0030486,a paraplegic from T4 down
+C0011127,decubiti ulcer disease
+C0031048,constrictive pericarditis
+C0543467,his surgical procedure
+C0018795,a cardiac catheterization
+C0009566,complications
+C1293858,The cardiac output
+C0428776,an index
+C1641586,cardiac ultrasound
+C0554756,Doppler
+C0040961,tricuspid insufficiency
+C0344709,right atrial dilatation
+C0012359,dilated
+C1261287,constrictive physiology
+C0041618,this ultrasound
+C0018799,his cardiac condition
+C0039991,thoracotomy
+C0524724,staples
+C3543005,the incisions
+C0184661,his procedure
+C0038969,these stitches
+C0030054,oxygen
+C0181744,face mask
+C0523807,his saturations
+C0013216,His medications
+C0399682,gastric ulcer repair
+C0009410,a colostomy
+C0016169,a sinus tract
+C0202613,a fistulogram
+C0016169,a sinus tract
+C0016169,fistula
+C0543467,any surgical treatment
+C0033213,this problem
+C0087111,the best treatment
+C1971624,no appetite
+CUI-less,very poor effort
+C0001563,po. medicines
+C0240698,an ulcer on his penis
+C0085671,dressing changes
+C1970989,a Foley catheter
+C1970989,his Foley catheter
+C0026771,These wounds
+C2064709,wet to dry dressings
+C0023508,The patient &apos;s white count
+C0016277,Fluconazole
+C0039985,The chest X-ray
+C0032285,pneumonia
+C0030193,Pain
+C0030049,Oxycodone
+C0030193,pain
+C0078944,a PCA
+C0700899,Benadryl
+C0027409,his narcotics
+C0030049,the Oxycodone
+C0013216,the patient &apos;s medications
+C0008783,Cimetidine
+C0699932,Senokot
+C0025559,Metamucil
+C0028420,Nortriptyline
+C0032825,KCL
+C0016277,Fluconazole
+C0699992,Lasix
+C0700777,Prilosec
+C0700899,Benadryl
+C0030049,Oxycodone
+C0031048,his constrictive pericarditis
+C0543467,a surgical procedure
+C0031048,his constrictive pericarditis
+C0038358,a gastric ulcer
+C0439064,multiple
+C0543467,surgical procedures
+C0442804,very high
+C1287690,venous pressures
+C0205250,elevated
+C0456165,right atrial pressure
+C0205081,moderate
+C0020542,pulmonary hypertension
+C0205161,abnormal
+C1287722,right ventricle wall motion
+C0442822,trace
+C0026266,mitral regurgitation
+C0750572,estimated
+C0232174,ejection fraction
+C0442822,trace
+C0034088,pulmonary insufficiency
+C0205369,specific
+C0013216,medications
+C0205394,other
+C0003232,antibiotics
+C0443302,several
+C0205394,other
+C0013216,medications
+C0017128,GASTRIC
+C0017128,FISTULA
+C0265127,PERICARDIAL FISTULA
+C0265127,pericardial fistula
+C0017128,gastric
+C0017128,fistula
+C0558160,decubiti on his buttocks
+C0439064,multiple
+C0011127,decubiti
+C0030851,penis
+C0016169,sinus tract
+C0000726,abdomen
+C1706537,swish and swallow
+C0028741,Nystatin
+C0031046,pericarditis
+C0006836,Candidal
+C0031050,pericardial
+C0038358,gastric
+C0038358,ulcer
+C0205156,previous
+C0230145,substernal
+C0017125,gastric bypass
+C0031050,pericardial
+C0038358,gastric
+C0038358,ulcer
+C0424579,poor condition
+C0442824,very
+C0232172,hypokinetic
+C0205219,diffusely
+C0038969,sutures
+C0817096,chest
+C0001927,Albuterol
+C2919541,nebulizer
+C0009452,communication
+C0021853,intestines
+C0085671,dressing changes
+C2064709,wet to dry dressing
+C0011127,decubiti
+C0439064,multiple
+C0011127,decubiti
+C0549177,large
+C0205393,most
+C0332185,recent
+C2242979,cultures
+C0001927,Albuterol
+C2919541,nebulizer
+C0085671,dressing changes
+C2064709,wet to dry dressing
+C0036082,Saline
+C0011127,decubiti
+C0030851,penis
+C0030797,pelvis
+C0582480,humidified oxygen
+C0849584,Followup
+C0562319,cardiac studies
+C0041582,ulcer
+C0041582,ulcer
+C1706406,debulking of tumor
+C3879162,stulz neuro navigation
+C0575081,gait difficulty
+C0007107,laryngeal cancer
+C0038454,CVA
+C0020538,hypertension
+C4040706,progressive difficulty in ambulation
+C0311394,problems ambulating
+C0562921,difficulty buttoning his shirt
+C0038454,a stroke
+C0311394,a hard time walking
+C0006856,a cane
+C2316224,his gait weakness
+C0159028,his symptoms
+C0439829,unsteady
+C0043016,a walker
+C0040405,a CG scan
+C4047371,a mass in the right parietal lobe
+C0420266,further workup
+C0577559,the mass
+C0344232,blurry vision
+C0018681,headache
+C0027497,nausea
+C0042963,vomiting
+C0030554,paresthesias
+CUI-less,pain in mental status
+C0683369,confusion
+C0036572,seizures
+C1522449,radiation therapy
+C0728940,resection
+C0524865,reconstruction
+C0007107,his laryngeal cancer
+C0020538,Hypertension
+C0038454,CVA
+C0011849,diabetes
+C0007107,laryngeal cancer
+C0033573,prostatectomy
+C1704272,BPH
+C0086511,total knee replacement
+C0003611,appendectomy
+C0633084,Plavix
+C0593906,Lipitor
+C0020261,HCTZ
+C0728957,Monopril
+C0663448,Viagra
+C0262581,NKDA
+C1956346,CAD
+C0011849,diabetes
+C0038454,CVA
+C0020443,hypercholesterolemia
+C0277797,Afebrile
+C0150404,vital signs
+C0005824,a blood pressure
+C0028738,nystagmus
+C0035317,retinal hemorrhages
+C1268768,poor dentition
+C0018021,thyromegaly
+C0231872,egophony
+C1720139,heave
+C0520960,nontender
+C0577599,nondistended
+C0019209,hepato
+C0038002,splenomegaly
+C0235634,CVA tenderness
+C0031256,petechiae
+C0023508,White blood cell count
+C0525032,INR
+C0013516,Echocardiogram
+C0232174,an EF
+C0039985,Chest xray
+C0702116,consolidation
+C0013604,signs of edema
+C0040405,CT
+C2939419,metastatic disease
+C0085136,primary CNS neoplasm
+C0017636,glioblastoma
+C0024485,MRI
+CUI-less,workup
+C0027651,his tumor
+C0159028,his symptoms
+C1706406,open debulking
+C0332142,a pathologic diagnosis
+C1706406,debulking
+C0027651,the tumor
+C3879162,stulz neuro navigation
+C0184661,the procedure
+C1293091,preoperative assessment
+CUI-less,remarkable findings
+C0206077,Transcranial Dopplers
+C0543467,surgery
+C0740057,Decadron
+C0038999,swelling
+C0917726,Fragmin
+C2585945,DVT prophylaxis
+C0202454,Dilantin levels
+C0080274,an inability to void
+C0179802,a 16 French Coude catheter
+C0403742,voiding trials
+C0179802,a 16 Coude catheter
+C0403742,voiding trials
+C0662903,Flomax
+C0543467,the operation
+C3224417,po Decadron
+C0024730,Mannitol
+C0420637,His pathology
+C0030193,The patient &apos;s pain
+C0030193,his pain
+C1287347,his serum electrolytes
+C0037473,sodium
+C0204700,fluid restriction
+C0337443,his sodium levels
+C1272109,his plasma sodium
+C0204700,fluid restriction
+C0024730,Mannitol
+C1384666,hard of hearing
+C0436561,complaints of pain
+C0593906,Lipitor
+C0006938,Captopril
+C0939400,Nexium
+C0282139,Colace
+C0699194,Ativan
+C0003467,anxiety
+C1110594,Allegra
+C0699512,Dilantin
+C0043481,Zinc
+C0003968,Vitamin C
+C0662903,Flomax
+C0917726,Fragmin
+C0282386,Levofloxacin
+C0011777,Dexamethasone
+C0038317,The steroid
+CUI-less,Neutra-Phos
+C0524724,The staples
+C0019080,any bleeding
+C0043241,wound infection
+C0015967,fever
+C3697880,intractable nausea and vomiting
+C0018681,headache
+C0012833,dizziness
+C0028643,numbness
+C0030193,pain
+C3714552,weakness
+C0543467,surgery
+C0699512,Dilantin
+CUI-less,apparent
+C0231303,distress
+C0205394,other
+C1265602,masses
+C0232251,3/6
+C0232251,murmur
+C0277910,systolic ejection murmur
+C0234376,intention tremor
+C0230371,left hand
+C0032790,postoperative
+C0024485,MRI
+C0032790,post surgical
+C0443172,changes
+C0205341,repeat
+C0011923,imaging
+C0205392,some
+C0013604,edema
+C2317349,IV
+C0740057,Decadron
+C0032790,postoperative
+C0523891,serum sodium
+C0949766,physical
+C0949766,therapy
+C1318464,occupational therapy
+C0205090,Right
+C1263887,temporal tumor
+C1263889,occipital
+C1263889,tumor
+C1263888,parietal
+C1263888,tumor
+C0010280,craniotomy
+C0205090,right
+C0230004,parietal
+C0230005,occipital
+C1290910,ADLs
+C3853152,more difficulty
+C0230473,feet
+C0520966,uncoordination
+C0442808,increasing
+C3714552,weakness
+C0085639,falls
+C0442808,increasing
+C0332218,difficulty
+C3714552,weakness
+C1446409,Positive
+C0014099,CEA
+C0205090,right
+C0015388,exudates
+C0041834,erythema
+C0031354,pharynx
+C0205095,posterior
+C0238767,bilaterally
+C0036098,salivary glands
+C0205402,Prominent
+C0497156,lymphadenopathy
+C0230077,clavicular
+C0235592,cervical
+C0235592,lymphadenopathy
+C0230009,para-auricular
+C0522499,palpable
+C0232269,thrill
+C0230178,Right lower quadrant
+C2004491,scar
+C2004491,scar
+C0542339,inferior
+C0549183,midline
+C0012727,deviation
+C2937276,slight
+C0042173,uvula
+C0040408,tongue
+C0026826,increased tone
+C0230329,right upper extremity
+C1504476,pronator drift
+C0205091,left
+C2937276,slight
+C0011923,imaging
+C1301772,relevant
+C4047371,right parietal
+C4047371,mass
+CUI-less,hyperdense and heterogenously enhancing
+C1282914,surrounding
+C0472387,vasogenic edema
+C4047371,right parietal mass lesion
+C0549177,large
+CUI-less,heterogenous enhancing
+C0332261,spread
+C0228092,ependymal
+C2919215,tumor burden
+C0522501,tremendous
+C0010280,craniotomy
+C0205090,right
+C0230004,parietal
+C0230005,occipital
+C0577559,mass
+C1280500,affect
+C3714444,load
+C2317349,IV
+C0740057,Decadron
+C0017638,glioma
+C0549177,large
+CUI-less,grade IV
+C0002771,pain medications
+C2317349,IV
+C0002771,pain medications
+C2316867,po
+C1276413,regimen
+C2316867,po
+C0021641,Regular insulin
+C0557977,sliding scale
+C0034642,Crackles
+C0225706,right lung field
+C0235974,Pancreatic carcinoma
+C0031150,Laparoscopy
+C0005558,biopsy
+C0030193,the pain
+C0040405,a CT scan
+C0577559,a mass
+C1880304,an exploratory laparoscopy
+C0037944,spinal stenosis
+C0543467,operations
+C0374711,repair
+C3887590,a ureteral stricture
+C1532399,cataract implants
+C0003611,an appendectomy
+C0722364,Oxycontin
+C1384520,Darvocet
+C0717752,Estratab
+C0004057,Aspirin
+C0005824,The blood pressure
+C0034107,pulse
+C1443397,respirations
+C0004339,auscultation
+C0018808,murmurs
+C0746412,palpable masses
+C1880304,a diagnostic laparoscopy
+C0031148,peritoneal washings
+CUI-less,no gross evidence seating in the abdominal wall
+C0028259,one nodule
+C0028259,one nodule
+C0370003,Specimens
+C0031148,peritoneal washings
+C0009566,complications
+C0184661,the procedure
+C2364135,uncomfortable
+C0004057,aspirin
+C0086787,Percocet
+C0030193,pain
+C0717752,Estratab
+C0225355,cytopathology specimens
+C1647891,surgical pathology specimens
+CUI-less,these tests
+C0442808,increasing
+C0238552,pain in her left upper quadrant
+C1270947,partial hysterectomies
+C0262581,No known drug allergies
+C0205392,some
+C1291077,abdominal bloating
+C0205341,repeated
+C0117857,Fleet &apos;s enemas
+C0332281,associated
+C1262477,weight loss
+C0205355,permanent
+C1292599,specimens from the liver
+C0230240,falciform
+C0028259,nodules
+C0038536,subcutaneous emphysema
+C0000726,abdomen
+C0205136,over
+C1446787,cramping
+C0000726,abdominal
+C2945599,mild
+C4019039,ileus
+C0020538,hypertension
+C0013216,his medications
+C0025741,Aldomet
+C0009014,Clonidine
+C0011860,adult onset diabetes mellitus
+C0038013,ankylosing spondylitis
+C0027051,myocardial infarction
+C0234518,slurred
+C0040405,a computerized tomography scan
+C0005824,His blood pressure
+C0422943,visual symptoms
+C0728763,Vasotec
+C0702216,Soma
+C0009014,Clonidine
+C0011849,diabetes mellitus
+C0006826,cancer
+C0031809,On physical examination
+C0277797,afebrile
+C0005824,blood pressure
+C0034107,heart rate
+C0006318,bruits
+C0562318,Cardiovascular exam
+C0004339,auscultation
+C0030987,percussion
+C0520960,non-tender
+C0028754,obese
+C0427008,stiff
+C0234233,sore
+C0027853,neurological examination
+C0234411,extinction
+C0576675,pin prick
+C0430740,Motor examination
+C0200116,sensory examination
+C0278158,The finger-to-nose
+C0437365,reflex examination
+C0009024,clonus
+C0201992,Electrolytes
+C0337438,glucose
+C0005845,BUN
+C0201975,creatinine
+C0018935,hematocrit
+C0023508,white blood count
+C0032181,platelet count
+C1271714,polys
+C0200634,bands
+C0200635,lymphs
+C1623258,The electrocardiogram
+C0202691,Head computerized tomography scan
+C0333051,shift
+C0039985,The chest X-ray
+C0027853,The neurological examination
+C0575809,movement in the hand
+C0576332,wiggle toes
+C0020538,hypertension
+C0728763,Vasotec
+C0028066,Nifedipine
+C0009014,Clonidine
+C0005824,blood pressure
+C0871470,systolic
+C0428883,diastolic
+C0034107,heart rate
+C0699187,Valium
+C0037763,Muscle spasms
+C0728797,Flexeril
+C0011849,diabetes mellitus
+C0017628,Micronase
+C0728763,Vasotec
+C0009014,Clonidine
+C0028066,Nifedipine
+C0728797,Flexeril
+C0699187,Valium
+C0017628,Micronase
+C3539909,allergic
+C0086787,Percocet
+C0717448,Percodan
+C0020538,hypertension
+C0011849,diabetes mellitus
+C0018991,hemiplegia
+C0023216,leg
+C0230026,left face
+C1704243,greater than
+C0230330,left
+C0230330,arm
+C0205225,primary
+C0234216,hemisensory loss
+C0205091,left
+C0018681,headache
+C0205099,central
+C1455762,dull
+C2945599,mild
+C0028643,numb
+C0205092,on that side
+C0205151,capsular
+C0472376,thalamic
+C0472376,hemorrhage
+C1280500,effect
+C1403582,superficial mass
+C0007776,cortical-type
+C0159028,symptoms
+C0558288,prn
+C0935966,Demerol
+C0262581,no known drug allergies
+CUI-less,no acute distress
+C0277910,systolic ejection murmur
+C0232249,I/VI
+C0232249,murmur
+C0234233,tenderness
+C0392752,localizing
+C0039478,sensation to temperature
+C0441994,lower
+C0230026,left facial
+C0205216,decreased
+C0205091,left
+C0205216,decreased
+C0231762,shrug
+C0340321,old
+C0340321,inferior myocardial infarction
+C1287077,Q wave
+C0472376,bleed in the
+C0472376,thalamus
+C0205090,right
+C0332482,distortion
+C2945599,mild
+C0332294,resulting
+C0392201,sugars
+C0205090,Right
+C0472376,thalamic hemorrhage
+C1288083,flexor and plantar
+C0026269,MITRAL STENOSIS
+C0026269,Mitral stenosis
+C0040961,Tricuspid regurgitation
+C0018801,heart failure
+C0694539,chronic atrial fibrillation
+C0024117,chronic obstructive lung disease
+C0014591,Epistaxis
+C0699129,Coumadin
+C0018795,Cardiac catheterization
+C0024119,Pulmonary function test
+C0035436,rheumatic fever
+C0694539,chronic atrial fibrillation
+C0699129,Coumadin
+C0033707,prothrombin time
+C0085826,anti-platelet agents
+C0264716,progressive heart failure
+C0430461,A Holter
+C0004238,atrial fibrillation
+C0262662,ventricular bigemini
+C0020538,hypertension
+C0011849,diabetes
+C1445957,her cholesterol
+C0018799,heart disease
+C0004906,Vanceril
+C0024117,chronic obstructive pulmonary disease
+C0033687,proteinuria
+C0030600,a partial gastrectomy
+C0027651,a &quot; tumor &quot;
+C0003611,an appendectomy
+C0008320,cholecystectomy
+C0012265,Digoxin
+C0699992,Lasix
+C0004057,aspirin
+C0004906,Vanceril
+C3466236,Transdermal nitroglycerin
+C0018681,headache
+C0034107,Heart rate
+C0005824,blood pressure
+C1167958,Neck veins distended
+C0277909,Apical impulse
+C0232237,S3
+C0232275,opening snap
+C0442800,enlarged
+C0577835,Pulses
+C0013604,edema
+C0018935,Hematocrit
+C0202194,potassium
+C0005845,BUN
+C0201975,creatinine
+C0392201,blood sugar
+C0337449,Digoxin
+C1623258,Electrocardiogram
+C0004238,atrial fibrillation
+C0085612,moderate ventricular response
+C0262525,incomplete right bundle branch block
+C0232296,right axis deviation
+C0162770,right ventricular hypertrophy
+C0264702,apical infarction
+C0039985,Chest x-ray
+C0013604,interstitial edema
+C0018795,Cardiac catheterization
+C0009566,complication
+C0456165,Right atrial pressure
+C0040961,tricuspid regurgitation
+C0428900,tricuspid valve gradient
+C0428642,Pulmonary artery pressure
+C0034094,Pulmonary capillary wedge pressure
+C0428905,aortic valve gradient
+C0199630,Fich cardiac output
+C0428175,Arterial oxygen saturation
+C1287681,FVC
+C0429706,FEV1
+C3873910,a mechanical valve
+C0190173,valve replacement
+C3472620,commissurotomy
+C0014591,epistaxis
+C0014591,nasal hemorrhage
+C0699129,Coumadin
+C0184661,The procedure
+C0394033,the neuroradiology procedure
+C0699129,Coumadin
+C3472655,mitral commissurotomy
+C0035139,replacement
+C0396902,tricuspid annuloplasty
+C0699992,Lasix
+C0012265,Digoxin
+C0699992,Lasix
+C0004057,aspirin
+C0004906,Vanceril
+C0205191,chronic
+C0151636,ventricular ectopy
+C2945760,recurrent
+C0039070,syncope
+C0277926,Liver
+C0277926,pulsatile
+C0750482,slightly
+C1762617,weak
+C1706488,dorsalis pedis pulses
+C0522501,markedly
+C0205250,elevated
+C0547040,minimal
+C0919718,mitral valve calcification
+C0547040,minimal
+C0428791,aortic valve calcification
+C2945599,mild
+C0003504,aortic regurgitation
+C0522501,marked
+C0020461,hyperkalemia
+C0029163,bleeding from the mouth
+C0014591,bleeding from the
+C0014591,nose
+C0225883,Right ventricular
+C1720139,heave
+C0333164,narrowly
+C0425620,S2
+C0425620,physiologically split
+C0225811,apex
+C0232276,Diastolic rumble
+C0425698,varicose veins
+C0205124,Superficial
+C0700321,small
+C0747635,bilateral effusions
+C0205400,thickening
+C2945599,mild
+C0279033,replacement
+C0032821,Potassium
+C1268245,lower sternal border
+C0205091,left
+C0232257,systolic murmur
+C0232250,Grade II
+C0232250,murmur
+C1268245,lower sternal border
+C0205091,left
+C0232262,diastolic murmur
+C0232281,decrescendo
+C0232250,Grade II
+C0232250,murmur
+C0225860,left atrial
+C0225883,right ventricular
+C0034052,pulmonary arterial
+C2711450,enlargement
+C0450093,very large
+C0428901,mitral valve gradient
+C0026266,mitral regurgitation
+C0549177,large
+C0225860,left atrium
+C0524428,mid left anterior descending
+C0004153,atherosclerosis
+C2945599,mild
+C4302321,Room air
+C0150411,arterial blood gas
+C0449416,source
+C0019080,bleeding
+C0344093,interventional neuroradiology
+C0441597,occlusion
+C0232233,S2
+C0232233,accentuation
+C4304075,LEFT KNEE OSTEOARTHRITIS
+C2732757,LEFT TOTAL KNEE ARTHROPLASTY
+C0029408,osteoarthritis
+C2142181,left knee pain
+C0006856,a cane
+C0024485,MRI
+C0559036,degenerative meniscus
+C0234253,rest pain
+C0332218,difficulties
+C0032285,Pneumonia
+C0019158,Hepatitis
+C1279420,Anxiety neurosis
+C0013806,shock therapy
+C0404079,Total abdominal hysterectomy
+C0699142,Tylenol
+C0013085,DOXEPIN
+C0033774,ITCHING
+C0475091,her orthopaedic exam
+C0443344,valgus
+C0018935,a hematocrit
+C0202194,Potassium
+C0543467,surgery
+C1623258,Her EKG
+C2732757,a left total knee arthroplasty
+C0184661,the procedure
+C0179751,Her epidural catheter
+C0179802,The Foley catheter
+C0241705,difficulties voiding
+C4048284,benzodiazepines
+C0591585,Haldol
+C0085631,agitation
+C0007546,Kefzol
+C0699129,Coumadin
+C0475610,whiskey spirits
+C0018935,Her hematocrit
+C0033707,a PT
+C0033707,Her PT
+C0699129,Coumadin
+C0874799,Tylenol #3
+C0949766,Physical Therapy
+C0949766,Physical Therapy
+C0043016,a walker
+C0010397,crutches
+C0013604,edema
+C0043250,her wound
+C0029445,osteonecrotic defect
+C0582800,femoral condyle
+C0205091,left
+C0439608,elective
+C2732757,left total knee arthroplasty
+C0443344,valgus
+C1444783,instability
+C2937276,slight
+C0013687,effusion
+C2945599,mild
+C0180499,drains
+C0085631,agitated
+C0750482,slightly
+C0011854,INSULIN DEPENDENT DIABETES MELLITUS
+C2349195,ANTERIOR MYOCARDIAL INFARCTION
+C0034063,PULMONARY EDEMA
+C0020443,HYPERCHOLESTEROLEMIA
+C0340320,prior anterior myocardial infarction
+C0011854,insulin dependent diabetes mellitus
+C0034063,pulmonary edema
+C2349195,an acute anterior myocardial infarction
+C0042397,pressors
+C0018795,a cardiac catheterization
+C0340285,a three vessel coronary artery disease
+C1290385,an occluded RCA
+C0184666,this hospitalization
+C0232174,an ejection fraction
+C0232171,akinesis
+C1623258,an electrocardiogram
+C0008031,chest pain
+C0030252,palpitations
+C0700590,diaphoresis
+C0027497,nausea
+C0034063,pulmonary edema
+C0039985,chest x-ray
+C0445398,diuresed
+C0027051,myocardial infarction
+C1623258,His ECG
+C0583980,further management
+C0011854,Insulin dependent diabetes mellitus
+C0035309,retinopathy
+C2219978,foot lesions
+C0521707,Bilateral cataracts
+C0194907,an orchiopexy
+C0010417,undescended testicle
+C1956346,Coronary artery disease
+C0004057,Aspirin
+C0006938,Capoten
+C0021658,NPH insulin
+C0021641,Regular insulin
+C0074554,simvastatin
+C0012265,digoxin
+C0027051,myocardial infarction
+C0027051,a myocardial infarction
+C0204688,Temperature
+C0034107,heart rate
+C0005824,blood pressure
+C1443397,respiratory rate
+C0523807,an oxygen saturation
+C1167958,jugular venous distention
+C0004339,auscultation
+C0043144,wheezes
+C0034642,rales
+C0425641,extra heart sounds
+C0018808,murmurs
+C0013604,edema
+C0005845,BUN
+C0201975,creatinine
+C0023508,White count
+C0018935,hematocrit
+C0033707,PT
+C1254541,an INR
+C0030605,PTT
+C0039985,Chest x-ray
+C0332448,infiltrates
+C0034063,pulmonary edema
+C0042014,Urinalysis
+C1623258,Electrocardiogram
+C0583980,further management
+C0034063,his pulmonary edema
+C1956346,his coronary artery disease
+C0018795,cardiac catheterization
+C0018795,cardiac catheterization
+C0456165,an RA pressure
+C0456166,an RV pressure
+C0428642,PA pressure
+C0199668,wedge
+C0333183,an 80% stenosis
+C0028778,occluded
+CUI-less,left-to-left filling
+C0018795,this cardiac catheterization
+C0699992,Lasix
+C0445398,diuresis
+C0006938,his Captopril
+CUI-less,greater afterload reduction
+C0015260,an exercise tolerance test
+C0033325,viability evaluation
+C0581603,revascularization
+C0699129,Coumadin
+C3661817,his low ejection fraction
+C0445398,diuresis
+C0021658,Insulin NPH
+C0021641,insulin Regular
+C0004057,aspirin
+C0012265,digoxin
+C0074554,simvastatin
+C0006938,captopril
+C0699129,Coumadin
+C0699992,Lasix
+C0033707,his PT
+C1254541,INR
+C0202194,potassium
+C0013404,shortness of breath
+C1276802,acute
+C0009566,complications
+C0439064,multiple
+C0226033,proximal LAD
+C0205082,high grade
+C0221198,lesion
+C0226040,left circumflex
+C0226040,after the OM
+C0028778,occlusion
+C0226039,distal left circumflex
+C0013516,echocardiogram
+C0205168,thin
+C0459218,fibrotic septum
+C1299393,moderately severe
+C0232172,hypokinesis
+C1276802,acutely
+C0013404,short of breath
+C0022116,ischemic
+C0443172,changes
+C0205156,previous
+C1623258,ECG
+C0429059,flat T waves
+C0449216,aVL
+C0449212,I
+C0226040,OM
+C0549177,large
+C0226032,LAD
+C0699992,Lasix
+C2317349,IV
+C0549177,large
+C0428778,DT
+C0205156,previous
+C0007430,catheterization
+C0699992,Lasix
+C2316867,oral
+C1276413,medical regimen
+C0205217,augmented
+C0205250,high
+C0456165,right-sided filling pressure
+C0333183,50%
+C0333183,stenosis
+C0333182,100%
+C0333182,stenosis
+C0262581,No known drug allergies
+C0400979,BILIARY OBSTRUCTION
+C0149978,RECTAL CARCINOMA
+C0149750,PARTIAL COLECTOMY
+C0346974,METASTATIC COLON CARCINOMA
+C0020538,HYPERTENSION
+C0003507,AORTIC STENOSIS
+C1283190,PORCINE VALVE
+C0042029,URINARY TRACT INFECTION
+C0008311,CHOLANGITIS
+C0002871,ANEMIA
+C0346975,metastatic rectal cancer
+C0400979,biliary obstruction
+C0183512,biliary stents
+C0420266,further evaluation
+C0008310,endoscopic retrograde cholangiopancreatography
+C1285253,dilated ducts
+C0344093,interventional radiology
+C0005423,his biliary tree
+C0205191,a prolonged course
+C0007546,Ancef
+C3854019,Gentamicin
+C0282638,antibiotic prophylaxis
+C0701042,Cipro
+C0728763,Vasotec
+C0699790,colon carcinoma
+C0204688,Temperature
+C0005824,blood pressure
+C0034107,heart rate
+C1443397,respirations
+C0523807,02 sat
+C0004339,auscultation
+C0520960,nontender
+C0013604,edema
+C0031809,exam
+C0023508,White count
+C0018935,hematocrit
+C0201899,AST
+C0201836,ALT
+C0202113,LDH
+C0201913,Total bilirubin
+C0201916,direct bilirubin
+C0201850,Alkaline phosphatase
+C0003232,antibiotics
+CUI-less,bilious material
+C0000737,belly pain
+C0027497,nausea
+C0042963,vomiting
+C0199176,prophylaxis
+CUI-less,AH
+C0522523,percutaneous
+C0180499,drains
+C0332218,difficult
+C0184661,procedure
+C0205093,lateral
+C0522523,percutaneous
+C0180499,drains
+C0205090,right
+C0458345,sternal border
+C0085590,catheter
+C0549183,midline
+C0180499,drain
+C0205266,intact
+C0180499,drain
+C0701042,Cipro
+C2316867,p.o.
+C0038257,stent
+C0204977,home
+C0204977,care
+C0180499,drains
+C0232257,systolic murmur
+C0033213,problems
+CUI-less,no acute distress
+C0232250,II / VI
+C0232250,murmur
+C0024117,CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+C0024117,Chronic obstructive pulmonary disease
+C0086543,cataract
+C0029456,osteoporosis
+C0040997,trigeminal neuralgia
+C0024117,chronic obstructive pulmonary disease
+C0574066,progressive shortness of breath
+C0021925,intubated
+C0003948,asbestos exposure
+C0149796,tuberculosis exposure
+C0040997,trigeminal neuralgia
+C0016034,fibrocystic breast disease
+C0014175,endometriosis
+C0404079,total abdominal hysterectomy
+C0039644,Tetracycline
+C0014806,Erythromycin
+C0701198,declomycin
+C0013604,edema
+C0015230,rash
+C0030875,Talwin
+C0233407,disorientation
+C0426576,gastrointestinal symptoms
+C0699512,Dilantin
+C0015230,rash
+C0013604,edema
+C0026549,morphine
+C0033774,itching
+C0426576,gastrointestinal symptoms
+C0935966,Demerol
+C0030554,paresthesias
+C1272644,fibrocystic changes
+C0523891,Serum sodium
+C0202194,potassium
+C0201952,chloride
+C0201930,C02
+C0201925,calcium
+C0202178,phosphorus
+C0373675,Magnesium
+C0005845,BUN
+C0201975,creatinine
+C0337438,glucose
+C0202239,uric acid
+C1445957,Cholesterol
+C0202236,triglycerides
+C0392885,HDL
+C0202117,LDL
+C0555903,total protein
+C0877347,globulin
+C0201916,direct bilirubin
+C0201913,total bilirubin
+C0201850,alkaline phosphatase
+C0201883,amylase
+C0201973,CPK
+C0202123,The LH
+C0202022,FSH
+C0202230,TSH
+C0201968,cortisol
+C1278256,Urine cotenine
+C0337434,Estradialol
+C0023508,White blood count
+C0018935,hematocrit
+C0032181,platelet
+C0863148,mean corpuscular volume
+C0369183,MCH
+C0474535,MCHC
+C0033707,PT
+C0030605,PTT
+C0042014,Urinalysis
+C1176468,Sed rate
+C1294919,Varicella antibody
+C0430437,CMV antibody
+C0201666,toxo
+C0201405,RPR
+C0429706,FEV1
+C0430511,vital capacity
+C0040509,total lung capacity
+C2959886,Cardiopulmonary exercise study
+C0013516,Echocardiogram
+C0189898,A left and right heart catheterization
+C0085532,coronary angiogram
+C0456180,aortic
+C0445074,mean
+C0428642,PA
+C0445074,mean
+C0034094,PC
+C0456166,RV
+C0456165,RA
+C1293858,cardiac output
+C0428776,index
+C1258192,Systemic arterial resistance
+C1623258,The electrocardiogram
+C0520878,a short PR interval
+C1287073,delta wave
+C0429016,clockwise rotation present
+C0559313,ventilation to the left
+C0559314,ventilation to the right
+C0203464,Abdominal ultrasound
+C0459958,HIV testing
+C1445958,Hepatitis serologies
+C0029134,optic neuritis
+C0087111,treatment
+C0577887,sinus problems
+C0040997,the trigeminal pain
+C0037885,the sphenoid
+C2364135,the patient &apos;s discomfort
+CUI-less,the studies
+CUI-less,her routine care
+C1690487,her condition
+C0374711,surgical repair
+C0040997,trigeminal neuralgia
+C0201899,SGOT
+C0202113,LDH
+C0009566,complications
+C0038317,Steroid
+C0016034,fibrocystic breast disease
+C0205219,diffuse
+C0205082,severe
+C0034067,lobular emphysema
+C0024128,lung transplant
+C1293091,pre
+C1293091,transplant evaluation
+C0439857,dependent
+C0038317,steroid
+C0186321,shoulder surgery
+C0205091,left
+C0017189,gastrointestinal
+C0231199,intolerance
+C0205219,diffuse
+C0231875,expiratory wheezes
+C0439742,scattered
+C0577962,expiratory crackles
+C0202255,125 dihydroxy vitamin D levels
+C0373558,25 hydroxy vitamin D
+C0373558,levels
+C0199525,DLCO
+C0444438,single breath
+C0560738,VQ scan
+C0392762,quantitative
+C0031001,perfusion
+C0450424,to the left
+C0031001,perfusion
+C0546911,to the right
+C0521707,cataracts
+C2945599,mild
+C0038317,steroids
+C0205191,chronic
+C0344299,temporal disc pallor
+C0229089,OD
+CUI-less,subtle
+C0439557,acute
+C0420637,pathology
+C0154587,adjustment related anxiety
+C2945599,mild
+C0278061,MENTAL STATUS CHANGE
+C0007642,CELLULITIS
+C0278061,MENTAL STATUS CHANGES
+C0003507,AORTIC STENOSIS
+C0026266,MITRAL REGURGITATION
+C0085639,FALL
+C0007787,TRANSIENT ISCHEMIC ATTACK
+C0038454,CEREBROVASCULAR ACCIDENT
+C0004238,ATRIAL FIBRILLATION
+C0087111,treatment
+C2888111,a right lower extremity cellulitis
+C0282386,Levofloxacin
+C0034991,rehabilitation
+C0282386,Levofloxacin
+C0007642,the cellulitis
+C0683369,confused
+C3662017,combative
+C0013516,echocardiogram
+C0428898,a peak gradient
+C0003501,aortic valve area
+CUI-less,continuity equation
+C0018802,congestive heart failure
+C0026266,Mitral regurgitation
+C0013516,echocardiogram
+C0004238,atrial fibrillation
+C0007820,cerebrovascular disease
+C0020538,Hypertension
+C1956391,temporal arteritis
+C0009319,colitis
+C0012265,Digoxin
+C0699992,Lasix
+C0004057,Aspirin
+C0699129,Coumadin
+C0701383,Zaroxolyn
+C0032821,Potassium
+C0032952,Prednisone
+C0376569,Fosamax
+C0282386,Levofloxacin
+C0678129,Axid
+C0600122,Buspar
+C0162723,Zyrtec
+C0031809,Physical examination
+CUI-less,noxious stimuli
+C0150404,Vital signs
+C0034107,Heart rate
+C1443397,respiratory rate
+C0005824,blood pressure
+C0204688,temperature
+C0523807,oxygen saturation
+C0437951,Head and neck examination
+C0436149,Skin examination
+C0023223,a leg ulcer
+C0007642,cellulitis
+C0085666,spider angiomata
+C0018021,thyromegaly
+C0562319,The heart examination
+C0232237,S3
+C0439015,Vascular examination
+C0562238,Abdominal examination
+C0520960,non-tender
+C0577599,non-distended
+C4075263,organomegaly
+C1265602,masses
+C0436150,The patient &apos;s extremity examination
+C0027853,Neurological examination
+C0013216,medications
+C0030193,pain
+C1287940,Her deep tendon reflexes
+C0337443,Sodium
+C0202194,potassium
+C0201952,chloride
+C0005845,BUN
+C0201975,creatinine
+C0201899,AST
+C0201850,alkaline phosphatase
+C0201913,total bilirubin
+C0201838,albumin
+C0201925,calcium
+C0337449,Digoxin level
+C0018935,Hematocrit
+C0032181,platelet count
+C0023508,white blood cell count
+C0863148,MCV
+C0005790,Coagulation studies
+C0033707,PT
+C1254541,an INR
+C0030605,PTT
+C0332448,infiltrate
+C0018802,congestive heart failure
+C0202691,Head CT scan
+C0019080,bleed
+C0042014,Urinalysis
+C0680226,argumentative
+C0683369,confused
+C0027853,A neurologic work-up
+C0202691,a CT scan of the head
+C0333276,acute bleed
+C0037943,a lumbar puncture
+C0337438,a glucose
+C0202202,protein
+C0023508,white blood cell count
+C0014772,red blood cell count
+C0863146,xanthrochromasia
+C0085631,her agitation
+C0009450,infection
+C0025517,her metabolic condition
+C0027853,A neurological examination
+C0205161,abnormality
+C0011923,imaging
+C2711858,a head scan
+C0019080,bleed
+C0203145,a cervical spine series
+C0029408,degenerative joint disease
+C0420266,further testing
+C0412604,a neck CT scan
+C2888111,Right lower extremity cellulitis
+C0043250,the wound
+C0003232,antibiotics
+C0009450,infection
+C1960800,critical aortic stenosis
+C0026266,mitral regurgitation
+C0085639,fall
+C0202691,A head CT scan
+C0203145,cervical spine series
+C0521654,deficits
+C0004238,Atrial fibrillation
+C0699129,The patient &apos;s Coumadin
+C0311468,elevated bilirubins
+C0023901,These liver function tests
+C0004057,Aspirin
+C0012265,Digoxin
+C0699992,Lasix
+C0701383,Zaroxolyn
+C0032952,Prednisone
+C0699129,Coumadin
+C0032825,Kay Ciel
+C0376569,Fosamax
+C0002600,Amitriptyline
+C0600122,Buspar
+C0034991,rehabilitation
+C0043250,WOUND
+C0230415,RIGHT LOWER EXTREMITY
+C0007642,cellulitis
+C0332271,worsening
+C0205314,new
+C0683369,confusion
+C0003507,aortic stenosis
+C0205082,severe
+C0027324,Nafcillin
+C0332324,sensitive
+C0038172,Staphylococcus aureus
+C0027324,Nafcillin
+C0230415,right leg
+C0333229,fluid collection
+C2888111,cellulitis of the right leg
+C0003507,Aortic stenosis
+C0205082,severe
+C0205191,chronic
+C0038317,steroids
+C0016655,fractures
+C0223084,vertebral body
+C2723006,Toprol
+C0344106,sedation
+C0004339,auscultation
+C0238767,bilaterally
+C0277909,PMI
+C0443318,sustained
+C0007642,cellulitis
+C0205238,true
+C0003232,antibiotics
+C0439590,prolonged
+C0041834,erythema
+C0205161,Abnormal
+C0023901,liver function tests
+C0232174,ejection fraction
+C0444686,Calculated
+C0262581,no known drug allergies
+C0018808,cardiac murmurs
+C0041834,erythema
+C4302817,right calf
+C0041582,ulcer
+C0700321,small
+C0235195,sedated
+C0030193,painful
+C0234402,stimuli
+C0039985,chest x-ray
+C0457453,admission
+C0442822,trace
+C0239937,microscopic hematuria
+C0184661,procedures
+C0424350,uncooperative
+C0013216,medications
+C0439064,multiple
+C0016658,fracture
+C0151849,elevated alkaline phosphatase
+C2945599,mildly
+C1291022,high pitched murmur
+C1291034,blowing
+C1291034,murmur
+C0232258,holosystolic murmur
+C0232136,carotid impulses
+C0004611,bacteria
+CUI-less,near complete
+C0332465,obliteration
+C0577818,second heart sound
+C0008370,cholestatic
+C0700364,picture
+CUI-less,XL
+C0205392,some
+C0232250,two out of six
+C0232250,murmur
+CUI-less,quite
+C0205379,obvious
+C0205392,some
+C0007282,Carotid stenosis
+C0003507,Aortic stenosis
+C1956346,Coronary artery disease
+C0003507,aortic stenosis
+C0008031,chest pain
+C1261322,evaluation
+C0003506,aortic valve replace-ment
+C0577698,exertional angina
+C0008031,chest pain
+C0220870,light-headedness
+C0220870,light-headedness
+C0008031,chest pain
+C0220870,light-headedness
+C0013404,shortness of breath
+C0700590,diaphoresis
+C0027497,nausea
+C0042963,vomiting
+C0332189,the episodes
+C0030193,The pain
+C0220870,light-headedness
+C1261322,evaluation
+C0003506,aortic valve replacement
+C0020443,hypercholesterolemia
+C0020538,hypertension
+C0011849,diabetes
+C0003507,aortic stenosis
+C0013516,echocardiogram
+C0149721,left ventricular hypertrophy
+C0232174,ejection fraction
+C0428905,an aortic valve gradient
+C0042133,uterine fibroids
+C0404079,total abdominal hysterectomy
+C0017601,glaucoma
+C0020538,hypertension
+C0004057,aspirin
+C0031809,physical examination
+C0277797,afebrile
+C0005824,blood pressure
+C0034107,heart rate
+CUI-less,HEENT examination
+C1167958,JVD
+C0004339,auscultation
+C0562319,Cardiac examination
+C0232200,gallop
+C0520960,nontender
+C0149651,clubbing
+C0010520,cyanosis
+C0013604,edema
+C0577835,her peripheral pulses
+C0337443,Sodium
+C0202194,potassium
+C0005845,BUN
+C0201975,creatinine
+C0033707,PT
+C0030605,PTT
+C0023508,WBC
+C0018935,hematocrit
+C0032181,platelets
+C1623258,EKG
+C0149721,left ventricular hyper-trophy
+C0018795,cardiac catheterization
+C0202896,Carotid angiography
+C0003506,an aortic valve replacement
+C0182440,# 19 St. Jude valve
+C0010055,coronary artery bypass graft
+C0729538,saphenous vein graft
+C0184661,the procedure
+C2202995,her left upper extremity weakness
+C0040405,a CT scan
+C0021308,infarction
+C0004238,atrial fibrillation
+C0565959,a new event
+C2202995,the left upper extremity weakness
+C0002978,angiography
+C0003537,aphasia
+C0043016,a walker
+C0034991,her rehabilitation activities
+C0522794,heparin therapy
+C0003506,her aortic valve replacement
+C0034991,her rehabilitation
+C0700776,Lopressor
+C0028066,Nifedipine
+C1813619,Timoptic solution
+C0699129,Coumadin
+C0591585,Haldol
+C0085631,agitation
+C0683369,confusion
+C0033707,the patient &apos;s prothrombin time
+C0027530,neck
+C0460139,pressure
+C1455762,dull
+C0232167,heart wall motion
+C0205090,right
+C0205161,abnormali-ties
+C0007273,carotid disease
+C0205309,known
+C0238767,bilateral
+C0230420,legs
+C1456822,claudication
+C0013216,Medications
+C0457453,on admission
+C1813619,Timoptic solution
+C0003742,arcussenilis
+C0238767,bilateral
+C0007280,carotid bruits
+C0018808,murmur
+C0425548,transmitted
+C0429867,upstroke
+C0007272,carotid
+C0439834,slow
+C0205090,right
+C0232257,systolic murmur
+C1268243,upper sternal border
+C0205094,anterior
+C1287078,R-waves
+C0449258,progression
+C0542537,poor
+C0226037,left circumflex artery
+C0333183,70% stenosis
+C1283343,left anterior descending
+C0333183,50% stenosis
+C1261316,right coronary artery
+C0333183,10% stenosis
+C0226157,left internal carotid
+C0333183,stenosis of 90%
+C0226156,right internal carotid artery
+C1320736,critical
+C1261287,stenosis
+C0014099,carotid endarterectomy
+C0205090,right
+C0205392,some
+C2202995,left upper extremity weakness
+C0042373,vessel disease
+C0205219,diffuse
+C0700321,small
+C0205392,some
+C0230329,right upper
+C0230329,extremity
+C0230415,right lower extremity
+C0520966,discoordination
+C0205402,noted
+C2316391,drip
+C0019134,heparin
+C0159028,symptoms
+C0444532,right-sided
+C0205392,some
+C0332120,elements
+C0003537,aphasia
+C0750502,significant
+C1261287,stenosis
+C4303646,left carotid artery
+C0014099,carotid endarterectomy
+C0205091,left
+C0521654,deficit
+C1609982,residual
+C0205392,some
+C2202995,left upper extremity weakness
+C0699129,Coumadin
+C0150457,anticoagulation therapy
+C0238767,bilaterally
+C0238767,bilateral
+C0020502,HYPERPARATHYROIDISM
+C0020502,hyperparathyroidism
+C0026268,mitral valve replacement
+C0020538,hypertension
+C0004238,atrial fibrillation
+C0007194,hypertrophic obstructive cardiomyopathy
+C0029408,osteoarthritis
+C0017601,glaucoma
+C0011860,non-insulin dependent diabetes mellitus
+C0162522,laparoscopic cholecystectomy
+C0012358,dilation and curettage
+C2939459,cataract surgery
+C0079989,Parathyroidectomy
+C0020502,her hyperparathyroidism
+C0007194,hypertrophic obstructive cardiomyopathy
+C0026268,mitral valve replacement
+C0694539,chronic atrial fibrillation
+C0020538,hypertension
+C0079989,parathyroidectomy
+C2733087,replacement of her knees bilaterally
+C1293091,preoperative evaluation
+C0020437,a high calcium
+C0543467,the surgery
+C0420266,Further testing
+C0020502,hyperparathyroidism
+C0026268,mitral valve replacement
+C0182440,a St. Jude &apos;s mechanical valve
+C0699129,Coumadin
+C0020538,hypertension
+C0020538,hypertension
+C0004238,atrial fibrillation
+C0013778,cardioversion
+C0007194,hypertrophic obstructive cardiomyopathy
+C0029408,osteoarthritis
+C2733087,bilateral total knee replacements
+C0017601,glaucoma
+C0011860,non insulin dependent diabetes mellitus
+C0019360,shingles
+C0162522,laparoscopic cholecystectomy
+C0012358,dilation and curettage
+C0334108,polyps
+C2939459,cataract surgery
+C0700003,Lopid
+C0032825,K-Dur
+C0699992,Lasix
+C0699129,Coumadin
+C0162712,Norvasc
+C0012265,Digoxin
+C0700776,Lopressor
+C0701228,Glucotrol
+C0040235,Timoptic
+C1247518,Pilocarpine gel
+C0489633,The review of systems
+C0231807,dyspnea on exertion
+C0013404,shortness of breath
+C0013404,shortness of breath
+C0013404,short of breath
+C0031809,physical examination
+C0034107,Her pulse
+C0005824,blood pressure
+C0204688,temperature
+C1443397,respirations
+CUI-less,"The head , eyes , ears , nose and throat examination"
+C0436125,Cardiovascular exam
+C0425589,irregularly irregular rhythm
+C0199900,rectal examination
+C0023508,white blood count
+C0018935,hematocrit
+C0201992,electrolytes
+C0337438,glucose
+C0033707,prothrombin time
+C1254541,INR
+C0030605,partial thromboplastin time
+C1623258,The electrocardiogram
+C0004238,atrial fibrillation
+C0428978,slow ventricular response
+C0428959,digitalis effect
+C0149721,left ventricular hypertrophy
+C0559157,cardiac history
+C0231807,dyspnea on exertion
+C0020437,increased calcium
+C0020502,hyperparathyroidism
+C0079989,parathyroidectomy
+C0079989,parathyroidectomy
+C0001430,an adenoma
+C0443172,changes
+C0019134,heparin
+C0699129,Coumadin
+C0019134,her heparin
+C0202498,her Coumadin levels
+C0033707,the prothrombin time
+C1254541,INR
+C0151786,muscular weakness
+C0201927,An ionized calcium
+CUI-less,Os-Cal
+C0201927,her ionized calcium
+CUI-less,her Os-Cal
+C0006699,calcium gluconate
+C1254541,an INR
+C0033707,a prothrombin time
+C0201925,Her calcium
+C0201838,albumin
+C0523826,phosphate
+C0201927,the ionized calcium
+C0699129,Coumadin
+C0700003,Lopid
+C0032825,K-Dur
+CUI-less,Os-Cal
+C0592076,Rocaltrol
+C0699992,Lasix
+C0162712,Norvasc
+C0012265,Digoxin
+C0700776,Lopressor
+C0701228,Glucotrol
+C0033707,her prothrombin time
+C1254541,INR
+C1304279,cheek basal cell carcinoma
+C0205090,right
+C0205091,left
+C0405352,breast biopsy
+C0543467,surgical
+C1261322,evaluation
+C0202159,PTH
+C0205250,elevated
+C0027530,neck
+C1265602,masses
+C0019825,hoarseness in her voice
+C0205246,generalized
+C0205392,some
+C0011168,dysphagia
+C0205392,some
+C0011168,difficulties with swallowing
+C0205090,right
+C1304279,cheek basal cell carcinoma
+C0205091,left
+C0405352,breast biopsy
+C0262581,No known drug allergies
+C0030517,parathyroid
+C0030517,diseases
+C0040128,thyroid diseases
+CUI-less,no acute distress
+C0205271,irregular
+C0205284,border
+C0558347,revision
+C2939459,cataract surgery
+C0425643,systolic click
+C0442800,enlarged
+C0522501,markedly
+C0205392,some
+C0239836,tingling in her hands
+C0205392,some
+C0030554,tingling
+C0230028,perioral region
+C0201927,ionized calcium
+C0205216,decreased
+C0016129,fingers
+C0030554,tingling
+C0523826,phosphate levels
+C0201925,calcium
+C0201925,levels
+C0201838,albumin
+C0201838,levels
+C1720707,pupils
+C1720707,very sluggishly reactive
+C1140680,Ovarian cancer
+C0020538,Hypertension
+C0004096,asthma
+C0028754,obesity
+C0018808,heart murmur
+C0019112,hemorrhoids
+C0043167,whooping cough
+C0404079,Total abdominal hysterectomy
+C0195495,bilateral salpingooophorectomy
+C0198614,omentectomy
+C0015252,removal
+C0577559,mass
+C0042023,urinary frequency
+C0011991,diarrhea
+C0200044,gynecologic care
+C0278028,urinary symptoms
+C0203475,a pelvic ultrasound
+C0024485,MRI
+C0020538,Hypertension
+C0004096,asthma
+C3536597,hospitalizations
+C0028754,obesity
+C0018808,heart murmur
+C0019112,hemorrhoids
+C0043167,whooping cough
+C0040423,Tonsillectomy
+C0015252,removal
+C0022650,a renal calculus
+C0008320,cholecystectomy
+C1384606,dyspareunia
+C0024671,a mammogram
+C0722805,Prinzide
+C0354688,albuterol inhaler
+C0935966,Demerol
+C0041582,ulceration
+C0021492,IM injection
+C0016470,food allergies
+C0236071,throat constriction
+C0007102,colon cancer
+C0455052,bowel preparation
+C0543467,the surgery
+C0404079,atotal abdominal hysterectomy
+C0195495,bilateral salpingooophorectomy
+C0198614,omentectomy
+C0015252,removal
+C0577559,mass
+C0200739,the frozen section
+C0543467,the surgery
+C0018935,a hematocrit
+C0028961,low urine output
+C2316467,packed red blood cell
+C2919339,Her urine output
+C0009566,any complications
+C0430404,the patient &apos;s urine culture
+C0282386,Levofloxacin
+C1970989,her Foley
+C1275732,a port
+C0013404,shortness of breath
+C0039985,Achest x-ray
+C0034063,pulmonary edema
+C0277797,afebrile
+C0150404,her vital signs
+C2919339,urine output
+C0027497,nausea
+C0206046,Zofran
+C0085678,a nasogastric tube
+C0005388,bilious fluid
+C0085678,nasogastric tube
+C0013404,dyspnea
+C0004144,atelectasis
+C0032285,pneumonia
+C0282386,Her levofloxacin
+C0085678,a nasogastric
+C0740057,Decadron
+C3665472,her chemotherapy
+C0009566,complication
+C1272738,her JP drain
+C0728755,Dilaudid
+C0030193,pain
+C0699194,Ativan
+C0003467,anxiety
+C0206046,Zofran
+C0027497,nausea
+C0701017,Compazine
+C0027497,nausea
+C0740057,Decadron
+C3665472,chemotherapy
+C0282139,Colace
+C0354688,Albuterol inhalers
+C0043144,wheezing
+C0543467,her surgery
+C0015252,removal
+C0492746,her retention sutures
+C0012826,lysis of adhesions
+C0012826,lysis of adhesions
+C0024203,lymph node dissection
+C0238767,bilateral
+C0000731,abdominal distention
+C0205329,progressive
+C0000737,abdominal pain
+C1446787,crampy
+C0000726,abdominal
+C0017168,GERD
+C0205231,extensive
+C1704353,fluid
+C0577559,mass
+C2963144,clear
+C0549177,large
+C0685931,fluid filled abdomen
+C0205345,relatively
+C0700321,small
+C0577559,mass
+C0205250,elevated
+C0201549,CA 125
+C0085105,breast self examination
+C0205272,regular
+C0013404,shortness of breath
+C0205392,some
+C0238767,bilateral
+C0024203,node dissection
+C0001418,adenocarcinoma
+C0205617,poorly differentiated
+C0346161,carcinoma of the ovary
+C0440743,serous
+C0014834,E. coli
+C0205081,moderate
+C0032227,pleural effusion
+C0205091,left
+C0032227,pleural effusion
+C0205090,right
+C0700321,small
+C0702116,consolidations
+C1261077,left lower lobe
+C0042963,emesis
+C0205392,some
+C0564405,relief
+C0205341,repeat
+C0039985,chest x-ray
+C0032227,pleural effusion
+C0549178,persistent
+CUI-less,trials
+C1444194,clamping
+C0085678,nasogastric tube
+C0205250,high
+C1609982,residuals
+C0079083,Carboplatin
+C0144576,Taxol
+C3665472,chemo therapy
+C3665472,chemotherapy
+C1272171,next
+C0004096,asthma
+C0159028,symptoms
+C0017152,gastritis
+C0002645,AMOXICILLIN
+C0079488,H.Pylori
+C0055856,CLARITHROMYCIN
+C0074554,SIMVASTATIN
+C0055856,CLARITHROMYCIN
+C0074554,SIMVASTATIN
+C0055856,CLARITHROMYCIN
+C0020261,HYDROCHLOROTHIAZIDE
+C3207261,CLARITHROMYCIN PO
+C0074554,SIMVASTATIN
+C0055856,CLARITHROMYCIN
+C0074554,SIMVASTATIN
+C0055856,CLARITHROMYCIN
+C0937846,ESOMEPRAZOLE
+C0086787,PERCOCET
+C0065374,LISINOPRIL
+C0004147,ATENOLOL
+C0017152,Gastritis
+C0017152,gastritis
+C0028754,Obesity
+C0020538,HTN
+C0020443,High Cholesterol
+C1956346,CAD
+C0015260,ETT
+C0022116,ischemia
+C0013516,ECHO
+C3466369,sl ntg
+C0203065,Barium Swallow
+C0203057,UGI
+C0024485,MRI
+C0203762,HIDA
+C0040405,CT
+C0585179,Roux en Y GBP
+C0030193,this pain
+C0259901,GI
+C0030193,the pain
+C0030193,Her pain
+C0042963,emesis
+C0085594,fever/chills
+C0013404,sob
+C0079304,EGD
+C0017152,gastritis
+C1261287,stricture
+C0041582,ulcer
+C1299597,empiric treatment
+C3241940,roux en y anastamosis
+C0203762,HIDA scan
+C0028778,obstruction
+C0040405,CT
+C0420266,further workup
+C1960724,post prandial pain
+C0412403,HIDA with CK challenge
+C0005416,biliary dyskinesia
+C0015967,fevers
+C0085593,chills
+C0027497,nausea
+C0042963,vomiting
+C0011991,diarrhea
+C1261322,evaluation
+C0243032,MRA
+C0412403,HIDA with CCK challenge
+C0003232,the antibiotics
+C0079488,H. Pylori
+C0079488,h.pylori
+C0087111,tx
+C0032825,POTASSIUM CHLORIDE
+C0032825,KCL
+C0085934,WELLBUTRIN
+C0700563,BUPROPION HCL
+C0079488,H. Pylori
+C0087111,tx
+C0009924,Contrast
+C2317349,IV
+C0205307,nl
+C0015260,ETT
+C0022116,ische
+CUI-less,ND
+C1299393,mod severe
+C0232493,epigastric pain
+C0444598,mid
+C0027497,nausea
+C0036239,satiety
+C0205267,intermittent
+C0376674,post-prandial
+C0002423,outpt
+C0079304,EGD
+C0018932,BRBPR
+C0025222,melena
+C0079488,H. Pylori
+C1446409,positive
+C0002423,outpatient
+C0243032,MRA
+C0079488,H. pylori
+C0087111,treatment
+C0442808,increasing
+C1960724,pain with food
+C0678181,ZOCOR
+C0074554,SIMVASTATIN
+C0591301,COZAAR
+C0126174,LOSARTAN
+C0678180,LAMICTAL
+C0064636,LAMOTRIGINE
+CUI-less,SLOW REL.
+CUI-less,SLOW RELEASE
+CUI-less,SR
+CUI-less,SUSTAINED RELEASE
+C0730607,Severe chronic obstructive pulmonary disease
+C1145670,Respiratory failure
+C0018802,Congestive heart failure
+C0585105,Right lower lobe pneumonia
+C0403645,Atonic bladder
+C0150798,suprapubic catheter
+C0003467,Anxiety
+C1956346,Coronary artery disease
+C0007102,colon cancer
+C0149750,hemicolectomy
+C0730607,severe chronic obstructive pulmonary disease
+C0035229,respiratory insuffiencey
+C0032285,pneumonia
+C2364135,discomfort
+C0150798,his suprapubic catheter
+C2364135,discomfort
+C0085590,his catheter
+C0574066,increasing shortness of breath
+C0683369,confused
+C0233407,disoriented
+C0013404,shortness of breath
+C0015967,fevers
+C0085593,chills
+C0038056,sputum
+C0008031,chest pain
+C0085619,orthopnea
+C1956415,paroxysmal nocturnal dyspnea
+C0428168,P02
+C0428189,PC02
+C0202165,PH
+C0035239,respiratory therapy
+C0199447,nebulizer treatments
+C0021925,intubation
+C1299376,nasal oxygen
+C0563322,intravenous steroids
+C0559680,intravenous antibiotics
+C0039985,A chest x-ray
+C0039985,his chest x-ray
+C0032285,pneumonia
+CUI-less,Associated medical problems
+C0403645,Atonic bladder
+C0150798,a suprapubic tube
+C0003467,Anxiety
+C1956346,Coronary artery disease
+C0002962,angina
+C0007102,colon cancer
+C0009274,a colectomy
+C0699194,Ativan
+C0592218,Trusopt
+C0593887,Xalatan
+C0525227,Brimonidine
+C0591282,Combivent
+C0060501,Aerobid
+C0037688,Sorbitol
+C0005824,a blood pressure
+C0034107,heart rate
+C1443397,respiratory rate
+C0204688,His temperature
+CUI-less,"head , eyes , ears , nose and throat exam"
+C1167958,jugular venous distention
+C1265602,masses
+C0436121,Lung exam
+C0238844,decreased breath sounds
+C0240859,crackles in the bases
+C0043144,wheezes
+C0035508,rhonchi
+C0562319,Heart exam
+C0018808,murmur
+C0232237,S3
+C0520960,nontender
+C0746412,masses palpable
+C0199900,Rectal exam
+C2711635,stool heme
+C0027853,Neurological exam
+C1287940,Deep tendon reflexes
+C0337443,Sodium
+C0202194,potassium
+C0337438,glucose
+C0428168,P02
+C0428189,PC02
+C0202165,PH
+C0005845,Blood urea nitrogen
+C0201975,creatinine
+C0202239,uric acid
+C0201850,alkaline phosphatase
+C0018935,hematocrit
+C0023508,white blood cell count
+C0042014,Urine analysis
+C0023508,white blood cells
+C0014772,red blood cells
+C1623258,Electrocardiogram
+C0039239,sinus tachycardia
+C0199447,nebulizer treatments
+C0001927,Albuterol
+C0854248,gram negative pneumonia
+C2919339,urine output
+C0087111,his treatment
+C0199447,nebulizer treatments
+C0559680,intravenous antibiotics
+C0445398,the patient &apos;s diuresis
+C1287398,his respiratory status
+C0039985,A chest x-ray
+C1265876,the opacities
+C0039985,the chest x-ray
+C0034063,pulmonary edema
+C0003232,antibiotics
+C0032285,pneumonia
+C0003232,The antibiotic
+C0721336,Levaquin
+C0040193,The Ticarcillin
+C1287398,The patient &apos;s respiratory status
+C1287398,his respiratory status
+C0699992,Lasix
+C0008783,Cimetidine
+C0199176,prophylaxis
+C0030920,peptic ulcer disease
+C0700777,Prilosec
+C0017152,gastritis
+C0017168,gastroesophageal reflux disease
+C0027497,nausea
+C0042963,vomiting
+C0017181,gastrointestinal bleeding
+C0000737,The patient &apos;s abdominal pain
+C0700777,Prilosec
+C0949766,physical therapy
+C3845566,a rehab facility
+C0730607,severe chronic obstructive pulmonary disease
+C3845566,a rehab facility
+C0949766,Physical Therapy
+C0001927,Albuterol
+C0019134,Heparin
+C0699194,Ativan
+C1299376,Nasal oxygen
+C0721336,Levaquin
+C0699992,Lasix
+C0032952,Prednisone
+C3240053,Xalatan eyedrops
+C0594452,Alphagan
+C0592218,Trusopt
+C0700777,Prilosec
+C2937276,slight
+C0013404,shortness of breath
+C0332185,recent
+C0041912,upper respiratory infections
+C0443172,change
+C0010200,cough
+C0205081,moderate
+C0476273,respiratory distress
+C0205265,initial
+C0005800,blood gases
+C0549178,continuous
+C0035239,respiratory therapy
+C0205081,moderate
+C0476273,respiratory distress
+C0205081,moderate
+C0476273,respiratory distress
+C0205156,previous
+C1623258,electrocardiogram
+C0750502,significant
+C0443172,changes
+C2317349,intravenous
+C0040193,Ticarcillin
+C2317349,intravenous
+C0699992,Lasix
+C2317349,intravenous
+C0701466,Solu-Medrol
+C0205392,some
+C0205161,abnormality
+C1261075,right lower lobe
+C0205404,serious
+C0032285,pneumonia
+C2945599,mild
+C1291078,epigastric discomfort
+C0549178,continued
+C0035239,respiratory therapy
+C0445115,normal saline
+C0150798,suprapubic catheter
+C0205146,area
+C0449652,site of the catheter
+C0019080,blood
+C0205392,some
+C0013216,medications
+CUI-less,usual
+C0442519,at home
+C1299376,nasal oxygen
+C0030054,02
+C0001927,Albuterol
+C2919541,nebulizers
+C0205314,new
+C0443172,changes
+C0013990,emphysema
+C0238767,bilateral
+C0205082,severe
+CUI-less,usual
+C0577703,scarring
+C0577703,lungs
+C0225754,both lungs
+C0577915,air space opacifications
+C0205314,new
+C0225731,left apex
+C1261075,right lower lobe
+C0034063,pulmonary edema
+C0332514,asymmetric
+C0027530,Neck
+C0031809,exam
+C0030054,02
+C1621940,creatinine phosphokinase isoenzymes
+C0442811,too low
+C0443162,brisk
+C0445398,diuresis
+C0004238,FIBRILLATION . Uns
+C0004238,ASSOCIATED DIAGNOS
+C0342208,istory of hypertens
+C0020538,of subtotal
+C0193790,. PRINCIPAL PROCEDURE
+C0542380,. HISTORY OF PRESENT ILL
+C0033497,rocainamide
+C0034414,Tenormin
+C0033216,"orpace , Cor"
+C0592168,"d , and"
+C0701129,cainide
+C0591292,re used
+C0016229,were stopp
+C0231199,", she had c"
+C0085532,ejection fraction gr
+C0232174,than 50% . She did
+C0003195,ctober of this year w
+C0424551,. She was started on Coumadi
+C0699129,mpt at D
+C0542380,11/16/96 . She has been on
+C0699129,d to hav
+C0522052,d shortness of breath .
+C0020538,r ; subtotal
+C0342208,yroidectomy . MEDIC
+C0193790,ONS : Include Cardizem
+C0700579,10 mg dail
+C0728957,mg daily
+C0012265,mg eve
+C0699992,GIES
+C0034414,ibiotics
+C0700861,HYSICAL E
+C0599503,ION : On examinat
+C0031809,0 ; heart r
+C0005824,120 per minut
+C0034107,illation )
+C0004238,noted to be anxiou
+C0003467,ion or
+C1167958,Heart sounds were no
+C0007280,. The lungs w
+C0562238,was no peripheral edema
+C0085649,pable . LABORATO
+C0430456,lation with a QT interval o
+C0004238,conds . There were
+C0009555,eatinine were within n
+C0201992,al limits .
+C0005845,wa
+C0201975,vated at 2
+C1254541,for
+C0013516,etely normal left
+C0149721,"ertrophy , which had been an"
+C0013516,96 . HOSPITAL COU
+C0033429,ttempt at e
+C0542380,"is failed , despite one"
+C0033429,Amiodarone
+C0002598,ys . The p
+C0002598,showed no
+C1623258,"prior to discharge ,"
+C0151878,tests will be
+C0024119,nt goes home today . The
+C0542380,r Coumadin until then an
+C0002598,rangements
+C0699129,e made t
+C0002598,cations .
+C0332183,lar cont
+C0151636,actions and infrequent short runs
+C2945599,MED
+C0013404,CAL HISTORY : Inclu
+C0457453,A RHALTKA
+C0013216,ISPEHBREUN
+C2919575,achycardia ( one four-beat run ) in 1
+C0521114,n-sustaine
+C1272706,icul
+C1806781,vent
+C1142306,pid ventricular rate after several days of decrea
+C0438167,complete blood coun
+C0232326,nonspecifi
+C0232326,te blood coun
+C0205219,ch were
+C0442887,been raised on an
+C0332514,ue that ha
+C0007102,Colon cancer
+C0012813,diverticulitis
+C0008320,cholecystectomy
+C0003611,appendectomy
+C0020538,hypertension
+C0192863,Transverse colectomy
+C0027651,tumor
+C0012813,diverticulitis
+C0007102,colon cancer
+C0009378,colonoscopy
+C1291077,bloating
+C0016204,flatulence
+C0011991,diarrhea
+C1262477,weight loss
+C0008320,Cholecystectomy
+C0009378,colonoscopy
+C0040423,tonsillectomy
+C0003611,appendectomy
+C1384485,NSVD
+C0020538,hypertension
+C3239607,Premarin vaginal
+C0014025,enalapril
+C0699142,Tylenol
+C0042890,vitamins
+C0733624,Halcion
+C0031809,exam
+C0277797,afebrile
+C0150404,Her vital signs
+C0034107,heart rate
+C0523807,oxygen saturation
+C0004339,auscultation
+C0018808,murmurs
+C0232267,rubs
+C0232200,gallops
+C0520960,nontender
+C0577599,nondistended
+C0013604,edema
+C0543467,surgery
+C0192863,transverse colectomy
+C0027651,tumor
+C0184661,the procedure
+C0009566,complications
+C0812144,an epidural
+C0078944,PCA
+C1304888,pain control
+C0419179,NPO
+C2184084,clear liquids
+C0002771,her pain medication
+CUI-less,blood pressure control
+C0025859,metoprolol
+C0014025,enalapril
+C0949766,physical therapy
+C0030193,pain
+C0699142,Tylenol
+C0030193,pain
+C0025859,Metoprolol
+C0699203,Motrin
+C0030193,pain
+C0733624,Halcion
+C0591416,Dulcolax
+C0009806,constipation
+C3489575,Senna
+CUI-less,fever greater than 101
+C3698418,bleeding from the surgical wounds
+C0558149,pus from the wounds
+C0025859,metoprolol
+CUI-less,blood pressure control
+C0003015,her ACE inhibitor
+C0001418,adenocarcinoma
+C0205281,invasive
+C0205616,moderately differentiated
+C0015672,fatigue
+C0205217,increased
+C0205392,some
+C2364135,discomfort
+C0230180,left lower abdomen
+C0230366,left wrist
+C1297885,ORIF
+C0198010,ear surgery
+C0262581,No known drug allergies
+C0005824,blood pressure
+C1290922,Baseline
+CUI-less,no acute distress
+C0032790,post surgical
+C0301569,soft diet
+C2316867,oral
+C0002771,pain medications
+C0229299,left ear
+C2316867,p.o.
+C0002771,pain regimen
