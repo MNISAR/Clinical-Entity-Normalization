@@ -32,21 +32,19 @@ def get_st(tgt=get_tgt()):
     params = {'service': service}
     h = {"Content-type": "application/x-www-form-urlencoded", "Accept": "text/plain", "User-Agent":"python" }
     r = requests.post(tgt, data=params, headers=h)
-    if r.status_code == 403:
+    if r.status_code == 403 or r.text=='':
         tgt = get_tgt(UMLS_API_KEY)
         st = get_st(tgt)
     else:        
         st = r.text
     return st
 
-def find_mention_in_UMLS_perfect_name(mention):
+def find_mention_in_UMLS_perfect_name(mention, st = get_st()):
     """
     This method will call the UMLS and search for mention using perfect search and return a list of dictionaries with mention and corresponding CUI
 
     return: list of dict({mention, CUI})
     """
-
-    st = get_st()
     version = "current"
     uri = "https://uts-ws.nlm.nih.gov"
     content_endpoint = "/rest/search/"+version
@@ -74,13 +72,12 @@ def find_mention_in_UMLS_perfect_name(mention):
                 results.append(d)
     return results
 
-def find_mention_in_UMLS_partial_name(mention):
+def find_mention_in_UMLS_partial_name(mention, st = get_st()):
     """
     Similar to above method, but the result include partial mane matches as well.
 
     return: list of dict({mention, CUI})
     """
-    st = get_st()
     version = "current"
     uri = "https://uts-ws.nlm.nih.gov"
     content_endpoint = "/rest/search/"+version
