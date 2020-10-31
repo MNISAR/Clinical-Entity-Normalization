@@ -5,7 +5,7 @@ from tqdm import tqdm
 import pandas as pd
 
 # load training data
-train_data, CUI, iCUI = reading_files("C:/Users/monil/Desktop/BMI 598 - NLP/Project/Clinical-Entity-Normalization/train")
+train_data, CUI, iCUI = reading_files("./train")
 train_df = create_dataset(train_data)
 ### removing CUIs from dataset that have only one mentions
 train_single_cui = []
@@ -15,7 +15,7 @@ for cui, mention in CUI.items():
 
 
 # load test data
-test_data, _ = reading_files_test("C:/Users/monil/Desktop/BMI 598 - NLP/Project/Clinical-Entity-Normalization/testing")
+test_data, _ = reading_files_test("./testing")
 test_df = create_dataset(test_data)
 
 def fill_test_data(test_df, iCUI, num):
