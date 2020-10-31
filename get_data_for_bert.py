@@ -19,14 +19,11 @@ test_data, _ = reading_files_test("C:/Users/monil/Desktop/BMI 598 - NLP/Project/
 test_df = create_dataset(test_data)
 
 def fill_test_data(test_df, iCUI, num):
-    test_df['prediction'] = None
-    test_df['prediction_source'] = None
+    test_df.at[:, 'prediction'] = None
+    test_df.at[:, 'prediction_source'] = None
     for i in tqdm(test_df.index, desc=str(num)):
         tgt = get_tgt()
         st = get_st(tgt)
-        # if i%50 == 0 and i != 0:
-        #     print(test_df.groupby(by='prediction_source', as_index=False).count()[['prediction_source', 'cui']])
-        #     test_df[i-50:i].to_csv('my_csv.csv', mode='a', header=False)
         mention = test_df.loc[i]['mention']
         if mention in iCUI:   # iterating train data
             if 'CUI-less' in iCUI[mention]:
@@ -53,7 +50,7 @@ def fill_test_data(test_df, iCUI, num):
     return test_df  
 
 import concurrent.futures
-num_threads = 20
+num_threads = 15
 len_df = int(len(test_df) / num_threads)
 
 test_df_results = []
